@@ -1,0 +1,13 @@
+Ex.1 - Compilar sum_v1.c com a linha gcc sum_v1.c -o somar e executar o excutável criado (somar).
+
+Ex.2 - Utilizar as diferentes flags -E -S -c explicando o que ocorre em cada uma:
+		-E - Ocorre print das instruções de pré-processamento de sum_v1.
+		-S - É criado um ficheiro sum_v1.s que contém o código em linguagem Assembly do programa sum_v1.
+		-c - É criado um ficheiro sum_v1.o que contém o código máquina do programa sum_v1.
+
+Ex.3 - Efetuando a modificaçao do ficheiro sum_v1.s que está em código Assembly e alterando addu para subu, compilando o programa e por fim executando-o 
+	é observado que agora o programa passa a subtrair os dois números inseridos e não somá-los como era previsto.
+
+Ex.5 - A única diferença entre os programas é que se cria uma segunda função fora do main para efetuar a soma.
+
+Não tive tempo acabar último exercício mas irei acabar no meu tempo livre antes da próxima aula.

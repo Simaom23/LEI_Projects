@@ -1,0 +1,26 @@
+.data 
+numA: .word 2
+numB: .word 3
+numC: .word 0
+.text
+la $t0,numA
+la $t1,numB
+la $t2,numC
+lw $a1,0($t0)
+lw $a2,0($t1)
+lw $a3,0($t2)
+jal valor_absoluto
+
+add $a0,$a0,$a3
+
+print:
+	li $v0,36
+	syscall
+	
+finish: 
+	li $v0,10
+	syscall
+	
+valor_absoluto:
+	sub $a3,$a1,$a2
+	jr $ra 

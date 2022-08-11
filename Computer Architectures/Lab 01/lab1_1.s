@@ -1,0 +1,10 @@
+li $t9,5
+li $k0,3
+sub $s1,$t9,$0
+add $s2,$k0,$0
+sub $s3,$s1,$s2
+add $s4,$s2,$s3
+sub $s5,$s3,$s4
+add $s6,$s4,$s5
+sub $s7,$s5,$s6
+add $t8,$s6,$s7
