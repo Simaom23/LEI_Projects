@@ -1,0 +1,10000 @@
+ACRESCENTA Tomás Tuberculose 28/3/2051
+ACRESCENTA Aparicio Prolapse 14/3/2032
+ACRESCENTA Marta Covid 2/1/2055
+ACRESCENTA Maria Enfarte 8/2/2092
+ACRESCENTA António Tuberculose 1/12/2047
+ACRESCENTA João Anemia 1/9/2029
+ACRESCENTA André Anemia 29/11/2053
+ACRESCENTA Josefina Enfarte 2/2/2040
+ACRESCENTA Matilde Cancro 8/4/2096
+ACRESCENTA Bernardo Anemia 17/7/2025
+ACRESCENTA António HepatiteTóxica 5/7/2047
+ACRESCENTA Henrique Leishnein 21/12/2073
+ACRESCENTA António Leishnein 24/4/2025
+ACRESCENTA Tomás Prolapse 3/6/2042
+ACRESCENTA Matilde HepatiteTóxica 19/8/2084
+ACRESCENTA Alexandre Polio 27/1/2097
+ACRESCENTA Carlos Tuberculose 27/5/2055
+ACRESCENTA Carlos HepatiteTóxica 29/4/2025
+ACRESCENTA Aparicio HepatiteTóxica 16/10/2052
+ACRESCENTA Joana Leishnein 27/2/2044
+ACRESCENTA Maria Covid 16/4/2060
+ACRESCENTA Matilde Polio 1/11/2096
+ACRESCENTA Josefina HepatiteTóxica 12/4/2031
+ACRESCENTA Madalena HepatiteTóxica 20/6/2095
+ACRESCENTA Simão Covid 14/11/2073
+ACRESCENTA Adriana Tuberculose 21/7/2028
+ACRESCENTA Adriana Anemia 20/5/2040
+ACRESCENTA Henrique Prolapse 15/5/2067
+ACRESCENTA Alexandre Tuberculose 20/12/2042
+ACRESCENTA Aparicio Cancro 6/1/2100
+ACRESCENTA Adriana Anemia 12/12/2072
+ACRESCENTA Tomás Anemia 15/4/2075
+ACRESCENTA Alexandre Polio 21/11/2065
+ACRESCENTA Simão HepatiteTóxica 20/12/2063
+ACRESCENTA Madalena Anemia 26/5/2081
+ACRESCENTA Marta Covid 6/6/2064
+ACRESCENTA António Prolapse 8/7/2052
+ACRESCENTA Maria Polio 12/1/2096
+ACRESCENTA Bernardo Enfarte 17/2/2057
+ACRESCENTA Tomás HepatiteTóxica 7/12/2064
+ACRESCENTA Alexandre HepatiteTóxica 22/12/2089
+ACRESCENTA Bernardo Tuberculose 5/10/2099
+ACRESCENTA Simão Leishnein 9/7/2071
+ACRESCENTA Madalena Anemia 1/8/2090
+ACRESCENTA Aparicio HepatiteTóxica 25/12/2033
+ACRESCENTA Adriana Tuberculose 10/5/2045
+ACRESCENTA Josefina HepatiteTóxica 18/10/2060
+ACRESCENTA Henrique Polio 1/2/2087
+ACRESCENTA Henrique Covid 1/4/2079
+ACRESCENTA António Polio 29/5/2049
+ACRESCENTA Carlos Anemia 27/2/2097
+ACRESCENTA Adriana Cancro 21/12/2059
+ACRESCENTA Henrique Anemia 23/12/2025
+ACRESCENTA Maria Prolapse 21/5/2044
+ACRESCENTA Carlos Polio 29/3/2036
+ACRESCENTA André Leishnein 26/7/2033
+ACRESCENTA André Covid 11/10/2075
+ACRESCENTA João Prolapse 9/10/2030
+ACRESCENTA Carolina Leishnein 12/5/2029
+ACRESCENTA Joana Tuberculose 14/3/2093
+ACRESCENTA Alexandre Polio 27/1/2050
+ACRESCENTA Simão Leishnein 22/5/2058
+ACRESCENTA Simão Prolapse 26/7/2092
+ACRESCENTA João Covid 7/10/2094
+ACRESCENTA Maria Anemia 23/1/2060
+ACRESCENTA Carlos Prolapse 12/10/2025
+ACRESCENTA Henrique Cancro 16/6/2052
+ACRESCENTA João Cancro 23/7/2070
+ACRESCENTA Alexandre Polio 16/7/2030
+ACRESCENTA Marta Cancro 2/3/2041
+ACRESCENTA Alexandre Enfarte 18/2/2100
+ACRESCENTA Simão Polio 4/1/2086
+ACRESCENTA Carlos Polio 3/11/2071
+ACRESCENTA Madalena Cancro 23/12/2036
+ACRESCENTA António Enfarte 28/4/2061
+ACRESCENTA Joana Anemia 31/3/2052
+ACRESCENTA Bernardo Cancro 11/3/2046
+ACRESCENTA António HepatiteTóxica 4/7/2025
+ACRESCENTA António Tuberculose 3/8/2062
+ACRESCENTA Josefina Enfarte 20/5/2091
+ACRESCENTA Simão Tuberculose 6/10/2060
+ACRESCENTA Carlos Tuberculose 5/8/2052
+ACRESCENTA Tomás Polio 23/2/2022
+ACRESCENTA Adriana Cancro 15/9/2063
+ACRESCENTA Josefina Prolapse 27/6/2097
+ACRESCENTA Alexandre Anemia 24/12/2089
+ACRESCENTA Tomás Enfarte 8/2/2059
+ACRESCENTA João Cancro 11/7/2063
+ACRESCENTA João HepatiteTóxica 25/9/2021
+ACRESCENTA Madalena Leishnein 20/2/2028
+ACRESCENTA Tomás Cancro 1/8/2068
+ACRESCENTA Maria Leishnein 9/6/2084
+ACRESCENTA Matilde Covid 11/5/2053
+ACRESCENTA Carolina Polio 26/1/2055
+ACRESCENTA Maria Tuberculose 2/12/2066
+ACRESCENTA Carlos Cancro 21/5/2022
+ACRESCENTA Isabel Prolapse 27/5/2090
+ACRESCENTA João Enfarte 3/7/2090
+ACRESCENTA Bernardo Cancro 30/9/2035
+ACRESCENTA António Polio 27/1/2086
+ACRESCENTA Simão Polio 8/9/2077
+ACRESCENTA Madalena Polio 12/10/2068
+ACRESCENTA Adriana Covid 20/6/2055
+ACRESCENTA André Polio 28/7/2043
+ACRESCENTA Madalena Leishnein 29/3/2063
+ACRESCENTA Madalena Leishnein 30/6/2040
+ACRESCENTA André Covid 16/6/2036
+ACRESCENTA Josefina HepatiteTóxica 18/11/2022
+ACRESCENTA Tomás Prolapse 24/2/2097
+ACRESCENTA Adriana Polio 23/9/2080
+ACRESCENTA André Tuberculose 16/11/2074
+ACRESCENTA Adriana Leishnein 14/10/2066
+ACRESCENTA Matilde Anemia 26/11/2074
+ACRESCENTA Joana Polio 2/2/2021
+ACRESCENTA Bernardo Polio 7/11/2065
+ACRESCENTA Tomás Covid 10/6/2091
+ACRESCENTA Tomás Tuberculose 2/5/2036
+ACRESCENTA Tomás Enfarte 30/11/2067
+ACRESCENTA João HepatiteTóxica 26/6/2076
+ACRESCENTA Josefina Anemia 27/12/2089
+ACRESCENTA Carlos HepatiteTóxica 31/1/2047
+ACRESCENTA Carolina Leishnein 25/5/2037
+ACRESCENTA Matilde Tuberculose 11/8/2047
+ACRESCENTA Matilde Anemia 3/1/2075
+ACRESCENTA João HepatiteTóxica 25/9/2028
+ACRESCENTA António Tuberculose 2/4/2050
+ACRESCENTA Madalena Enfarte 15/6/2046
+ACRESCENTA Joana Prolapse 21/3/2100
+ACRESCENTA Matilde HepatiteTóxica 29/12/2052
+ACRESCENTA Henrique Cancro 25/6/2030
+ACRESCENTA Matilde HepatiteTóxica 2/1/2069
+ACRESCENTA Isabel Polio 4/10/2062
+ACRESCENTA Madalena Leishnein 18/7/2063
+ACRESCENTA Isabel Prolapse 26/1/2079
+ACRESCENTA António Enfarte 18/3/2055
+ACRESCENTA Aparicio Anemia 22/6/2081
+ACRESCENTA Joana Tuberculose 17/2/2089
+ACRESCENTA Bernardo Prolapse 17/2/2072
+ACRESCENTA António Enfarte 14/6/2072
+ACRESCENTA Adriana Tuberculose 25/10/2091
+ACRESCENTA Bernardo Covid 28/12/2082
+ACRESCENTA Alexandre Cancro 31/9/2095
+ACRESCENTA Aparicio Cancro 6/3/2082
+ACRESCENTA Bernardo Tuberculose 2/8/2088
+ACRESCENTA Alexandre HepatiteTóxica 14/4/2100
+ACRESCENTA Maria Prolapse 9/1/2024
+ACRESCENTA Matilde Covid 25/11/2052
+ACRESCENTA Aparicio Cancro 3/9/2048
+ACRESCENTA Isabel Leishnein 1/6/2085
+ACRESCENTA Alexandre Cancro 7/11/2081
+ACRESCENTA Bernardo Polio 4/6/2099
+ACRESCENTA Joana Enfarte 9/10/2022
+ACRESCENTA Bernardo Cancro 18/10/2069
+ACRESCENTA Matilde Prolapse 29/1/2027
+ACRESCENTA Adriana Prolapse 6/6/2075
+ACRESCENTA António Cancro 12/11/2069
+ACRESCENTA Adriana Leishnein 9/9/2079
+ACRESCENTA Isabel Enfarte 3/7/2031
+ACRESCENTA Matilde Cancro 26/6/2046
+ACRESCENTA Tomás HepatiteTóxica 25/2/2036
+ACRESCENTA Tomás Cancro 13/6/2092
+ACRESCENTA Isabel Leishnein 21/1/2028
+ACRESCENTA Simão Covid 8/12/2072
+ACRESCENTA João HepatiteTóxica 23/5/2093
+ACRESCENTA João Polio 29/4/2043
+ACRESCENTA Bernardo Tuberculose 21/5/2055
+ACRESCENTA João Prolapse 27/4/2050
+ACRESCENTA André HepatiteTóxica 25/7/2032
+ACRESCENTA Alexandre Prolapse 6/1/2084
+ACRESCENTA Madalena HepatiteTóxica 27/10/2027
+ACRESCENTA Matilde Prolapse 11/6/2088
+ACRESCENTA Tomás HepatiteTóxica 17/5/2094
+ACRESCENTA António Leishnein 9/12/2074
+ACRESCENTA Marta Prolapse 18/6/2043
+ACRESCENTA Isabel HepatiteTóxica 3/4/2069
+ACRESCENTA Adriana Polio 28/8/2047
+ACRESCENTA Tomás Covid 22/3/2021
+ACRESCENTA Henrique Enfarte 10/6/2062
+ACRESCENTA Tomás Leishnein 23/10/2039
+ACRESCENTA Josefina Anemia 18/4/2054
+ACRESCENTA Carolina Cancro 30/6/2069
+ACRESCENTA Maria HepatiteTóxica 15/7/2093
+ACRESCENTA Carolina HepatiteTóxica 26/7/2083
+ACRESCENTA Marta Cancro 26/6/2067
+ACRESCENTA Joana HepatiteTóxica 5/2/2089
+ACRESCENTA Maria Tuberculose 6/10/2046
+ACRESCENTA Simão Tuberculose 24/12/2089
+ACRESCENTA Matilde Tuberculose 8/7/2058
+ACRESCENTA Marta Cancro 5/4/2094
+ACRESCENTA Aparicio Enfarte 23/6/2076
+ACRESCENTA Alexandre Covid 1/6/2023
+ACRESCENTA Madalena Leishnein 7/10/2027
+ACRESCENTA Matilde Cancro 12/4/2094
+ACRESCENTA Henrique Leishnein 17/1/2033
+ACRESCENTA Alexandre Covid 15/5/2095
+ACRESCENTA Alexandre Tuberculose 20/8/2058
+ACRESCENTA Madalena Enfarte 26/9/2072
+ACRESCENTA Isabel Enfarte 30/3/2096
+ACRESCENTA Marta HepatiteTóxica 21/12/2084
+ACRESCENTA Simão Prolapse 30/7/2092
+ACRESCENTA Tomás Covid 1/10/2023
+ACRESCENTA João Covid 18/12/2073
+ACRESCENTA Isabel Covid 13/9/2036
+ACRESCENTA André Prolapse 3/5/2098
+ACRESCENTA António Covid 3/3/2029
+ACRESCENTA Joana Tuberculose 3/4/2054
+ACRESCENTA Joana Cancro 15/12/2079
+ACRESCENTA Carolina Cancro 30/5/2026
+ACRESCENTA André Covid 17/11/2037
+ACRESCENTA Marta Enfarte 29/2/2099
+ACRESCENTA Henrique Covid 13/2/2036
+ACRESCENTA André Cancro 16/8/2021
+ACRESCENTA Marta Anemia 16/4/2067
+ACRESCENTA Henrique Prolapse 15/1/2067
+ACRESCENTA Carolina Anemia 14/9/2038
+ACRESCENTA André Prolapse 9/9/2022
+ACRESCENTA Isabel HepatiteTóxica 2/8/2071
+ACRESCENTA António HepatiteTóxica 19/8/2089
+ACRESCENTA Alexandre Tuberculose 24/10/2062
+ACRESCENTA André Cancro 20/8/2025
+ACRESCENTA Adriana Leishnein 19/12/2065
+ACRESCENTA Henrique Cancro 13/1/2089
+ACRESCENTA Maria Enfarte 27/9/2083
+ACRESCENTA Simão HepatiteTóxica 11/12/2095
+ACRESCENTA Josefina Tuberculose 8/3/2027
+ACRESCENTA Carolina Covid 27/9/2031
+ACRESCENTA Carlos Leishnein 15/9/2040
+ACRESCENTA Tomás Anemia 27/2/2062
+ACRESCENTA Bernardo Prolapse 29/1/2048
+ACRESCENTA Aparicio Enfarte 5/3/2065
+ACRESCENTA Maria HepatiteTóxica 6/1/2057
+ACRESCENTA Maria Polio 18/2/2068
+ACRESCENTA André Tuberculose 28/1/2035
+ACRESCENTA Maria Prolapse 18/8/2027
+ACRESCENTA Isabel Tuberculose 15/8/2082
+ACRESCENTA Tomás Prolapse 24/10/2080
+ACRESCENTA António Tuberculose 13/5/2058
+ACRESCENTA Adriana HepatiteTóxica 20/7/2054
+ACRESCENTA Bernardo Leishnein 9/2/2085
+ACRESCENTA Joana Cancro 3/10/2099
+ACRESCENTA João Covid 27/1/2044
+ACRESCENTA Josefina Anemia 3/11/2049
+ACRESCENTA Madalena Enfarte 31/2/2079
+ACRESCENTA Tomás Tuberculose 15/10/2029
+ACRESCENTA Josefina Covid 8/4/2039
+ACRESCENTA Aparicio Cancro 5/2/2087
+ACRESCENTA João Cancro 30/6/2070
+ACRESCENTA Simão Cancro 17/10/2065
+ACRESCENTA Josefina Anemia 18/8/2040
+ACRESCENTA Madalena Enfarte 21/7/2052
+ACRESCENTA Josefina Polio 23/12/2075
+ACRESCENTA André Cancro 26/4/2084
+ACRESCENTA Tomás Tuberculose 6/11/2039
+ACRESCENTA António Covid 23/4/2031
+ACRESCENTA Maria Anemia 15/4/2021
+ACRESCENTA Henrique Leishnein 23/3/2067
+ACRESCENTA Marta Enfarte 21/5/2074
+ACRESCENTA Marta HepatiteTóxica 8/2/2046
+ACRESCENTA Alexandre Polio 21/7/2057
+ACRESCENTA Tomás Prolapse 22/10/2084
+ACRESCENTA Simão Polio 2/7/2065
+ACRESCENTA Maria Leishnein 14/11/2097
+ACRESCENTA António Leishnein 22/12/2029
+ACRESCENTA Tomás Anemia 17/2/2046
+ACRESCENTA Tomás Covid 15/7/2043
+ACRESCENTA André Cancro 28/9/2067
+ACRESCENTA António Tuberculose 23/1/2072
+ACRESCENTA Adriana Anemia 3/1/2060
+ACRESCENTA Carlos Leishnein 31/8/2086
+ACRESCENTA António Polio 29/8/2092
+ACRESCENTA Maria Anemia 17/10/2055
+ACRESCENTA Bernardo Cancro 29/10/2082
+ACRESCENTA Carlos Tuberculose 12/11/2097
+ACRESCENTA Matilde Leishnein 29/9/2033
+ACRESCENTA Maria HepatiteTóxica 25/9/2091
+ACRESCENTA Joana Leishnein 21/6/2022
+ACRESCENTA Alexandre Cancro 15/3/2032
+ACRESCENTA Maria HepatiteTóxica 6/6/2046
+ACRESCENTA Maria Tuberculose 18/3/2050
+ACRESCENTA Matilde HepatiteTóxica 28/7/2081
+ACRESCENTA Tomás Cancro 2/12/2095
+ACRESCENTA Henrique Enfarte 8/8/2079
+ACRESCENTA Alexandre Leishnein 7/3/2075
+ACRESCENTA Aparicio Anemia 16/6/2071
+ACRESCENTA Tomás Covid 28/12/2075
+ACRESCENTA Alexandre Enfarte 3/9/2023
+ACRESCENTA Simão Enfarte 13/5/2049
+ACRESCENTA Henrique Enfarte 17/11/2098
+ACRESCENTA Aparicio Leishnein 27/6/2053
+ACRESCENTA Carlos Anemia 13/2/2039
+ACRESCENTA Joana Prolapse 15/11/2073
+ACRESCENTA Alexandre Tuberculose 18/1/2093
+ACRESCENTA Henrique Tuberculose 30/6/2070
+ACRESCENTA André Prolapse 12/1/2084
+ACRESCENTA Alexandre Polio 7/8/2036
+ACRESCENTA Bernardo Prolapse 17/11/2054
+ACRESCENTA João Covid 3/11/2059
+ACRESCENTA Marta Anemia 19/6/2095
+ACRESCENTA Maria Anemia 27/9/2056
+ACRESCENTA Bernardo Enfarte 9/4/2083
+ACRESCENTA André Leishnein 2/11/2048
+ACRESCENTA Simão Prolapse 19/10/2092
+ACRESCENTA Tomás Covid 25/8/2025
+ACRESCENTA Aparicio Tuberculose 14/2/2030
+ACRESCENTA Maria Anemia 3/2/2075
+ACRESCENTA António Anemia 19/11/2076
+ACRESCENTA Alexandre HepatiteTóxica 30/1/2081
+ACRESCENTA Bernardo Prolapse 23/11/2090
+ACRESCENTA Josefina Prolapse 29/12/2050
+ACRESCENTA Maria Polio 26/1/2063
+ACRESCENTA Tomás Leishnein 15/9/2098
+ACRESCENTA João HepatiteTóxica 29/4/2044
+ACRESCENTA Carolina Cancro 20/10/2076
+ACRESCENTA Maria HepatiteTóxica 1/11/2089
+ACRESCENTA Matilde Enfarte 14/3/2057
+ACRESCENTA Maria Covid 11/5/2070
+ACRESCENTA Tomás HepatiteTóxica 27/12/2024
+ACRESCENTA Marta Prolapse 31/5/2027
+ACRESCENTA Aparicio Cancro 3/9/2090
+ACRESCENTA Carolina Enfarte 14/2/2037
+ACRESCENTA Madalena Prolapse 18/3/2080
+ACRESCENTA Maria Leishnein 8/6/2094
+ACRESCENTA Joana Polio 1/5/2090
+ACRESCENTA António Covid 17/5/2054
+ACRESCENTA Marta Cancro 23/11/2021
+ACRESCENTA Tomás Enfarte 29/10/2065
+ACRESCENTA Maria Anemia 13/8/2050
+ACRESCENTA Isabel HepatiteTóxica 21/7/2023
+ACRESCENTA João Cancro 9/2/2086
+ACRESCENTA André Tuberculose 25/9/2099
+ACRESCENTA Isabel HepatiteTóxica 20/5/2079
+ACRESCENTA Carolina Prolapse 10/7/2087
+ACRESCENTA Tomás Tuberculose 21/6/2060
+ACRESCENTA Simão Anemia 4/11/2022
+ACRESCENTA Carolina Anemia 9/4/2022
+ACRESCENTA Madalena Leishnein 7/11/2081
+ACRESCENTA Madalena Enfarte 29/1/2064
+ACRESCENTA Maria Enfarte 7/9/2062
+ACRESCENTA Aparicio Tuberculose 22/10/2055
+ACRESCENTA Matilde Covid 25/7/2053
+ACRESCENTA Josefina HepatiteTóxica 18/4/2061
+ACRESCENTA Aparicio Cancro 7/8/2084
+ACRESCENTA Tomás Tuberculose 31/6/2052
+ACRESCENTA Tomás Prolapse 12/12/2034
+ACRESCENTA Matilde Enfarte 16/11/2095
+ACRESCENTA Bernardo Covid 7/7/2092
+ACRESCENTA António Enfarte 4/4/2026
+ACRESCENTA Adriana Covid 3/3/2094
+ACRESCENTA Marta Cancro 12/3/2048
+ACRESCENTA João Leishnein 7/12/2042
+ACRESCENTA Josefina Prolapse 17/2/2062
+ACRESCENTA Madalena Tuberculose 17/3/2040
+ACRESCENTA Henrique Tuberculose 1/11/2034
+ACRESCENTA Carlos Enfarte 5/9/2034
+ACRESCENTA Adriana Enfarte 13/3/2095
+ACRESCENTA Tomás Covid 14/7/2046
+ACRESCENTA Matilde Cancro 19/4/2042
+ACRESCENTA Henrique Polio 9/12/2094
+ACRESCENTA Joana Anemia 26/11/2058
+ACRESCENTA Alexandre Covid 30/9/2066
+ACRESCENTA André HepatiteTóxica 17/10/2091
+ACRESCENTA Bernardo HepatiteTóxica 13/5/2075
+ACRESCENTA João Leishnein 17/5/2063
+ACRESCENTA Joana Covid 29/4/2070
+ACRESCENTA Simão Prolapse 11/5/2037
+ACRESCENTA João Enfarte 19/8/2060
+ACRESCENTA Madalena Leishnein 30/2/2044
+ACRESCENTA João Leishnein 1/2/2054
+ACRESCENTA Josefina Cancro 18/8/2083
+ACRESCENTA Simão Polio 26/9/2099
+ACRESCENTA Adriana Prolapse 7/8/2032
+ACRESCENTA Josefina HepatiteTóxica 3/5/2056
+ACRESCENTA Josefina Enfarte 7/4/2088
+ACRESCENTA Madalena Polio 4/2/2047
+ACRESCENTA Alexandre Anemia 27/10/2030
+ACRESCENTA Marta Cancro 22/8/2022
+ACRESCENTA Madalena Anemia 20/3/2084
+ACRESCENTA Tomás Prolapse 31/5/2088
+ACRESCENTA André HepatiteTóxica 4/4/2088
+ACRESCENTA Alexandre Covid 9/12/2088
+ACRESCENTA Josefina HepatiteTóxica 22/6/2028
+ACRESCENTA Madalena Leishnein 21/6/2087
+ACRESCENTA Joana Covid 7/12/2069
+ACRESCENTA Tomás HepatiteTóxica 3/5/2029
+ACRESCENTA António Enfarte 10/11/2095
+ACRESCENTA Isabel Prolapse 1/10/2056
+ACRESCENTA Matilde Prolapse 1/7/2034
+ACRESCENTA Carlos Tuberculose 31/5/2091
+ACRESCENTA Josefina Anemia 12/5/2063
+ACRESCENTA Henrique Leishnein 29/8/2059
+ACRESCENTA Henrique Cancro 26/11/2074
+ACRESCENTA Carlos HepatiteTóxica 25/11/2049
+ACRESCENTA Madalena Cancro 18/1/2023
+ACRESCENTA Carolina Prolapse 28/4/2061
+ACRESCENTA Maria HepatiteTóxica 4/7/2048
+ACRESCENTA Bernardo Anemia 2/10/2081
+ACRESCENTA André Polio 23/4/2028
+ACRESCENTA Carlos Polio 18/3/2039
+ACRESCENTA Adriana HepatiteTóxica 9/4/2085
+ACRESCENTA André Prolapse 18/2/2075
+ACRESCENTA Joana Polio 18/8/2060
+ACRESCENTA Bernardo HepatiteTóxica 2/6/2025
+ACRESCENTA Maria HepatiteTóxica 14/10/2095
+ACRESCENTA Joana Covid 14/8/2064
+ACRESCENTA Isabel HepatiteTóxica 13/11/2055
+ACRESCENTA Bernardo Anemia 1/8/2038
+ACRESCENTA João Prolapse 21/6/2041
+ACRESCENTA Carlos Covid 4/1/2061
+ACRESCENTA Simão Enfarte 23/6/2037
+ACRESCENTA Maria Covid 20/12/2091
+ACRESCENTA Carolina Covid 18/11/2053
+ACRESCENTA Josefina Leishnein 29/11/2036
+ACRESCENTA Alexandre Cancro 29/5/2086
+ACRESCENTA Josefina Polio 8/6/2022
+ACRESCENTA Bernardo Polio 24/4/2072
+ACRESCENTA Isabel Covid 23/6/2041
+ACRESCENTA Carolina Prolapse 13/10/2100
+ACRESCENTA Carlos Tuberculose 18/6/2056
+ACRESCENTA Maria Cancro 26/3/2079
+ACRESCENTA Matilde HepatiteTóxica 8/7/2052
+ACRESCENTA Carlos Prolapse 31/4/2090
+ACRESCENTA Marta Anemia 24/5/2070
+ACRESCENTA André Polio 20/12/2077
+ACRESCENTA Maria Prolapse 28/7/2022
+ACRESCENTA Joana Tuberculose 1/1/2026
+ACRESCENTA Adriana Leishnein 11/9/2086
+ACRESCENTA Marta Enfarte 21/6/2076
+ACRESCENTA Tomás HepatiteTóxica 10/10/2055
+ACRESCENTA Matilde Covid 3/12/2082
+ACRESCENTA Isabel Leishnein 26/4/2079
+ACRESCENTA Simão Enfarte 22/8/2048
+ACRESCENTA Simão HepatiteTóxica 10/8/2032
+ACRESCENTA António Anemia 10/7/2053
+ACRESCENTA Adriana Covid 6/10/2067
+ACRESCENTA Marta Polio 4/2/2072
+ACRESCENTA Aparicio Cancro 5/12/2091
+ACRESCENTA André Leishnein 29/6/2078
+ACRESCENTA Josefina Polio 16/12/2032
+ACRESCENTA António Cancro 26/7/2099
+ACRESCENTA Maria Anemia 6/8/2079
+ACRESCENTA João Anemia 19/1/2095
+ACRESCENTA Alexandre Anemia 16/12/2099
+ACRESCENTA Henrique Polio 20/5/2100
+ACRESCENTA Carolina Cancro 14/3/2078
+ACRESCENTA Joana Polio 24/3/2028
+ACRESCENTA Adriana Leishnein 13/2/2045
+ACRESCENTA Isabel Leishnein 4/2/2070
+ACRESCENTA Madalena Prolapse 23/9/2064
+ACRESCENTA João Anemia 11/2/2099
+ACRESCENTA Marta Tuberculose 24/2/2075
+ACRESCENTA André Leishnein 13/6/2028
+ACRESCENTA Carolina Tuberculose 13/4/2033
+ACRESCENTA Isabel Covid 2/7/2085
+ACRESCENTA Aparicio Prolapse 22/3/2046
+ACRESCENTA Adriana Polio 20/7/2041
+ACRESCENTA Simão HepatiteTóxica 17/8/2062
+ACRESCENTA Carlos Cancro 20/6/2025
+ACRESCENTA Adriana Covid 15/2/2080
+ACRESCENTA Tomás Leishnein 7/1/2047
+ACRESCENTA Carolina Leishnein 1/9/2088
+ACRESCENTA Alexandre Covid 18/3/2091
+ACRESCENTA Tomás Tuberculose 11/3/2081
+ACRESCENTA Tomás Anemia 27/1/2069
+ACRESCENTA Joana HepatiteTóxica 11/4/2084
+ACRESCENTA Carlos HepatiteTóxica 6/8/2037
+ACRESCENTA Joana Enfarte 2/8/2055
+ACRESCENTA Simão Anemia 2/12/2088
+ACRESCENTA Josefina Leishnein 21/9/2093
+ACRESCENTA Isabel Polio 14/9/2082
+ACRESCENTA Isabel HepatiteTóxica 15/4/2098
+ACRESCENTA Henrique Tuberculose 17/10/2066
+ACRESCENTA Maria Leishnein 9/2/2054
+ACRESCENTA Bernardo Prolapse 1/2/2085
+ACRESCENTA Bernardo HepatiteTóxica 16/7/2033
+ACRESCENTA Josefina Prolapse 20/2/2087
+ACRESCENTA Marta Polio 14/5/2064
+ACRESCENTA Alexandre Enfarte 17/3/2048
+ACRESCENTA Bernardo Polio 18/2/2069
+ACRESCENTA André HepatiteTóxica 1/2/2030
+ACRESCENTA Simão Cancro 29/7/2052
+ACRESCENTA Matilde Polio 3/4/2024
+ACRESCENTA Joana Cancro 28/1/2065
+ACRESCENTA Matilde Prolapse 28/12/2076
+ACRESCENTA João Polio 31/1/2046
+ACRESCENTA Bernardo Leishnein 1/1/2090
+ACRESCENTA Matilde Leishnein 7/3/2099
+ACRESCENTA Bernardo HepatiteTóxica 22/4/2100
+ACRESCENTA Isabel Tuberculose 1/3/2059
+ACRESCENTA Madalena Polio 11/2/2060
+ACRESCENTA Alexandre Polio 28/6/2065
+ACRESCENTA Madalena Covid 20/4/2094
+ACRESCENTA Simão Anemia 30/2/2086
+ACRESCENTA Carolina Polio 7/3/2099
+ACRESCENTA António HepatiteTóxica 5/5/2097
+ACRESCENTA Alexandre Prolapse 25/8/2081
+ACRESCENTA Madalena Anemia 22/2/2066
+ACRESCENTA Carlos Leishnein 2/8/2096
+ACRESCENTA Henrique Cancro 19/2/2032
+ACRESCENTA Tomás Polio 13/5/2096
+ACRESCENTA Matilde Polio 5/11/2061
+ACRESCENTA André Enfarte 18/10/2071
+ACRESCENTA Maria HepatiteTóxica 1/12/2030
+ACRESCENTA Simão Polio 21/9/2047
+ACRESCENTA Marta Enfarte 6/6/2089
+ACRESCENTA Marta Anemia 22/11/2030
+ACRESCENTA André Anemia 8/7/2061
+ACRESCENTA Alexandre Anemia 20/2/2057
+ACRESCENTA Aparicio Anemia 28/7/2069
+ACRESCENTA Josefina Anemia 21/2/2065
+ACRESCENTA Simão Tuberculose 14/8/2031
+ACRESCENTA Carlos Tuberculose 19/11/2047
+ACRESCENTA Bernardo Tuberculose 23/4/2064
+ACRESCENTA Simão HepatiteTóxica 3/9/2068
+ACRESCENTA Carolina Tuberculose 15/5/2099
+ACRESCENTA Matilde Prolapse 13/5/2036
+ACRESCENTA André Polio 3/5/2076
+ACRESCENTA João Anemia 29/5/2026
+ACRESCENTA Madalena Leishnein 8/10/2069
+ACRESCENTA Josefina HepatiteTóxica 8/9/2087
+ACRESCENTA Marta Covid 29/6/2088
+ACRESCENTA Carolina Leishnein 8/10/2046
+ACRESCENTA Marta Prolapse 16/5/2046
+ACRESCENTA André HepatiteTóxica 15/3/2070
+ACRESCENTA Josefina Leishnein 4/12/2070
+ACRESCENTA Henrique Polio 13/1/2036
+ACRESCENTA Bernardo Covid 25/1/2052
+ACRESCENTA Josefina Tuberculose 7/3/2065
+ACRESCENTA Henrique Tuberculose 20/11/2031
+ACRESCENTA João Leishnein 15/12/2030
+ACRESCENTA Marta Leishnein 14/4/2074
+ACRESCENTA António Leishnein 20/10/2021
+ACRESCENTA Maria HepatiteTóxica 8/4/2088
+ACRESCENTA André Cancro 28/2/2097
+ACRESCENTA Matilde Tuberculose 31/12/2052
+ACRESCENTA Maria Cancro 12/3/2055
+ACRESCENTA Carolina Covid 8/2/2083
+ACRESCENTA Carolina Cancro 11/11/2056
+ACRESCENTA Aparicio Covid 2/8/2083
+ACRESCENTA André Cancro 13/5/2036
+ACRESCENTA Bernardo HepatiteTóxica 16/7/2038
+ACRESCENTA Marta Enfarte 16/3/2083
+ACRESCENTA Simão Leishnein 11/5/2046
+ACRESCENTA Madalena Tuberculose 2/9/2059
+ACRESCENTA Adriana Prolapse 18/2/2069
+ACRESCENTA Tomás Cancro 10/7/2075
+ACRESCENTA Aparicio HepatiteTóxica 16/12/2044
+ACRESCENTA Marta Prolapse 12/6/2090
+ACRESCENTA António Leishnein 5/6/2088
+ACRESCENTA Matilde Prolapse 31/4/2095
+ACRESCENTA Alexandre Leishnein 20/10/2047
+ACRESCENTA Marta Prolapse 26/3/2074
+ACRESCENTA Matilde HepatiteTóxica 10/9/2062
+ACRESCENTA Matilde Tuberculose 27/12/2021
+ACRESCENTA Carolina Prolapse 15/4/2029
+ACRESCENTA Carlos Prolapse 8/8/2023
+ACRESCENTA Josefina Polio 15/12/2063
+ACRESCENTA Isabel Enfarte 22/8/2099
+ACRESCENTA Joana Prolapse 28/11/2088
+ACRESCENTA Simão Covid 22/11/2038
+ACRESCENTA Bernardo Prolapse 27/12/2065
+ACRESCENTA Aparicio Leishnein 23/5/2090
+ACRESCENTA Carlos Tuberculose 29/12/2070
+ACRESCENTA Bernardo Leishnein 14/6/2030
+ACRESCENTA Bernardo Leishnein 6/12/2023
+ACRESCENTA Adriana Tuberculose 18/4/2054
+ACRESCENTA António Tuberculose 18/11/2084
+ACRESCENTA Carolina Polio 25/8/2029
+ACRESCENTA Henrique Anemia 1/9/2037
+ACRESCENTA Maria Anemia 26/1/2049
+ACRESCENTA Aparicio Polio 29/8/2068
+ACRESCENTA Carlos Anemia 17/5/2046
+ACRESCENTA Marta Cancro 30/7/2049
+ACRESCENTA Simão Cancro 23/6/2041
+ACRESCENTA Matilde HepatiteTóxica 28/3/2052
+ACRESCENTA Carolina Covid 8/4/2044
+ACRESCENTA Isabel Cancro 2/8/2023
+ACRESCENTA Bernardo Covid 22/2/2054
+ACRESCENTA Simão Covid 21/4/2037
+ACRESCENTA Isabel Covid 1/2/2043
+ACRESCENTA Bernardo Cancro 17/10/2064
+ACRESCENTA Alexandre Anemia 27/9/2045
+ACRESCENTA Joana Anemia 10/5/2043
+ACRESCENTA Tomás Tuberculose 29/10/2041
+ACRESCENTA Maria Enfarte 15/2/2056
+ACRESCENTA Joana Prolapse 16/5/2065
+ACRESCENTA Tomás Enfarte 14/4/2050
+ACRESCENTA Aparicio Anemia 22/8/2081
+ACRESCENTA Matilde Prolapse 19/8/2089
+ACRESCENTA Carolina Polio 16/10/2031
+ACRESCENTA Simão Polio 12/7/2022
+ACRESCENTA Adriana Covid 15/8/2061
+ACRESCENTA Simão Prolapse 2/2/2068
+ACRESCENTA Bernardo Anemia 26/12/2094
+ACRESCENTA João Enfarte 23/1/2052
+ACRESCENTA Carlos Enfarte 31/2/2037
+ACRESCENTA Bernardo Anemia 29/3/2077
+ACRESCENTA Joana Anemia 31/10/2087
+ACRESCENTA Marta Enfarte 6/11/2034
+ACRESCENTA Adriana Enfarte 26/8/2033
+ACRESCENTA Madalena Tuberculose 14/7/2082
+ACRESCENTA Alexandre Leishnein 5/5/2045
+ACRESCENTA Henrique Cancro 18/6/2057
+ACRESCENTA Carolina Enfarte 29/2/2031
+ACRESCENTA Carlos Anemia 25/3/2095
+ACRESCENTA Carlos Covid 2/9/2067
+ACRESCENTA Joana Enfarte 28/6/2060
+ACRESCENTA André HepatiteTóxica 14/9/2063
+ACRESCENTA Josefina Leishnein 5/7/2034
+ACRESCENTA António HepatiteTóxica 13/6/2053
+ACRESCENTA Matilde HepatiteTóxica 19/6/2098
+ACRESCENTA Bernardo Enfarte 18/9/2066
+ACRESCENTA Madalena Enfarte 9/7/2073
+ACRESCENTA Matilde Enfarte 10/8/2031
+ACRESCENTA Bernardo Anemia 8/4/2067
+ACRESCENTA Simão Anemia 7/4/2033
+ACRESCENTA Isabel Covid 18/4/2032
+ACRESCENTA Tomás Prolapse 14/10/2057
+ACRESCENTA António HepatiteTóxica 26/4/2026
+ACRESCENTA Madalena Polio 20/4/2047
+ACRESCENTA Carlos Polio 29/6/2055
+ACRESCENTA Joana Covid 4/12/2099
+ACRESCENTA Matilde Polio 9/11/2086
+ACRESCENTA Madalena Enfarte 9/7/2032
+ACRESCENTA Aparicio HepatiteTóxica 28/11/2033
+ACRESCENTA Carlos Prolapse 14/10/2092
+ACRESCENTA Simão Covid 2/5/2062
+ACRESCENTA Maria Enfarte 17/1/2065
+ACRESCENTA Madalena Prolapse 19/5/2065
+ACRESCENTA Aparicio Leishnein 11/7/2022
+ACRESCENTA Simão Covid 30/10/2045
+ACRESCENTA Tomás HepatiteTóxica 13/8/2096
+ACRESCENTA António Anemia 25/3/2096
+ACRESCENTA João HepatiteTóxica 31/5/2034
+ACRESCENTA António HepatiteTóxica 12/12/2085
+ACRESCENTA António Enfarte 6/3/2050
+ACRESCENTA André Enfarte 4/6/2090
+ACRESCENTA Aparicio Enfarte 9/4/2025
+ACRESCENTA André Leishnein 26/4/2050
+ACRESCENTA Marta Tuberculose 21/10/2065
+ACRESCENTA Joana Tuberculose 2/9/2082
+ACRESCENTA Josefina HepatiteTóxica 27/8/2099
+ACRESCENTA Bernardo Polio 24/4/2094
+ACRESCENTA Isabel Enfarte 4/1/2058
+ACRESCENTA Isabel Enfarte 10/2/2048
+ACRESCENTA Matilde HepatiteTóxica 14/11/2085
+ACRESCENTA Adriana Anemia 14/4/2063
+ACRESCENTA Aparicio Leishnein 29/2/2098
+ACRESCENTA António Polio 4/2/2042
+ACRESCENTA Bernardo Tuberculose 16/8/2093
+ACRESCENTA João Enfarte 21/6/2094
+ACRESCENTA António Polio 3/9/2094
+ACRESCENTA Alexandre Cancro 4/7/2037
+ACRESCENTA Aparicio Cancro 14/1/2041
+ACRESCENTA Tomás Leishnein 16/2/2098
+ACRESCENTA Carlos Leishnein 10/11/2061
+ACRESCENTA Alexandre HepatiteTóxica 26/11/2060
+ACRESCENTA Bernardo Prolapse 19/12/2084
+ACRESCENTA Simão Cancro 27/6/2063
+ACRESCENTA Henrique HepatiteTóxica 13/3/2058
+ACRESCENTA Maria Covid 28/1/2045
+ACRESCENTA Joana Tuberculose 31/8/2058
+ACRESCENTA João Prolapse 23/12/2068
+ACRESCENTA André Cancro 24/1/2034
+ACRESCENTA Josefina Prolapse 17/10/2054
+ACRESCENTA João Covid 15/3/2029
+ACRESCENTA Tomás Cancro 8/2/2040
+ACRESCENTA Tomás Cancro 7/6/2046
+ACRESCENTA Matilde Cancro 20/6/2036
+ACRESCENTA Matilde Cancro 31/4/2059
+ACRESCENTA António Cancro 6/2/2099
+ACRESCENTA Henrique Prolapse 10/7/2078
+ACRESCENTA António Tuberculose 5/4/2060
+ACRESCENTA Matilde Leishnein 6/5/2047
+ACRESCENTA Bernardo Enfarte 16/2/2052
+ACRESCENTA Marta Tuberculose 10/1/2089
+ACRESCENTA Joana Prolapse 4/1/2045
+ACRESCENTA Joana Leishnein 30/3/2068
+ACRESCENTA Maria Leishnein 27/3/2034
+ACRESCENTA Joana Enfarte 16/2/2031
+ACRESCENTA Isabel Enfarte 17/2/2082
+ACRESCENTA Carlos Tuberculose 13/1/2036
+ACRESCENTA Madalena Enfarte 26/12/2034
+ACRESCENTA Maria Anemia 21/9/2032
+ACRESCENTA João Prolapse 26/1/2098
+ACRESCENTA Simão Covid 30/6/2041
+ACRESCENTA Aparicio HepatiteTóxica 29/7/2068
+ACRESCENTA Henrique HepatiteTóxica 13/10/2068
+ACRESCENTA Alexandre Anemia 25/1/2083
+ACRESCENTA Tomás Leishnein 10/12/2051
+ACRESCENTA Carolina Tuberculose 15/1/2080
+ACRESCENTA Aparicio Cancro 31/12/2096
+ACRESCENTA Maria Covid 4/8/2053
+ACRESCENTA João Tuberculose 6/3/2072
+ACRESCENTA Alexandre Covid 29/1/2083
+ACRESCENTA Adriana Prolapse 31/4/2089
+ACRESCENTA Isabel Tuberculose 8/8/2049
+ACRESCENTA António Polio 7/7/2033
+ACRESCENTA Maria Tuberculose 5/4/2063
+ACRESCENTA Tomás Polio 6/8/2063
+ACRESCENTA Matilde HepatiteTóxica 24/8/2083
+ACRESCENTA Isabel Prolapse 13/11/2061
+ACRESCENTA Joana Prolapse 10/12/2053
+ACRESCENTA Carolina Prolapse 31/5/2079
+ACRESCENTA António Tuberculose 11/11/2046
+ACRESCENTA André HepatiteTóxica 10/2/2071
+ACRESCENTA André Enfarte 12/8/2033
+ACRESCENTA Isabel Cancro 11/9/2094
+ACRESCENTA Isabel Enfarte 30/4/2087
+ACRESCENTA Adriana Polio 10/11/2093
+ACRESCENTA Bernardo Leishnein 3/8/2053
+ACRESCENTA Henrique Polio 21/2/2028
+ACRESCENTA Aparicio Polio 28/7/2031
+ACRESCENTA Josefina Tuberculose 5/5/2025
+ACRESCENTA Carlos Leishnein 29/11/2039
+ACRESCENTA Aparicio Prolapse 29/8/2089
+ACRESCENTA Bernardo Prolapse 27/2/2075
+ACRESCENTA António Leishnein 18/5/2057
+ACRESCENTA Maria Tuberculose 17/12/2038
+ACRESCENTA André Leishnein 22/10/2028
+ACRESCENTA André Tuberculose 24/8/2074
+ACRESCENTA Henrique Tuberculose 6/5/2075
+ACRESCENTA Bernardo Tuberculose 9/8/2094
+ACRESCENTA Madalena Covid 30/8/2091
+ACRESCENTA Henrique Polio 25/3/2083
+ACRESCENTA Simão Prolapse 28/6/2046
+ACRESCENTA António Polio 8/5/2081
+ACRESCENTA Madalena Leishnein 19/2/2077
+ACRESCENTA Alexandre Tuberculose 10/2/2084
+ACRESCENTA Josefina Polio 24/1/2022
+ACRESCENTA Henrique Anemia 22/11/2047
+ACRESCENTA Joana Polio 4/2/2079
+ACRESCENTA Madalena Leishnein 15/10/2075
+ACRESCENTA Marta Anemia 1/8/2022
+ACRESCENTA Carlos HepatiteTóxica 18/12/2084
+ACRESCENTA Madalena Prolapse 3/11/2056
+ACRESCENTA André HepatiteTóxica 26/5/2045
+ACRESCENTA Maria Tuberculose 24/7/2027
+ACRESCENTA João Leishnein 25/11/2059
+ACRESCENTA Matilde Tuberculose 4/3/2062
+ACRESCENTA Matilde Enfarte 12/7/2037
+ACRESCENTA António Polio 6/8/2093
+ACRESCENTA Isabel Enfarte 9/2/2025
+ACRESCENTA Carolina Enfarte 19/10/2078
+ACRESCENTA Matilde HepatiteTóxica 31/10/2037
+ACRESCENTA Matilde Polio 22/4/2025
+ACRESCENTA Aparicio Enfarte 22/10/2031
+ACRESCENTA Marta Prolapse 21/11/2084
+ACRESCENTA Simão Anemia 5/12/2044
+ACRESCENTA Henrique Tuberculose 7/4/2042
+ACRESCENTA Madalena Prolapse 26/3/2075
+ACRESCENTA João Cancro 8/9/2097
+ACRESCENTA Madalena Polio 13/5/2082
+ACRESCENTA Bernardo Prolapse 4/4/2061
+ACRESCENTA Joana Polio 6/12/2091
+ACRESCENTA Carolina Anemia 6/9/2090
+ACRESCENTA Isabel Covid 18/6/2060
+ACRESCENTA Tomás Anemia 29/1/2085
+ACRESCENTA Bernardo Tuberculose 14/7/2094
+ACRESCENTA Madalena Enfarte 10/9/2062
+ACRESCENTA Adriana Polio 19/11/2082
+ACRESCENTA Matilde Cancro 30/5/2026
+ACRESCENTA Maria Polio 28/3/2026
+ACRESCENTA André Anemia 4/11/2054
+ACRESCENTA Simão Leishnein 29/11/2035
+ACRESCENTA Simão Enfarte 28/6/2059
+ACRESCENTA André Anemia 8/5/2058
+ACRESCENTA Marta Prolapse 9/11/2100
+ACRESCENTA Bernardo Leishnein 22/6/2076
+ACRESCENTA Alexandre Anemia 28/2/2036
+ACRESCENTA Tomás Tuberculose 26/12/2037
+ACRESCENTA André HepatiteTóxica 22/6/2085
+ACRESCENTA Alexandre Enfarte 29/8/2053
+ACRESCENTA Madalena Covid 13/1/2066
+ACRESCENTA Alexandre Leishnein 11/12/2030
+ACRESCENTA Simão Cancro 27/5/2074
+ACRESCENTA Alexandre Tuberculose 11/7/2076
+ACRESCENTA Maria Anemia 3/12/2078
+ACRESCENTA Simão Enfarte 27/2/2095
+ACRESCENTA Madalena Prolapse 25/5/2074
+ACRESCENTA Carolina Enfarte 24/6/2078
+ACRESCENTA André Anemia 11/4/2058
+ACRESCENTA Joana Enfarte 18/5/2081
+ACRESCENTA Matilde Enfarte 12/11/2090
+ACRESCENTA Bernardo Enfarte 20/12/2067
+ACRESCENTA Carolina Tuberculose 13/3/2023
+ACRESCENTA André Enfarte 22/6/2092
+ACRESCENTA António Enfarte 13/9/2029
+ACRESCENTA Joana Prolapse 12/4/2036
+ACRESCENTA Aparicio Polio 1/6/2093
+ACRESCENTA João Cancro 5/7/2043
+ACRESCENTA Alexandre Polio 27/1/2044
+ACRESCENTA Madalena Covid 14/8/2091
+ACRESCENTA Adriana Tuberculose 16/11/2022
+ACRESCENTA André Covid 1/8/2100
+ACRESCENTA João Leishnein 30/11/2080
+ACRESCENTA Aparicio Anemia 16/3/2081
+ACRESCENTA Carolina Cancro 6/5/2082
+ACRESCENTA Carlos HepatiteTóxica 30/6/2087
+ACRESCENTA António Anemia 17/12/2040
+ACRESCENTA Aparicio Anemia 25/9/2043
+ACRESCENTA Maria Prolapse 18/6/2095
+ACRESCENTA Aparicio Leishnein 14/11/2063
+ACRESCENTA Carlos Cancro 11/11/2075
+ACRESCENTA Bernardo Tuberculose 2/8/2023
+ACRESCENTA Henrique HepatiteTóxica 26/12/2044
+ACRESCENTA Tomás Cancro 19/10/2035
+ACRESCENTA Isabel Anemia 26/7/2089
+ACRESCENTA Aparicio Cancro 22/9/2056
+ACRESCENTA Carolina Covid 27/11/2053
+ACRESCENTA Carlos Leishnein 25/10/2046
+ACRESCENTA Matilde Cancro 10/6/2064
+ACRESCENTA Maria Tuberculose 8/2/2097
+ACRESCENTA Simão Prolapse 31/8/2094
+ACRESCENTA Madalena Leishnein 12/1/2049
+ACRESCENTA João Anemia 9/8/2039
+ACRESCENTA Marta Polio 19/5/2085
+ACRESCENTA Adriana Cancro 29/11/2030
+ACRESCENTA Henrique Covid 27/9/2065
+ACRESCENTA Maria Enfarte 24/4/2099
+ACRESCENTA Bernardo Leishnein 24/6/2073
+ACRESCENTA Simão Leishnein 3/9/2058
+ACRESCENTA André Cancro 17/6/2063
+ACRESCENTA João Leishnein 16/3/2064
+ACRESCENTA Isabel Leishnein 3/4/2100
+ACRESCENTA Aparicio Leishnein 25/1/2063
+ACRESCENTA Josefina Polio 1/3/2043
+ACRESCENTA Carolina Leishnein 11/11/2077
+ACRESCENTA Henrique Covid 13/1/2091
+ACRESCENTA Henrique HepatiteTóxica 18/3/2077
+ACRESCENTA Carolina Anemia 25/12/2063
+ACRESCENTA André Enfarte 26/4/2067
+ACRESCENTA Henrique Covid 16/10/2024
+ACRESCENTA Madalena HepatiteTóxica 22/1/2021
+ACRESCENTA Tomás Enfarte 6/1/2031
+ACRESCENTA Adriana Covid 16/10/2032
+ACRESCENTA Tomás Prolapse 24/5/2021
+ACRESCENTA Alexandre Leishnein 21/1/2043
+ACRESCENTA Josefina HepatiteTóxica 19/2/2066
+ACRESCENTA Aparicio Anemia 26/1/2053
+ACRESCENTA Bernardo Anemia 17/3/2062
+ACRESCENTA Joana Prolapse 6/4/2093
+ACRESCENTA João Enfarte 16/6/2073
+ACRESCENTA Tomás Anemia 11/1/2056
+ACRESCENTA Matilde Enfarte 7/6/2049
+ACRESCENTA André Polio 22/2/2081
+ACRESCENTA Carolina Covid 14/9/2026
+ACRESCENTA Alexandre Leishnein 7/7/2079
+ACRESCENTA André Leishnein 6/5/2059
+ACRESCENTA Marta Enfarte 11/10/2049
+ACRESCENTA Josefina Prolapse 12/10/2071
+ACRESCENTA Henrique HepatiteTóxica 4/10/2036
+ACRESCENTA Joana HepatiteTóxica 21/10/2041
+ACRESCENTA Henrique HepatiteTóxica 27/4/2071
+ACRESCENTA Tomás Covid 18/6/2029
+ACRESCENTA Josefina Tuberculose 26/4/2044
+ACRESCENTA Alexandre HepatiteTóxica 12/2/2038
+ACRESCENTA Marta Cancro 25/5/2056
+ACRESCENTA Maria Enfarte 6/12/2088
+ACRESCENTA Matilde Tuberculose 25/2/2062
+ACRESCENTA Isabel Anemia 11/4/2078
+ACRESCENTA Madalena Anemia 3/3/2086
+ACRESCENTA Adriana Cancro 9/7/2054
+ACRESCENTA Joana Tuberculose 20/2/2027
+ACRESCENTA Carlos Cancro 18/7/2097
+ACRESCENTA Bernardo Enfarte 28/2/2082
+ACRESCENTA Henrique Anemia 29/11/2078
+ACRESCENTA Bernardo Anemia 28/11/2063
+ACRESCENTA Tomás Cancro 11/5/2059
+ACRESCENTA João Polio 21/2/2051
+ACRESCENTA João Anemia 17/2/2053
+ACRESCENTA Matilde Prolapse 13/6/2031
+ACRESCENTA Simão Anemia 16/3/2058
+ACRESCENTA António Enfarte 28/7/2040
+ACRESCENTA Madalena Anemia 11/4/2064
+ACRESCENTA Matilde Prolapse 29/8/2084
+ACRESCENTA Marta Covid 3/12/2058
+ACRESCENTA Maria Anemia 5/10/2086
+ACRESCENTA João Anemia 19/4/2063
+ACRESCENTA Madalena Covid 24/12/2055
+ACRESCENTA Alexandre Polio 11/9/2055
+ACRESCENTA Adriana Covid 27/12/2078
+ACRESCENTA Alexandre Leishnein 1/9/2071
+ACRESCENTA Alexandre Cancro 23/3/2074
+ACRESCENTA Carlos Enfarte 7/7/2086
+ACRESCENTA Aparicio Cancro 7/8/2056
+ACRESCENTA Bernardo Enfarte 29/3/2080
+ACRESCENTA Isabel Enfarte 7/10/2030
+ACRESCENTA Simão Tuberculose 8/10/2041
+ACRESCENTA André Anemia 26/9/2080
+ACRESCENTA Henrique Polio 25/7/2076
+ACRESCENTA Adriana Anemia 22/10/2045
+ACRESCENTA João Tuberculose 15/10/2074
+ACRESCENTA João HepatiteTóxica 16/3/2092
+ACRESCENTA Madalena Prolapse 18/12/2081
+ACRESCENTA Simão HepatiteTóxica 5/3/2074
+ACRESCENTA Aparicio Polio 10/12/2046
+ACRESCENTA Carlos Leishnein 9/1/2087
+ACRESCENTA Simão Anemia 2/3/2053
+ACRESCENTA Alexandre Polio 24/9/2061
+ACRESCENTA Simão Polio 20/7/2035
+ACRESCENTA Matilde HepatiteTóxica 1/12/2064
+ACRESCENTA Maria Anemia 31/8/2056
+ACRESCENTA André Cancro 27/5/2074
+ACRESCENTA Aparicio Covid 7/2/2031
+ACRESCENTA Adriana Cancro 6/3/2027
+ACRESCENTA Alexandre Covid 20/5/2028
+ACRESCENTA Isabel Enfarte 9/8/2088
+ACRESCENTA Bernardo Cancro 28/1/2070
+ACRESCENTA André Tuberculose 18/7/2078
+ACRESCENTA Isabel Tuberculose 2/2/2068
+ACRESCENTA Adriana HepatiteTóxica 2/8/2099
+ACRESCENTA Joana Tuberculose 31/7/2043
+ACRESCENTA Aparicio Polio 24/1/2091
+ACRESCENTA Matilde HepatiteTóxica 16/9/2055
+ACRESCENTA Simão Prolapse 4/11/2077
+ACRESCENTA Carlos Cancro 30/10/2042
+ACRESCENTA Aparicio Prolapse 7/4/2041
+ACRESCENTA Bernardo Enfarte 18/1/2071
+ACRESCENTA Carlos Leishnein 21/10/2031
+ACRESCENTA Maria Polio 15/11/2031
+ACRESCENTA Simão HepatiteTóxica 4/3/2077
+ACRESCENTA Joana HepatiteTóxica 10/5/2069
+ACRESCENTA Aparicio Tuberculose 27/4/2041
+ACRESCENTA Adriana Anemia 21/6/2082
+ACRESCENTA Carolina Covid 31/4/2076
+ACRESCENTA Joana Covid 7/3/2025
+ACRESCENTA Aparicio Prolapse 25/8/2056
+ACRESCENTA António Prolapse 7/11/2030
+ACRESCENTA Carlos HepatiteTóxica 15/10/2079
+ACRESCENTA Henrique Prolapse 19/12/2052
+ACRESCENTA Tomás Enfarte 16/10/2041
+ACRESCENTA Alexandre Cancro 24/7/2034
+ACRESCENTA António Covid 1/2/2071
+ACRESCENTA Simão Anemia 14/9/2030
+ACRESCENTA Simão Covid 13/2/2045
+ACRESCENTA Alexandre Cancro 17/5/2066
+ACRESCENTA Isabel HepatiteTóxica 12/6/2063
+ACRESCENTA Josefina Covid 21/7/2057
+ACRESCENTA Adriana Prolapse 5/2/2030
+ACRESCENTA Marta Enfarte 10/5/2089
+ACRESCENTA Madalena HepatiteTóxica 20/4/2080
+ACRESCENTA Marta Anemia 17/1/2028
+ACRESCENTA Simão Anemia 28/12/2065
+ACRESCENTA André Covid 24/3/2061
+ACRESCENTA Maria Enfarte 6/4/2072
+ACRESCENTA Isabel Covid 22/4/2052
+ACRESCENTA Maria Tuberculose 29/11/2055
+ACRESCENTA Madalena Anemia 30/5/2086
+ACRESCENTA Alexandre Prolapse 10/4/2088
+ACRESCENTA Aparicio Polio 21/6/2096
+ACRESCENTA Maria Enfarte 24/10/2071
+ACRESCENTA Maria Leishnein 17/4/2084
+ACRESCENTA Isabel Enfarte 5/8/2065
+ACRESCENTA João Leishnein 24/9/2034
+ACRESCENTA Josefina Polio 13/1/2084
+ACRESCENTA Isabel Enfarte 5/7/2068
+ACRESCENTA Aparicio Leishnein 2/1/2058
+ACRESCENTA Alexandre HepatiteTóxica 19/9/2035
+ACRESCENTA Joana Cancro 16/12/2055
+ACRESCENTA Aparicio Prolapse 24/10/2029
+ACRESCENTA Carolina Tuberculose 9/7/2073
+ACRESCENTA Simão Enfarte 31/11/2043
+ACRESCENTA Carlos Polio 31/9/2048
+ACRESCENTA Joana Cancro 19/7/2061
+ACRESCENTA Simão Anemia 26/12/2064
+ACRESCENTA Aparicio Tuberculose 25/2/2049
+ACRESCENTA Maria Enfarte 14/6/2051
+ACRESCENTA Carlos Polio 31/10/2099
+ACRESCENTA Bernardo Covid 30/10/2066
+ACRESCENTA João Covid 28/7/2034
+ACRESCENTA Carolina Leishnein 4/2/2093
+ACRESCENTA Isabel Enfarte 2/2/2060
+ACRESCENTA Alexandre Leishnein 17/12/2052
+ACRESCENTA Matilde Tuberculose 9/11/2051
+ACRESCENTA Josefina Tuberculose 4/4/2051
+ACRESCENTA Aparicio Covid 4/4/2092
+ACRESCENTA Madalena Anemia 25/6/2026
+ACRESCENTA Carlos Cancro 13/3/2093
+ACRESCENTA Tomás Prolapse 11/6/2099
+ACRESCENTA Madalena HepatiteTóxica 5/8/2095
+ACRESCENTA João HepatiteTóxica 26/8/2095
+ACRESCENTA Henrique Covid 18/1/2059
+ACRESCENTA Isabel Tuberculose 14/3/2022
+ACRESCENTA Carolina Tuberculose 12/8/2040
+ACRESCENTA Aparicio Anemia 17/10/2052
+ACRESCENTA Madalena Prolapse 30/11/2028
+ACRESCENTA Henrique Tuberculose 12/8/2047
+ACRESCENTA Aparicio Covid 9/10/2051
+ACRESCENTA Henrique Enfarte 19/4/2094
+ACRESCENTA Isabel Tuberculose 27/2/2027
+ACRESCENTA Carlos Tuberculose 16/11/2058
+ACRESCENTA Matilde Enfarte 31/1/2033
+ACRESCENTA Isabel HepatiteTóxica 4/7/2053
+ACRESCENTA Bernardo HepatiteTóxica 29/10/2034
+ACRESCENTA Aparicio HepatiteTóxica 26/6/2100
+ACRESCENTA Alexandre Cancro 18/5/2056
+ACRESCENTA Aparicio Tuberculose 14/1/2052
+ACRESCENTA Marta Prolapse 5/10/2034
+ACRESCENTA Josefina Enfarte 5/4/2094
+ACRESCENTA Carolina Prolapse 2/7/2027
+CONSULTA Marta
+CONSULTA Simão
+CONSULTA Isabel
+CONSULTA João
+CONSULTA Simão
+CONSULTA António
+CONSULTA Simão
+CONSULTA Simão
+CONSULTA André
+CONSULTA Aparicio
+CONSULTA Adriana
+CONSULTA Joana
+CONSULTA Tomás
+CONSULTA João
+CONSULTA Henrique
+CONSULTA Tomás
+CONSULTA Matilde
+CONSULTA João
+CONSULTA Madalena
+CONSULTA António
+CONSULTA André
+CONSULTA Tomás
+CONSULTA Tomás
+CONSULTA Madalena
+CONSULTA Joana
+CONSULTA Isabel
+CONSULTA Maria
+CONSULTA Josefina
+CONSULTA André
+CONSULTA Josefina
+CONSULTA Adriana
+CONSULTA André
+CONSULTA Carlos
+CONSULTA António
+CONSULTA Madalena
+CONSULTA Bernardo
+CONSULTA André
+CONSULTA Simão
+CONSULTA Matilde
+CONSULTA Madalena
+CONSULTA Matilde
+CONSULTA Alexandre
+CONSULTA Isabel
+CONSULTA Joana
+CONSULTA Henrique
+CONSULTA Bernardo
+CONSULTA João
+CONSULTA Simão
+CONSULTA António
+CONSULTA Carlos
+CONSULTA Josefina
+CONSULTA Marta
+CONSULTA Maria
+CONSULTA Tomás
+CONSULTA Maria
+CONSULTA Tomás
+CONSULTA Aparicio
+CONSULTA Aparicio
+CONSULTA Isabel
+CONSULTA Aparicio
+CONSULTA Carlos
+CONSULTA André
+CONSULTA Marta
+CONSULTA Tomás
+CONSULTA Joana
+CONSULTA Marta
+CONSULTA Henrique
+CONSULTA Adriana
+CONSULTA Henrique
+CONSULTA António
+CONSULTA Carlos
+CONSULTA Henrique
+CONSULTA Josefina
+CONSULTA Joana
+CONSULTA Henrique
+CONSULTA António
+CONSULTA Aparicio
+CONSULTA António
+CONSULTA Joana
+CONSULTA Madalena
+CONSULTA André
+CONSULTA Simão
+CONSULTA Adriana
+CONSULTA Matilde
+CONSULTA Joana
+CONSULTA Matilde
+CONSULTA Isabel
+CONSULTA Carlos
+CONSULTA Madalena
+CONSULTA Simão
+CONSULTA Carolina
+CONSULTA Madalena
+CONSULTA João
+CONSULTA Isabel
+CONSULTA Henrique
+CONSULTA Isabel
+CONSULTA Bernardo
+CONSULTA Marta
+CONSULTA Alexandre
+CONSULTA António
+CONSULTA João
+CONSULTA Adriana
+CONSULTA Alexandre
+CONSULTA Marta
+CONSULTA Joana
+CONSULTA Henrique
+CONSULTA Adriana
+CONSULTA Matilde
+CONSULTA André
+CONSULTA Simão
+CONSULTA Alexandre
+CONSULTA Joana
+CONSULTA Tomás
+CONSULTA Tomás
+CONSULTA Bernardo
+CONSULTA Henrique
+CONSULTA João
+CONSULTA Adriana
+CONSULTA Alexandre
+CONSULTA Carlos
+CONSULTA Maria
+CONSULTA Maria
+CONSULTA Josefina
+CONSULTA Madalena
+CONSULTA Simão
+CONSULTA Madalena
+CONSULTA Alexandre
+CONSULTA Tomás
+CONSULTA Bernardo
+CONSULTA Aparicio
+CONSULTA Henrique
+CONSULTA Aparicio
+CONSULTA Joana
+CONSULTA Madalena
+CONSULTA Joana
+CONSULTA Carolina
+CONSULTA Maria
+CONSULTA Alexandre
+CONSULTA Simão
+CONSULTA André
+CONSULTA Henrique
+CONSULTA Carlos
+CONSULTA Joana
+CONSULTA Simão
+CONSULTA Josefina
+CONSULTA Madalena
+CONSULTA Aparicio
+CONSULTA Carolina
+CONSULTA Josefina
+CONSULTA Matilde
+CONSULTA Isabel
+CONSULTA Marta
+CONSULTA Henrique
+CONSULTA Henrique
+CONSULTA Carolina
+CONSULTA Alexandre
+CONSULTA Henrique
+CONSULTA João
+CONSULTA Madalena
+CONSULTA Maria
+CONSULTA Aparicio
+CONSULTA Alexandre
+CONSULTA Adriana
+CONSULTA Madalena
+CONSULTA Tomás
+CONSULTA Henrique
+CONSULTA Maria
+CONSULTA Madalena
+CONSULTA António
+CONSULTA Henrique
+CONSULTA Henrique
+CONSULTA Carolina
+CONSULTA Josefina
+CONSULTA Bernardo
+CONSULTA Adriana
+CONSULTA Maria
+CONSULTA Josefina
+CONSULTA António
+CONSULTA Bernardo
+CONSULTA António
+CONSULTA Henrique
+CONSULTA Josefina
+CONSULTA Tomás
+CONSULTA Alexandre
+CONSULTA Maria
+CONSULTA Josefina
+CONSULTA Joana
+CONSULTA Alexandre
+CONSULTA Maria
+CONSULTA Carlos
+CONSULTA Adriana
+CONSULTA Adriana
+CONSULTA André
+CONSULTA Josefina
+CONSULTA Carolina
+CONSULTA Madalena
+CONSULTA Isabel
+CONSULTA Josefina
+CONSULTA Matilde
+CONSULTA Bernardo
+CONSULTA Aparicio
+CONSULTA Bernardo
+CONSULTA Carolina
+CONSULTA André
+CONSULTA Madalena
+CONSULTA Maria
+CONSULTA Alexandre
+CONSULTA Marta
+CONSULTA Isabel
+CONSULTA Maria
+CONSULTA Henrique
+CONSULTA André
+CONSULTA Madalena
+CONSULTA Matilde
+CONSULTA Isabel
+CONSULTA Maria
+CONSULTA Maria
+CONSULTA Henrique
+CONSULTA João
+CONSULTA Aparicio
+CONSULTA Isabel
+CONSULTA João
+CONSULTA Tomás
+CONSULTA Henrique
+CONSULTA Tomás
+CONSULTA Josefina
+CONSULTA João
+CONSULTA Tomás
+CONSULTA Madalena
+CONSULTA Henrique
+CONSULTA Joana
+CONSULTA António
+CONSULTA Carlos
+CONSULTA Matilde
+CONSULTA Maria
+CONSULTA Bernardo
+CONSULTA André
+CONSULTA Matilde
+CONSULTA Carolina
+CONSULTA Marta
+CONSULTA Bernardo
+CONSULTA Madalena
+CONSULTA João
+CONSULTA Tomás
+CONSULTA Tomás
+CONSULTA Aparicio
+CONSULTA Josefina
+CONSULTA Marta
+CONSULTA Madalena
+CONSULTA Aparicio
+CONSULTA Josefina
+CONSULTA Henrique
+CONSULTA Matilde
+CONSULTA Tomás
+CONSULTA Bernardo
+CONSULTA Aparicio
+CONSULTA Henrique
+CONSULTA Marta
+CONSULTA Adriana
+CONSULTA Adriana
+CONSULTA André
+CONSULTA André
+CONSULTA Marta
+CONSULTA Simão
+CONSULTA Tomás
+CONSULTA João
+CONSULTA Tomás
+CONSULTA Madalena
+CONSULTA Carolina
+CONSULTA Carlos
+CONSULTA Tomás
+CONSULTA António
+CONSULTA Bernardo
+CONSULTA António
+CONSULTA Madalena
+CONSULTA Carlos
+CONSULTA Bernardo
+CONSULTA Isabel
+CONSULTA António
+CONSULTA Marta
+CONSULTA Alexandre
+CONSULTA Aparicio
+CONSULTA Matilde
+CONSULTA João
+CONSULTA António
+CONSULTA Henrique
+CONSULTA Adriana
+CONSULTA Henrique
+CONSULTA Carolina
+CONSULTA Maria
+CONSULTA Adriana
+CONSULTA Joana
+CONSULTA Matilde
+CONSULTA Simão
+CONSULTA Matilde
+CONSULTA Simão
+CONSULTA Maria
+CONSULTA Joana
+CONSULTA Madalena
+CONSULTA Henrique
+CONSULTA Aparicio
+CONSULTA Tomás
+CONSULTA Bernardo
+CONSULTA Carlos
+CONSULTA Bernardo
+CONSULTA Joana
+CONSULTA Carolina
+CONSULTA Carolina
+CONSULTA Joana
+CONSULTA Carolina
+CONSULTA André
+CONSULTA Aparicio
+CONSULTA Madalena
+CONSULTA Henrique
+CONSULTA Alexandre
+CONSULTA Madalena
+CONSULTA Matilde
+CONSULTA Tomás
+CONSULTA Isabel
+CONSULTA Josefina
+CONSULTA Joana
+CONSULTA Marta
+CONSULTA Maria
+CONSULTA Maria
+CONSULTA Adriana
+CONSULTA Carolina
+CONSULTA Madalena
+CONSULTA Aparicio
+CONSULTA Josefina
+CONSULTA Matilde
+CONSULTA Madalena
+CONSULTA Matilde
+CONSULTA Simão
+CONSULTA Alexandre
+CONSULTA Maria
+CONSULTA Matilde
+CONSULTA Madalena
+CONSULTA Marta
+CONSULTA Aparicio
+CONSULTA António
+CONSULTA Joana
+CONSULTA Madalena
+CONSULTA Simão
+CONSULTA André
+CONSULTA Adriana
+CONSULTA Henrique
+CONSULTA Joana
+CONSULTA Tomás
+CONSULTA Aparicio
+CONSULTA Marta
+CONSULTA Maria
+CONSULTA Madalena
+CONSULTA Carlos
+CONSULTA Simão
+CONSULTA Alexandre
+CONSULTA Simão
+CONSULTA António
+CONSULTA Tomás
+CONSULTA Madalena
+CONSULTA Carlos
+CONSULTA André
+CONSULTA Isabel
+CONSULTA Joana
+CONSULTA Carolina
+CONSULTA Alexandre
+CONSULTA Joana
+CONSULTA Bernardo
+CONSULTA Madalena
+CONSULTA Tomás
+CONSULTA Madalena
+CONSULTA Aparicio
+CONSULTA Henrique
+CONSULTA Alexandre
+CONSULTA Carlos
+CONSULTA Carolina
+CONSULTA Josefina
+CONSULTA Josefina
+CONSULTA Alexandre
+CONSULTA Tomás
+CONSULTA Carlos
+CONSULTA António
+CONSULTA Maria
+CONSULTA Alexandre
+CONSULTA Simão
+CONSULTA Joana
+CONSULTA Carolina
+CONSULTA Madalena
+CONSULTA Tomás
+CONSULTA António
+CONSULTA Tomás
+CONSULTA Isabel
+CONSULTA Alexandre
+CONSULTA Madalena
+CONSULTA Bernardo
+CONSULTA Alexandre
+CONSULTA Aparicio
+CONSULTA Madalena
+CONSULTA Carlos
+CONSULTA Maria
+CONSULTA Carlos
+CONSULTA Matilde
+CONSULTA Tomás
+CONSULTA Josefina
+CONSULTA Carlos
+CONSULTA Aparicio
+CONSULTA Simão
+CONSULTA Joana
+CONSULTA Carolina
+CONSULTA Marta
+CONSULTA Simão
+CONSULTA André
+CONSULTA Bernardo
+CONSULTA Marta
+CONSULTA Henrique
+CONSULTA Adriana
+CONSULTA Isabel
+CONSULTA Josefina
+CONSULTA Alexandre
+CONSULTA Bernardo
+CONSULTA Carolina
+CONSULTA Tomás
+CONSULTA Bernardo
+CONSULTA Simão
+CONSULTA Marta
+CONSULTA João
+CONSULTA Henrique
+CONSULTA Carlos
+CONSULTA Aparicio
+CONSULTA Carolina
+CONSULTA Aparicio
+CONSULTA Carlos
+CONSULTA Joana
+CONSULTA Carlos
+CONSULTA Carlos
+CONSULTA João
+CONSULTA Aparicio
+CONSULTA Carolina
+CONSULTA Madalena
+CONSULTA Madalena
+CONSULTA Tomás
+CONSULTA Aparicio
+CONSULTA Josefina
+CONSULTA Henrique
+CONSULTA Isabel
+CONSULTA Madalena
+CONSULTA António
+CONSULTA Adriana
+CONSULTA Joana
+CONSULTA Josefina
+CONSULTA João
+CONSULTA Josefina
+CONSULTA Alexandre
+CONSULTA Josefina
+CONSULTA Simão
+CONSULTA Madalena
+CONSULTA Tomás
+CONSULTA Henrique
+CONSULTA Isabel
+CONSULTA Carolina
+CONSULTA Marta
+CONSULTA Aparicio
+CONSULTA Maria
+CONSULTA Isabel
+CONSULTA Isabel
+CONSULTA Bernardo
+CONSULTA Josefina
+CONSULTA Maria
+CONSULTA Henrique
+CONSULTA João
+CONSULTA Alexandre
+CONSULTA Josefina
+CONSULTA Marta
+CONSULTA Adriana
+CONSULTA Tomás
+CONSULTA André
+CONSULTA Alexandre
+CONSULTA António
+CONSULTA Madalena
+CONSULTA Aparicio
+CONSULTA Josefina
+CONSULTA Madalena
+CONSULTA André
+CONSULTA Maria
+CONSULTA António
+CONSULTA André
+CONSULTA Madalena
+CONSULTA Simão
+CONSULTA Maria
+CONSULTA Bernardo
+CONSULTA Madalena
+CONSULTA Carlos
+CONSULTA Isabel
+CONSULTA António
+CONSULTA Maria
+CONSULTA Carlos
+CONSULTA Carolina
+CONSULTA Henrique
+CONSULTA Henrique
+CONSULTA Matilde
+CONSULTA Tomás
+CONSULTA Adriana
+CONSULTA André
+CONSULTA Carolina
+CONSULTA André
+CONSULTA Josefina
+CONSULTA Simão
+CONSULTA Bernardo
+CONSULTA Aparicio
+CONSULTA Henrique
+CONSULTA António
+CONSULTA Aparicio
+CONSULTA Isabel
+CONSULTA Bernardo
+CONSULTA Josefina
+CONSULTA Aparicio
+CONSULTA André
+CONSULTA Adriana
+CONSULTA Adriana
+CONSULTA Tomás
+CONSULTA Marta
+CONSULTA Simão
+CONSULTA André
+CONSULTA Alexandre
+CONSULTA Aparicio
+CONSULTA Matilde
+CONSULTA Matilde
+CONSULTA Alexandre
+CONSULTA Maria
+CONSULTA Carolina
+CONSULTA João
+CONSULTA Isabel
+CONSULTA Joana
+CONSULTA Carlos
+CONSULTA Alexandre
+CONSULTA Tomás
+CONSULTA Carlos
+CONSULTA Aparicio
+CONSULTA Joana
+CONSULTA Joana
+CONSULTA Tomás
+CONSULTA Josefina
+CONSULTA Josefina
+CONSULTA Adriana
+CONSULTA Matilde
+CONSULTA Josefina
+CONSULTA Isabel
+CONSULTA Adriana
+CONSULTA Madalena
+CONSULTA Simão
+CONSULTA Adriana
+CONSULTA Madalena
+CONSULTA Aparicio
+CONSULTA Joana
+CONSULTA André
+CONSULTA Alexandre
+CONSULTA Marta
+CONSULTA Alexandre
+CONSULTA António
+CONSULTA Josefina
+CONSULTA Alexandre
+CONSULTA Carlos
+CONSULTA Bernardo
+CONSULTA André
+CONSULTA Carlos
+CONSULTA Marta
+CONSULTA Carolina
+CONSULTA Marta
+CONSULTA Bernardo
+CONSULTA Tomás
+CONSULTA Bernardo
+CONSULTA Henrique
+CONSULTA Simão
+CONSULTA Carolina
+CONSULTA João
+CONSULTA Joana
+CONSULTA Carolina
+CONSULTA Maria
+CONSULTA Isabel
+CONSULTA Simão
+CONSULTA Tomás
+CONSULTA Adriana
+CONSULTA Carlos
+CONSULTA Aparicio
+CONSULTA Henrique
+CONSULTA André
+CONSULTA Matilde
+CONSULTA Carolina
+CONSULTA Bernardo
+CONSULTA André
+CONSULTA Henrique
+CONSULTA Alexandre
+CONSULTA João
+CONSULTA Adriana
+CONSULTA Carlos
+CONSULTA Matilde
+CONSULTA João
+CONSULTA Bernardo
+CONSULTA Adriana
+CONSULTA Simão
+CONSULTA Adriana
+CONSULTA Simão
+CONSULTA Josefina
+CONSULTA André
+CONSULTA Carlos
+CONSULTA Tomás
+CONSULTA Joana
+CONSULTA André
+CONSULTA Matilde
+CONSULTA Carlos
+CONSULTA Carolina
+CONSULTA Maria
+CONSULTA Maria
+CONSULTA Madalena
+CONSULTA Bernardo
+CONSULTA Maria
+CONSULTA Adriana
+CONSULTA Adriana
+CONSULTA Bernardo
+CONSULTA Marta
+CONSULTA Joana
+CONSULTA Marta
+CONSULTA André
+CONSULTA Bernardo
+CONSULTA Tomás
+CONSULTA Bernardo
+CONSULTA Matilde
+CONSULTA Josefina
+CONSULTA Josefina
+CONSULTA Carlos
+CONSULTA Simão
+CONSULTA Alexandre
+CONSULTA Marta
+CONSULTA Joana
+CONSULTA Alexandre
+CONSULTA António
+CONSULTA Carolina
+CONSULTA Madalena
+CONSULTA Bernardo
+CONSULTA Marta
+CONSULTA André
+CONSULTA Carolina
+CONSULTA Alexandre
+CONSULTA João
+CONSULTA Isabel
+CONSULTA Madalena
+CONSULTA Maria
+CONSULTA Henrique
+CONSULTA Joana
+CONSULTA Josefina
+CONSULTA André
+CONSULTA Maria
+CONSULTA Matilde
+CONSULTA Maria
+CONSULTA Josefina
+CONSULTA Isabel
+CONSULTA Tomás
+CONSULTA Adriana
+CONSULTA Aparicio
+CONSULTA Bernardo
+CONSULTA Henrique
+CONSULTA Joana
+CONSULTA Madalena
+CONSULTA Aparicio
+CONSULTA Bernardo
+CONSULTA João
+CONSULTA João
+CONSULTA Madalena
+CONSULTA João
+CONSULTA Adriana
+CONSULTA Carlos
+CONSULTA Adriana
+CONSULTA Aparicio
+CONSULTA Joana
+CONSULTA Marta
+CONSULTA Aparicio
+CONSULTA Carlos
+CONSULTA Matilde
+CONSULTA António
+CONSULTA João
+CONSULTA Tomás
+CONSULTA Isabel
+CONSULTA Bernardo
+CONSULTA Josefina
+CONSULTA Adriana
+CONSULTA Isabel
+CONSULTA Joana
+CONSULTA Carlos
+CONSULTA Matilde
+CONSULTA Alexandre
+CONSULTA Bernardo
+CONSULTA Isabel
+CONSULTA Marta
+CONSULTA André
+CONSULTA Bernardo
+CONSULTA Henrique
+CONSULTA Simão
+CONSULTA Simão
+CONSULTA Bernardo
+CONSULTA Bernardo
+CONSULTA Henrique
+CONSULTA Matilde
+CONSULTA António
+CONSULTA Tomás
+CONSULTA Carlos
+CONSULTA Marta
+CONSULTA António
+CONSULTA Tomás
+CONSULTA Joana
+CONSULTA Simão
+CONSULTA Matilde
+CONSULTA Marta
+CONSULTA Adriana
+CONSULTA Bernardo
+CONSULTA Joana
+CONSULTA Tomás
+CONSULTA Josefina
+CONSULTA Adriana
+CONSULTA Isabel
+CONSULTA Maria
+CONSULTA Joana
+CONSULTA Tomás
+CONSULTA João
+CONSULTA Simão
+CONSULTA Tomás
+CONSULTA João
+CONSULTA Simão
+CONSULTA Bernardo
+CONSULTA Carolina
+CONSULTA Madalena
+CONSULTA Alexandre
+CONSULTA Josefina
+CONSULTA Aparicio
+CONSULTA Henrique
+CONSULTA Marta
+CONSULTA João
+CONSULTA Carolina
+CONSULTA Isabel
+CONSULTA Carolina
+CONSULTA Bernardo
+CONSULTA Isabel
+CONSULTA António
+CONSULTA João
+CONSULTA António
+CONSULTA André
+CONSULTA Maria
+CONSULTA Simão
+CONSULTA Alexandre
+CONSULTA Adriana
+CONSULTA António
+CONSULTA Aparicio
+CONSULTA Carlos
+CONSULTA Simão
+CONSULTA André
+CONSULTA Carolina
+CONSULTA António
+CONSULTA Carlos
+CONSULTA António
+CONSULTA Joana
+CONSULTA Maria
+CONSULTA Bernardo
+CONSULTA Marta
+CONSULTA Josefina
+CONSULTA Josefina
+CONSULTA Matilde
+CONSULTA Marta
+CONSULTA Madalena
+CONSULTA Marta
+CONSULTA Maria
+CONSULTA Maria
+CONSULTA Adriana
+CONSULTA Henrique
+CONSULTA Madalena
+CONSULTA Josefina
+CONSULTA André
+CONSULTA Tomás
+CONSULTA Bernardo
+CONSULTA Alexandre
+CONSULTA Marta
+CONSULTA Marta
+CONSULTA Maria
+CONSULTA Isabel
+CONSULTA João
+CONSULTA António
+CONSULTA Marta
+CONSULTA Henrique
+CONSULTA Bernardo
+CONSULTA Matilde
+CONSULTA Carolina
+CONSULTA Aparicio
+CONSULTA António
+CONSULTA Aparicio
+CONSULTA Tomás
+CONSULTA Bernardo
+CONSULTA Joana
+CONSULTA André
+CONSULTA Matilde
+CONSULTA Isabel
+CONSULTA Maria
+CONSULTA António
+CONSULTA Henrique
+CONSULTA Carolina
+CONSULTA Madalena
+CONSULTA João
+CONSULTA Madalena
+CONSULTA Josefina
+CONSULTA João
+CONSULTA Adriana
+CONSULTA Carolina
+CONSULTA Josefina
+CONSULTA Simão
+CONSULTA João
+CONSULTA Madalena
+CONSULTA Marta
+CONSULTA Aparicio
+CONSULTA Bernardo
+CONSULTA Marta
+CONSULTA André
+CONSULTA João
+CONSULTA Carlos
+CONSULTA Carlos
+CONSULTA Carlos
+CONSULTA Madalena
+CONSULTA Bernardo
+CONSULTA Alexandre
+CONSULTA Carlos
+CONSULTA Alexandre
+CONSULTA Alexandre
+CONSULTA Carlos
+CONSULTA Aparicio
+CONSULTA Simão
+CONSULTA António
+CONSULTA Bernardo
+CONSULTA Matilde
+CONSULTA António
+CONSULTA Josefina
+CONSULTA Matilde
+CONSULTA Marta
+CONSULTA João
+CONSULTA André
+CONSULTA Tomás
+CONSULTA António
+CONSULTA António
+CONSULTA Josefina
+CONSULTA Adriana
+CONSULTA Adriana
+CONSULTA Alexandre
+CONSULTA Aparicio
+CONSULTA Joana
+CONSULTA Simão
+CONSULTA Joana
+CONSULTA Maria
+CONSULTA Marta
+CONSULTA Aparicio
+CONSULTA Tomás
+CONSULTA Bernardo
+CONSULTA Maria
+CONSULTA Aparicio
+CONSULTA Marta
+CONSULTA Madalena
+CONSULTA Carolina
+CONSULTA Josefina
+CONSULTA Marta
+CONSULTA Josefina
+CONSULTA Isabel
+CONSULTA André
+CONSULTA Tomás
+CONSULTA Henrique
+CONSULTA Simão
+CONSULTA Bernardo
+CONSULTA Maria
+CONSULTA Isabel
+CONSULTA Isabel
+CONSULTA Isabel
+CONSULTA António
+CONSULTA António
+CONSULTA António
+CONSULTA Madalena
+CONSULTA João
+CONSULTA Bernardo
+CONSULTA Josefina
+CONSULTA Aparicio
+CONSULTA Maria
+CONSULTA Aparicio
+CONSULTA Marta
+CONSULTA Madalena
+CONSULTA Carolina
+CONSULTA Josefina
+CONSULTA Marta
+CONSULTA Tomás
+CONSULTA António
+CONSULTA Carlos
+CONSULTA Adriana
+CONSULTA Matilde
+CONSULTA Maria
+CONSULTA António
+CONSULTA André
+CONSULTA Bernardo
+CONSULTA Bernardo
+CONSULTA Isabel
+CONSULTA António
+CONSULTA Josefina
+CONSULTA Matilde
+CONSULTA Marta
+CONSULTA António
+CONSULTA Maria
+CONSULTA André
+CONSULTA Josefina
+CONSULTA Josefina
+CONSULTA Joana
+CONSULTA Carolina
+CONSULTA Isabel
+CONSULTA Tomás
+CONSULTA Carlos
+CONSULTA João
+CONSULTA Marta
+CONSULTA Madalena
+CONSULTA Tomás
+CONSULTA Marta
+CONSULTA Matilde
+CONSULTA Maria
+CONSULTA Madalena
+CONSULTA Alexandre
+CONSULTA Henrique
+CONSULTA Henrique
+CONSULTA Aparicio
+CONSULTA Carlos
+CONSULTA Adriana
+CONSULTA Bernardo
+CONSULTA Marta
+CONSULTA André
+CONSULTA Alexandre
+CONSULTA Tomás
+CONSULTA Alexandre
+CONSULTA Isabel
+CONSULTA Madalena
+CONSULTA João
+CONSULTA Bernardo
+CONSULTA Maria
+CONSULTA Henrique
+CONSULTA Henrique
+CONSULTA Simão
+CONSULTA João
+CONSULTA Tomás
+CONSULTA Isabel
+CONSULTA Adriana
+CONSULTA António
+CONSULTA Simão
+CONSULTA André
+CONSULTA Josefina
+CONSULTA Tomás
+CONSULTA André
+CONSULTA Marta
+CONSULTA Maria
+CONSULTA Simão
+CONSULTA Joana
+CONSULTA Simão
+CONSULTA Adriana
+CONSULTA Madalena
+CONSULTA Tomás
+CONSULTA Joana
+CONSULTA Adriana
+CONSULTA António
+CONSULTA Adriana
+CONSULTA Tomás
+CONSULTA Josefina
+CONSULTA Isabel
+CONSULTA António
+CONSULTA Joana
+CONSULTA Carolina
+CONSULTA Adriana
+CONSULTA Adriana
+CONSULTA Marta
+CONSULTA Henrique
+CONSULTA Josefina
+CONSULTA Madalena
+CONSULTA Josefina
+CONSULTA Bernardo
+CONSULTA Simão
+CONSULTA André
+CONSULTA Josefina
+CONSULTA Marta
+CONSULTA Madalena
+CONSULTA João
+CONSULTA António
+CONSULTA Carolina
+CONSULTA Henrique
+CONSULTA Aparicio
+CONSULTA Joana
+CONSULTA Joana
+CONSULTA Matilde
+CONSULTA João
+CONSULTA Adriana
+CONSULTA Aparicio
+CONSULTA Matilde
+CONSULTA Maria
+CONSULTA Madalena
+CONSULTA Josefina
+CONSULTA Matilde
+CONSULTA Simão
+CONSULTA Aparicio
+CONSULTA Tomás
+CONSULTA André
+CONSULTA Carolina
+CONSULTA Bernardo
+CONSULTA Joana
+CONSULTA Adriana
+CONSULTA Marta
+CONSULTA André
+CONSULTA Alexandre
+CONSULTA Carolina
+CONSULTA Adriana
+CONSULTA Joana
+CONSULTA Simão
+CONSULTA Carolina
+CONSULTA Isabel
+CONSULTA Matilde
+CONSULTA Carlos
+CONSULTA Josefina
+CONSULTA Josefina
+CONSULTA Marta
+CONSULTA Isabel
+CONSULTA Simão
+CONSULTA Josefina
+CONSULTA Maria
+CONSULTA Alexandre
+CONSULTA Alexandre
+CONSULTA João
+CONSULTA Marta
+CONSULTA Josefina
+CONSULTA Carlos
+CONSULTA Alexandre
+CONSULTA Maria
+CONSULTA Madalena
+CONSULTA Joana
+CONSULTA Carolina
+CONSULTA Adriana
+CONSULTA Alexandre
+CONSULTA Bernardo
+CONSULTA Josefina
+CONSULTA João
+CONSULTA Maria
+CONSULTA Matilde
+CONSULTA Matilde
+CONSULTA Carolina
+CONSULTA Bernardo
+CONSULTA Aparicio
+CONSULTA Alexandre
+CONSULTA Adriana
+CONSULTA Madalena
+CONSULTA Matilde
+CONSULTA Maria
+CONSULTA Henrique
+CONSULTA Simão
+CONSULTA Tomás
+CONSULTA Marta
+CONSULTA Tomás
+CONSULTA Alexandre
+CONSULTA Alexandre
+CONSULTA António
+CONSULTA António
+CONSULTA Maria
+CONSULTA Adriana
+CONSULTA Carlos
+CONSULTA Aparicio
+CONSULTA Henrique
+CONSULTA Isabel
+CONSULTA Bernardo
+CONSULTA António
+CONSULTA Isabel
+CONSULTA Alexandre
+CONSULTA António
+CONSULTA João
+CONSULTA Bernardo
+CONSULTA André
+CONSULTA Adriana
+CONSULTA Maria
+CONSULTA Josefina
+CONSULTA Henrique
+CONSULTA Marta
+CONSULTA Tomás
+CONSULTA Alexandre
+CONSULTA Simão
+CONSULTA Maria
+CONSULTA Joana
+CONSULTA Matilde
+CONSULTA Adriana
+CONSULTA Carlos
+CONSULTA Aparicio
+CONSULTA Marta
+CONSULTA Simão
+CONSULTA Bernardo
+CONSULTA Joana
+CONSULTA João
+CONSULTA Joana
+CONSULTA André
+CONSULTA Isabel
+CONSULTA João
+CONSULTA Bernardo
+CONSULTA Tomás
+CONSULTA Adriana
+CONSULTA Aparicio
+CONSULTA Simão
+CONSULTA Maria
+CONSULTA Matilde
+CONSULTA Tomás
+CONSULTA Aparicio
+CONSULTA Isabel
+CONSULTA Josefina
+CONSULTA Aparicio
+CONSULTA Josefina
+CONSULTA Madalena
+CONSULTA Isabel
+CONSULTA António
+CONSULTA João
+CONSULTA Tomás
+CONSULTA André
+CONSULTA Alexandre
+CONSULTA Isabel
+CONSULTA Bernardo
+CONSULTA Alexandre
+CONSULTA Alexandre
+CONSULTA Matilde
+CONSULTA André
+CONSULTA Carolina
+CONSULTA Alexandre
+CONSULTA Maria
+CONSULTA Maria
+CONSULTA Carlos
+CONSULTA Matilde
+CONSULTA Isabel
+CONSULTA Adriana
+CONSULTA Isabel
+CONSULTA António
+CONSULTA Simão
+CONSULTA Josefina
+CONSULTA Adriana
+CONSULTA Simão
+CONSULTA André
+CONSULTA Adriana
+CONSULTA João
+CONSULTA Aparicio
+CONSULTA Adriana
+CONSULTA Madalena
+CONSULTA Adriana
+CONSULTA Alexandre
+CONSULTA Marta
+CONSULTA Aparicio
+CONSULTA Isabel
+CONSULTA António
+CONSULTA Carlos
+CONSULTA Aparicio
+CONSULTA Josefina
+CONSULTA Matilde
+CONSULTA Matilde
+CONSULTA Simão
+CONSULTA Joana
+CONSULTA Simão
+CONSULTA António
+CONSULTA João
+CONSULTA Aparicio
+CONSULTA Adriana
+CONSULTA Alexandre
+CONSULTA Tomás
+CONSULTA Henrique
+CONSULTA Isabel
+CONSULTA Madalena
+CONSULTA Simão
+CONSULTA Aparicio
+CONSULTA João
+CONSULTA André
+CONSULTA Adriana
+CONSULTA Madalena
+CONSULTA Simão
+CONSULTA Madalena
+CONSULTA Marta
+CONSULTA Alexandre
+CONSULTA Adriana
+CONSULTA Simão
+CONSULTA Aparicio
+CONSULTA Josefina
+CONSULTA André
+CONSULTA Henrique
+CONSULTA Adriana
+CONSULTA Bernardo
+CONSULTA Henrique
+CONSULTA Marta
+CONSULTA Carlos
+CONSULTA Matilde
+CONSULTA João
+CONSULTA Simão
+CONSULTA Carlos
+CONSULTA Carlos
+CONSULTA Henrique
+CONSULTA Bernardo
+CONSULTA Isabel
+CONSULTA João
+CONSULTA Josefina
+CONSULTA Aparicio
+CONSULTA Simão
+CONSULTA Tomás
+CONSULTA Alexandre
+CONSULTA Adriana
+CONSULTA Joana
+CONSULTA Josefina
+CONSULTA João
+CONSULTA Joana
+CONSULTA António
+CONSULTA Carlos
+CONSULTA Maria
+CONSULTA Tomás
+CONSULTA Josefina
+CONSULTA Matilde
+CONSULTA António
+CONSULTA Isabel
+CONSULTA Josefina
+CONSULTA Madalena
+CONSULTA Josefina
+CONSULTA Alexandre
+CONSULTA Bernardo
+CONSULTA Madalena
+CONSULTA Henrique
+CONSULTA Alexandre
+CONSULTA Aparicio
+CONSULTA André
+CONSULTA Madalena
+CONSULTA André
+CONSULTA Simão
+CONSULTA António
+CONSULTA Carlos
+CONSULTA André
+CONSULTA Matilde
+CONSULTA Simão
+CONSULTA Marta
+CONSULTA Bernardo
+CONSULTA João
+CONSULTA Maria
+CONSULTA Matilde
+CONSULTA Matilde
+CONSULTA Matilde
+CONSULTA Maria
+CONSULTA Adriana
+CONSULTA Matilde
+CONSULTA Carlos
+CONSULTA Isabel
+CONSULTA Maria
+CONSULTA João
+CONSULTA Joana
+CONSULTA Adriana
+CONSULTA Alexandre
+CONSULTA Simão
+CONSULTA Henrique
+CONSULTA Henrique
+CONSULTA Aparicio
+CONSULTA João
+CONSULTA Bernardo
+CONSULTA André
+CONSULTA Aparicio
+CONSULTA Josefina
+CONSULTA Isabel
+CONSULTA Aparicio
+CONSULTA Carolina
+CONSULTA Carolina
+CONSULTA Adriana
+CONSULTA Matilde
+CONSULTA Madalena
+CONSULTA Bernardo
+CONSULTA Marta
+CONSULTA Henrique
+CONSULTA Henrique
+CONSULTA Maria
+CONSULTA Matilde
+CONSULTA Carlos
+CONSULTA João
+CONSULTA João
+CONSULTA Carolina
+CONSULTA Madalena
+CONSULTA Joana
+CONSULTA Josefina
+CONSULTA Bernardo
+CONSULTA Henrique
+CONSULTA Henrique
+CONSULTA Alexandre
+CONSULTA André
+CONSULTA Joana
+CONSULTA Madalena
+CONSULTA João
+CONSULTA Tomás
+CONSULTA Henrique
+CONSULTA Carolina
+CONSULTA Adriana
+CONSULTA Maria
+CONSULTA Aparicio
+CONSULTA Carlos
+CONSULTA João
+CONSULTA Aparicio
+CONSULTA Joana
+CONSULTA Adriana
+CONSULTA António
+CONSULTA António
+CONSULTA André
+CONSULTA Marta
+CONSULTA Tomás
+CONSULTA Matilde
+CONSULTA Matilde
+CONSULTA Aparicio
+CONSULTA Henrique
+CONSULTA António
+CONSULTA Bernardo
+CONSULTA Isabel
+CONSULTA Joana
+CONSULTA Henrique
+CONSULTA André
+CONSULTA Josefina
+CONSULTA Joana
+CONSULTA Aparicio
+CONSULTA Isabel
+CONSULTA Marta
+CONSULTA Adriana
+CONSULTA Bernardo
+CONSULTA Simão
+CONSULTA Josefina
+CONSULTA Maria
+CONSULTA Isabel
+CONSULTA João
+CONSULTA Madalena
+CONSULTA André
+CONSULTA Josefina
+CONSULTA Aparicio
+CONSULTA Tomás
+CONSULTA Matilde
+CONSULTA Joana
+CONSULTA Adriana
+CONSULTA Matilde
+CONSULTA António
+CONSULTA Madalena
+CONSULTA Henrique
+CONSULTA João
+CONSULTA Aparicio
+CONSULTA Adriana
+CONSULTA Joana
+CONSULTA Madalena
+CONSULTA Simão
+CONSULTA Carlos
+CONSULTA Maria
+CONSULTA Joana
+CONSULTA Matilde
+CONSULTA Madalena
+CONSULTA Maria
+CONSULTA António
+CONSULTA Henrique
+CONSULTA Josefina
+CONSULTA Marta
+CONSULTA Alexandre
+CONSULTA Adriana
+CONSULTA Marta
+CONSULTA Henrique
+CONSULTA Carolina
+CONSULTA Josefina
+CONSULTA Simão
+CONSULTA Adriana
+CONSULTA Adriana
+CONSULTA Madalena
+CONSULTA Aparicio
+CONSULTA Alexandre
+CONSULTA Josefina
+CONSULTA Bernardo
+CONSULTA Tomás
+CONSULTA Simão
+CONSULTA Carolina
+CONSULTA João
+CONSULTA Isabel
+CONSULTA Aparicio
+CONSULTA Joana
+CONSULTA Tomás
+CONSULTA Adriana
+CONSULTA Simão
+CONSULTA Henrique
+CONSULTA Adriana
+CONSULTA André
+CONSULTA Marta
+CONSULTA Maria
+CONSULTA André
+CONSULTA Adriana
+CONSULTA Aparicio
+CONSULTA Tomás
+CONSULTA Alexandre
+CONSULTA Bernardo
+CONSULTA Maria
+CONSULTA Henrique
+CONSULTA Marta
+CONSULTA Tomás
+CONSULTA João
+CONSULTA Carolina
+CONSULTA Simão
+CONSULTA Simão
+CONSULTA Adriana
+CONSULTA Josefina
+CONSULTA Madalena
+CONSULTA Henrique
+CONSULTA Carolina
+CONSULTA Joana
+CONSULTA Aparicio
+CONSULTA Josefina
+CONSULTA Josefina
+CONSULTA Aparicio
+CONSULTA Madalena
+CONSULTA Simão
+CONSULTA Bernardo
+CONSULTA Adriana
+CONSULTA Alexandre
+CONSULTA Simão
+CONSULTA Adriana
+CONSULTA Aparicio
+CONSULTA Tomás
+CONSULTA Alexandre
+CONSULTA Tomás
+CONSULTA Aparicio
+CONSULTA André
+CONSULTA António
+CONSULTA Carlos
+CONSULTA Adriana
+CONSULTA Aparicio
+CONSULTA Marta
+CONSULTA Marta
+CONSULTA Adriana
+CONSULTA Josefina
+CONSULTA Marta
+CONSULTA Bernardo
+CONSULTA Simão
+CONSULTA André
+CONSULTA Simão
+CONSULTA Alexandre
+CONSULTA Adriana
+CONSULTA Carolina
+CONSULTA André
+CONSULTA Tomás
+CONSULTA Matilde
+CONSULTA Joana
+CONSULTA Alexandre
+CONSULTA Adriana
+CONSULTA Josefina
+CONSULTA Bernardo
+CONSULTA Carlos
+CONSULTA Aparicio
+CONSULTA Henrique
+CONSULTA João
+CONSULTA Maria
+CONSULTA Adriana
+CONSULTA Madalena
+CONSULTA Henrique
+CONSULTA Matilde
+CONSULTA João
+CONSULTA Bernardo
+CONSULTA André
+CONSULTA Carlos
+CONSULTA Adriana
+CONSULTA Simão
+CONSULTA Isabel
+CONSULTA Aparicio
+CONSULTA Matilde
+CONSULTA Simão
+CONSULTA Maria
+CONSULTA Alexandre
+CONSULTA Alexandre
+CONSULTA Bernardo
+CONSULTA Henrique
+CONSULTA André
+CONSULTA Matilde
+CONSULTA António
+CONSULTA Carolina
+CONSULTA Marta
+CONSULTA Carlos
+CONSULTA Simão
+CONSULTA João
+CONSULTA Isabel
+CONSULTA Aparicio
+CONSULTA Carolina
+CONSULTA André
+CONSULTA André
+CONSULTA Aparicio
+CONSULTA Carolina
+CONSULTA Adriana
+CONSULTA Simão
+CONSULTA Henrique
+CONSULTA André
+CONSULTA Matilde
+CONSULTA André
+CONSULTA Alexandre
+CONSULTA Adriana
+CONSULTA Joana
+CONSULTA Simão
+CONSULTA Madalena
+CONSULTA Isabel
+CONSULTA André
+CONSULTA Simão
+CONSULTA Maria
+CONSULTA António
+CONSULTA Madalena
+CONSULTA Isabel
+CONSULTA Josefina
+CONSULTA Joana
+CONSULTA Matilde
+CONSULTA António
+CONSULTA Marta
+CONSULTA Alexandre
+CONSULTA Carlos
+CONSULTA António
+CONSULTA Marta
+CONSULTA Joana
+CONSULTA Carolina
+CONSULTA António
+CONSULTA Adriana
+CONSULTA António
+CONSULTA Carlos
+CONSULTA Madalena
+CONSULTA Simão
+CONSULTA Bernardo
+CONSULTA João
+CONSULTA Adriana
+CONSULTA Alexandre
+CONSULTA Marta
+CONSULTA Joana
+CONSULTA Aparicio
+CONSULTA Tomás
+CONSULTA Simão
+CONSULTA Joana
+CONSULTA Josefina
+CONSULTA Isabel
+CONSULTA Matilde
+CONSULTA Adriana
+CONSULTA Henrique
+CONSULTA Bernardo
+CONSULTA Simão
+CONSULTA Josefina
+CONSULTA Maria
+CONSULTA Marta
+CONSULTA Alexandre
+CONSULTA Tomás
+CONSULTA António
+CONSULTA Tomás
+CONSULTA Maria
+CONSULTA Simão
+CONSULTA André
+CONSULTA Adriana
+CONSULTA Adriana
+CONSULTA Joana
+CONSULTA Maria
+CONSULTA Marta
+CONSULTA João
+CONSULTA Alexandre
+CONSULTA Maria
+CONSULTA Carolina
+CONSULTA Matilde
+CONSULTA Josefina
+CONSULTA Madalena
+CONSULTA Matilde
+CONSULTA Simão
+CONSULTA Madalena
+CONSULTA Carlos
+CONSULTA Madalena
+CONSULTA Bernardo
+CONSULTA Tomás
+CONSULTA Isabel
+CONSULTA Matilde
+CONSULTA Marta
+CONSULTA Matilde
+CONSULTA Josefina
+CONSULTA Isabel
+CONSULTA Maria
+CONSULTA Josefina
+CONSULTA André
+CONSULTA André
+CONSULTA Isabel
+CONSULTA João
+CONSULTA André
+CONSULTA Carolina
+CONSULTA Carolina
+CONSULTA Alexandre
+CONSULTA António
+CONSULTA António
+CONSULTA Isabel
+CONSULTA André
+CONSULTA Marta
+CONSULTA André
+CONSULTA Bernardo
+CONSULTA Alexandre
+CONSULTA Matilde
+CONSULTA Henrique
+CONSULTA Marta
+CONSULTA Carlos
+CONSULTA João
+CONSULTA Isabel
+CONSULTA Maria
+CONSULTA João
+CONSULTA Adriana
+CONSULTA Tomás
+CONSULTA Adriana
+CONSULTA Joana
+CONSULTA Bernardo
+CONSULTA Simão
+CONSULTA Tomás
+CONSULTA Maria
+CONSULTA Matilde
+CONSULTA João
+CONSULTA Isabel
+CONSULTA Tomás
+CONSULTA Aparicio
+CONSULTA Matilde
+CONSULTA Joana
+CONSULTA Alexandre
+CONSULTA Simão
+CONSULTA Joana
+CONSULTA Simão
+CONSULTA Adriana
+CONSULTA Joana
+CONSULTA Madalena
+CONSULTA Marta
+CONSULTA Tomás
+CONSULTA André
+CONSULTA Adriana
+CONSULTA Carlos
+CONSULTA Marta
+CONSULTA Matilde
+CONSULTA André
+CONSULTA Matilde
+CONSULTA Joana
+CONSULTA Carlos
+CONSULTA Matilde
+CONSULTA Alexandre
+CONSULTA João
+CONSULTA Isabel
+CONSULTA Aparicio
+CONSULTA Alexandre
+CONSULTA Josefina
+CONSULTA André
+CONSULTA Maria
+CONSULTA Simão
+CONSULTA Marta
+CONSULTA Adriana
+CONSULTA Aparicio
+CONSULTA Isabel
+CONSULTA Carlos
+CONSULTA Carolina
+CONSULTA Josefina
+CONSULTA Maria
+CONSULTA Simão
+CONSULTA João
+CONSULTA João
+CONSULTA Carolina
+CONSULTA Henrique
+CONSULTA Matilde
+CONSULTA Aparicio
+CONSULTA Marta
+CONSULTA Bernardo
+CONSULTA Carlos
+CONSULTA Simão
+CONSULTA Carlos
+CONSULTA André
+CONSULTA Joana
+CONSULTA Simão
+CONSULTA Tomás
+CONSULTA Carolina
+CONSULTA Adriana
+CONSULTA Matilde
+CONSULTA Madalena
+CONSULTA Joana
+CONSULTA Aparicio
+CONSULTA Carlos
+CONSULTA Madalena
+CONSULTA André
+CONSULTA Aparicio
+CONSULTA Adriana
+CONSULTA Isabel
+CONSULTA Alexandre
+CONSULTA João
+CONSULTA Bernardo
+CONSULTA Carolina
+CONSULTA Carolina
+CONSULTA Simão
+CONSULTA António
+CONSULTA Alexandre
+CONSULTA Marta
+CONSULTA Alexandre
+CONSULTA Maria
+CONSULTA Josefina
+CONSULTA Maria
+CONSULTA Aparicio
+CONSULTA Alexandre
+CONSULTA Bernardo
+CONSULTA Bernardo
+CONSULTA António
+CONSULTA Carlos
+CONSULTA Madalena
+CONSULTA Henrique
+CONSULTA André
+CONSULTA Simão
+CONSULTA Carlos
+CONSULTA Aparicio
+CONSULTA Adriana
+CONSULTA Henrique
+CONSULTA Carlos
+CONSULTA Tomás
+CONSULTA António
+CONSULTA Adriana
+CONSULTA Carolina
+CONSULTA Maria
+CONSULTA Madalena
+CONSULTA Isabel
+CONSULTA André
+CONSULTA Alexandre
+CONSULTA Joana
+CONSULTA Joana
+CONSULTA Alexandre
+CONSULTA Madalena
+CONSULTA Bernardo
+CONSULTA André
+CONSULTA Adriana
+CONSULTA Matilde
+CONSULTA Madalena
+CONSULTA António
+CONSULTA Carolina
+CONSULTA Simão
+CONSULTA Simão
+CONSULTA João
+CONSULTA Carolina
+CONSULTA Josefina
+CONSULTA Bernardo
+CONSULTA António
+CONSULTA Adriana
+CONSULTA João
+CONSULTA André
+CONSULTA Aparicio
+CONSULTA André
+CONSULTA Joana
+CONSULTA Henrique
+CONSULTA António
+CONSULTA Madalena
+CONSULTA Joana
+CONSULTA Josefina
+CONSULTA Madalena
+CONSULTA Bernardo
+CONSULTA Isabel
+CONSULTA Aparicio
+CONSULTA Tomás
+CONSULTA Alexandre
+CONSULTA Maria
+CONSULTA Simão
+CONSULTA Joana
+CONSULTA Bernardo
+CONSULTA António
+CONSULTA Carolina
+CONSULTA Simão
+CONSULTA Josefina
+CONSULTA Alexandre
+CONSULTA Alexandre
+CONSULTA João
+CONSULTA Aparicio
+CONSULTA Bernardo
+CONSULTA João
+CONSULTA Aparicio
+CONSULTA Carlos
+CONSULTA Maria
+CONSULTA Marta
+CONSULTA Tomás
+CONSULTA André
+CONSULTA Adriana
+CONSULTA Henrique
+CONSULTA Aparicio
+CONSULTA Isabel
+CONSULTA Maria
+CONSULTA André
+CONSULTA Madalena
+CONSULTA Tomás
+CONSULTA Joana
+CONSULTA Tomás
+CONSULTA Marta
+CONSULTA Matilde
+CONSULTA António
+CONSULTA Henrique
+CONSULTA Adriana
+CONSULTA Adriana
+CONSULTA Henrique
+CONSULTA Marta
+CONSULTA Adriana
+CONSULTA Aparicio
+CONSULTA Carlos
+CONSULTA Madalena
+CONSULTA Aparicio
+CONSULTA Matilde
+CONSULTA Joana
+CONSULTA Carlos
+CONSULTA Isabel
+CONSULTA João
+CONSULTA Josefina
+CONSULTA Maria
+CONSULTA Marta
+CONSULTA Marta
+CONSULTA João
+CONSULTA Carlos
+CONSULTA Matilde
+CONSULTA Matilde
+CONSULTA Carolina
+CONSULTA Simão
+CONSULTA Matilde
+CONSULTA Maria
+CONSULTA Maria
+CONSULTA Carolina
+CONSULTA Isabel
+CONSULTA António
+CONSULTA Maria
+CONSULTA Aparicio
+CONSULTA Bernardo
+CONSULTA André
+CONSULTA Matilde
+CONSULTA Alexandre
+CONSULTA Maria
+CONSULTA Tomás
+CONSULTA António
+CONSULTA Matilde
+CONSULTA Carolina
+CONSULTA António
+CONSULTA Carolina
+CONSULTA Carolina
+CONSULTA Tomás
+CONSULTA António
+CONSULTA Tomás
+CONSULTA Henrique
+CONSULTA Carolina
+CONSULTA Henrique
+CONSULTA Adriana
+CONSULTA António
+CONSULTA Matilde
+CONSULTA João
+CONSULTA Alexandre
+CONSULTA Maria
+CONSULTA Carlos
+CONSULTA Bernardo
+CONSULTA Madalena
+CONSULTA Carlos
+CONSULTA Maria
+CONSULTA Isabel
+CONSULTA Maria
+CONSULTA Matilde
+CONSULTA Tomás
+CONSULTA Henrique
+CONSULTA Alexandre
+CONSULTA Josefina
+CONSULTA Joana
+CONSULTA António
+CONSULTA João
+CONSULTA Joana
+CONSULTA Adriana
+CONSULTA Carlos
+CONSULTA Carlos
+CONSULTA Aparicio
+CONSULTA Josefina
+CONSULTA Henrique
+CONSULTA Carolina
+CONSULTA Adriana
+CONSULTA Matilde
+CONSULTA Joana
+CONSULTA Alexandre
+CONSULTA Madalena
+CONSULTA Bernardo
+CONSULTA Henrique
+CONSULTA Alexandre
+CONSULTA João
+CONSULTA João
+CONSULTA Joana
+CONSULTA Tomás
+CONSULTA António
+CONSULTA Joana
+CONSULTA Josefina
+CONSULTA João
+CONSULTA Simão
+CONSULTA Tomás
+CONSULTA Isabel
+CONSULTA Adriana
+CONSULTA Alexandre
+CONSULTA André
+CONSULTA Carlos
+CONSULTA Joana
+CONSULTA Matilde
+CONSULTA Alexandre
+CONSULTA André
+CONSULTA João
+CONSULTA Tomás
+CONSULTA Madalena
+CONSULTA André
+CONSULTA João
+CONSULTA Joana
+CONSULTA Bernardo
+CONSULTA João
+CONSULTA Aparicio
+CONSULTA Madalena
+CONSULTA Aparicio
+CONSULTA António
+CONSULTA Carlos
+CONSULTA Carolina
+CONSULTA Simão
+CONSULTA Isabel
+CONSULTA André
+CONSULTA Aparicio
+CONSULTA Carolina
+CONSULTA Marta
+CONSULTA Isabel
+CONSULTA Marta
+CONSULTA Josefina
+CONSULTA Aparicio
+CONSULTA Maria
+CONSULTA Madalena
+CONSULTA Alexandre
+CONSULTA Alexandre
+CONSULTA Simão
+CONSULTA Joana
+CONSULTA Henrique
+CONSULTA Madalena
+CONSULTA Adriana
+CONSULTA Tomás
+CONSULTA Simão
+CONSULTA André
+CONSULTA António
+CONSULTA Simão
+CONSULTA Simão
+CONSULTA Adriana
+CONSULTA Madalena
+CONSULTA Joana
+CONSULTA Carolina
+CONSULTA Marta
+CONSULTA Carlos
+CONSULTA Aparicio
+CONSULTA Carolina
+CONSULTA Simão
+CONSULTA João
+CONSULTA André
+CONSULTA Henrique
+CONSULTA Carlos
+CONSULTA Henrique
+CONSULTA Adriana
+CONSULTA Tomás
+CONSULTA Isabel
+CONSULTA João
+CONSULTA Tomás
+CONSULTA Madalena
+CONSULTA Isabel
+CONSULTA Maria
+CONSULTA Madalena
+CONSULTA André
+CONSULTA Marta
+CONSULTA Matilde
+CONSULTA Tomás
+CONSULTA Matilde
+CONSULTA Carolina
+CONSULTA Adriana
+CONSULTA Tomás
+CONSULTA Joana
+CONSULTA André
+CONSULTA Aparicio
+CONSULTA Joana
+CONSULTA Adriana
+CONSULTA António
+CONSULTA Maria
+CONSULTA Aparicio
+CONSULTA João
+CONSULTA Maria
+CONSULTA Marta
+CONSULTA Carlos
+CONSULTA Maria
+CONSULTA Isabel
+CONSULTA Aparicio
+CONSULTA Marta
+CONSULTA Carolina
+CONSULTA Marta
+CONSULTA Matilde
+CONSULTA Tomás
+CONSULTA João
+CONSULTA Adriana
+CONSULTA Carolina
+CONSULTA Carlos
+CONSULTA André
+CONSULTA Isabel
+CONSULTA Alexandre
+CONSULTA Henrique
+CONSULTA André
+CONSULTA Josefina
+CONSULTA João
+CONSULTA Isabel
+CONSULTA Madalena
+CONSULTA Madalena
+CONSULTA Tomás
+CONSULTA Carlos
+CONSULTA Matilde
+CONSULTA Joana
+CONSULTA Josefina
+CONSULTA Adriana
+CONSULTA Maria
+CONSULTA Alexandre
+CONSULTA António
+CONSULTA Bernardo
+CONSULTA Carlos
+CONSULTA Josefina
+CONSULTA Joana
+CONSULTA Madalena
+CONSULTA Aparicio
+CONSULTA Aparicio
+CONSULTA Carlos
+CONSULTA Marta
+CONSULTA Marta
+CONSULTA Carolina
+CONSULTA Adriana
+CONSULTA Madalena
+CONSULTA Isabel
+CONSULTA Maria
+CONSULTA João
+CONSULTA Bernardo
+CONSULTA Aparicio
+CONSULTA Adriana
+CONSULTA Carolina
+CONSULTA Madalena
+CONSULTA Simão
+CONSULTA António
+CONSULTA Aparicio
+CONSULTA Alexandre
+CONSULTA Alexandre
+CONSULTA Bernardo
+CONSULTA Carolina
+CONSULTA Bernardo
+CONSULTA Bernardo
+CONSULTA Bernardo
+CONSULTA Joana
+CONSULTA Carlos
+CONSULTA Bernardo
+CONSULTA Tomás
+CONSULTA Josefina
+CONSULTA Carlos
+CONSULTA Carlos
+CONSULTA Bernardo
+CONSULTA Marta
+CONSULTA Joana
+CONSULTA André
+CONSULTA Josefina
+CONSULTA Simão
+CONSULTA Matilde
+CONSULTA Bernardo
+CONSULTA Bernardo
+CONSULTA João
+CONSULTA Simão
+CONSULTA Aparicio
+CONSULTA Aparicio
+CONSULTA Marta
+CONSULTA Tomás
+CONSULTA Isabel
+CONSULTA Henrique
+CONSULTA Joana
+CONSULTA Josefina
+CONSULTA Aparicio
+CONSULTA Henrique
+CONSULTA Madalena
+CONSULTA Aparicio
+CONSULTA João
+CONSULTA Joana
+CONSULTA Josefina
+CONSULTA Adriana
+CONSULTA Joana
+CONSULTA Carlos
+CONSULTA Isabel
+CONSULTA João
+CONSULTA António
+CONSULTA Marta
+CONSULTA Aparicio
+CONSULTA Henrique
+CONSULTA Marta
+CONSULTA Henrique
+CONSULTA Isabel
+CONSULTA Maria
+CONSULTA Matilde
+CONSULTA Henrique
+CONSULTA Aparicio
+CONSULTA Aparicio
+CONSULTA João
+CONSULTA Alexandre
+CONSULTA Simão
+CONSULTA Tomás
+CONSULTA Adriana
+CONSULTA Josefina
+CONSULTA Marta
+CONSULTA Simão
+CONSULTA Tomás
+CONSULTA Tomás
+CONSULTA Madalena
+CONSULTA Alexandre
+CONSULTA Josefina
+CONSULTA João
+CONSULTA Isabel
+CONSULTA Joana
+CONSULTA João
+CONSULTA Bernardo
+CONSULTA Bernardo
+CONSULTA Madalena
+CONSULTA João
+CONSULTA Tomás
+CONSULTA Isabel
+CONSULTA Josefina
+CONSULTA Simão
+CONSULTA Madalena
+CONSULTA Carlos
+CONSULTA Josefina
+CONSULTA Adriana
+CONSULTA Matilde
+CONSULTA Madalena
+CONSULTA Alexandre
+CONSULTA Isabel
+CONSULTA Adriana
+CONSULTA Matilde
+CONSULTA Madalena
+CONSULTA Isabel
+CONSULTA Henrique
+CONSULTA Carlos
+CONSULTA Carlos
+CONSULTA André
+CONSULTA Carlos
+CONSULTA André
+CONSULTA Madalena
+CONSULTA João
+CONSULTA Aparicio
+CONSULTA Alexandre
+CONSULTA Adriana
+CONSULTA Carlos
+CONSULTA António
+CONSULTA Tomás
+CONSULTA Madalena
+CONSULTA João
+CONSULTA Isabel
+CONSULTA Marta
+CONSULTA Joana
+CONSULTA António
+CONSULTA Simão
+CONSULTA Simão
+CONSULTA Marta
+CONSULTA Henrique
+CONSULTA Tomás
+CONSULTA Carolina
+CONSULTA Maria
+CONSULTA Marta
+CONSULTA Bernardo
+CONSULTA Adriana
+CONSULTA João
+CONSULTA Tomás
+CONSULTA Simão
+CONSULTA Madalena
+CONSULTA Matilde
+CONSULTA Maria
+CONSULTA Bernardo
+CONSULTA Alexandre
+CONSULTA Tomás
+CONSULTA André
+CONSULTA Henrique
+CONSULTA António
+CONSULTA Tomás
+CONSULTA Carlos
+CONSULTA Tomás
+CONSULTA Tomás
+CONSULTA João
+CONSULTA Josefina
+CONSULTA Isabel
+CONSULTA André
+CONSULTA Carlos
+CONSULTA Carolina
+CONSULTA Josefina
+CONSULTA Carolina
+CONSULTA Madalena
+CONSULTA Carlos
+CONSULTA Alexandre
+CONSULTA Henrique
+CONSULTA Alexandre
+CONSULTA Simão
+CONSULTA Tomás
+CONSULTA Carolina
+CONSULTA António
+CONSULTA Bernardo
+CONSULTA João
+CONSULTA Josefina
+CONSULTA Carolina
+CONSULTA Madalena
+CONSULTA João
+CONSULTA Matilde
+CONSULTA Joana
+CONSULTA Tomás
+CONSULTA Maria
+CONSULTA Simão
+CONSULTA Simão
+CONSULTA António
+CONSULTA Aparicio
+CONSULTA Henrique
+CONSULTA Joana
+CONSULTA Carlos
+CONSULTA Bernardo
+CONSULTA Tomás
+CONSULTA Adriana
+CONSULTA Tomás
+CONSULTA Madalena
+CONSULTA Carolina
+CONSULTA Maria
+CONSULTA Isabel
+CONSULTA Marta
+CONSULTA Joana
+CONSULTA Matilde
+CONSULTA Adriana
+CONSULTA Simão
+CONSULTA Matilde
+CONSULTA Adriana
+CONSULTA Josefina
+CONSULTA Simão
+CONSULTA Bernardo
+CONSULTA Aparicio
+CONSULTA Tomás
+CONSULTA Carolina
+CONSULTA António
+CONSULTA Alexandre
+CONSULTA Madalena
+CONSULTA João
+CONSULTA Isabel
+CONSULTA João
+CONSULTA Maria
+CONSULTA Marta
+CONSULTA Carolina
+CONSULTA Tomás
+CONSULTA Matilde
+CONSULTA Madalena
+CONSULTA Adriana
+CONSULTA Carolina
+CONSULTA Isabel
+CONSULTA Simão
+CONSULTA João
+CONSULTA Isabel
+CONSULTA Maria
+CONSULTA Joana
+CONSULTA Josefina
+CONSULTA Joana
+CONSULTA Madalena
+CONSULTA André
+CONSULTA Tomás
+CONSULTA João
+CONSULTA Carolina
+CONSULTA Matilde
+CONSULTA Josefina
+CONSULTA Adriana
+CONSULTA Joana
+CONSULTA Bernardo
+CONSULTA António
+CONSULTA Matilde
+CONSULTA Joana
+CONSULTA Alexandre
+CONSULTA Carolina
+CONSULTA Henrique
+CONSULTA Marta
+CONSULTA Aparicio
+CONSULTA Simão
+CONSULTA Carolina
+CONSULTA Alexandre
+CONSULTA Joana
+CONSULTA Madalena
+CONSULTA António
+CONSULTA João
+CONSULTA Carlos
+CONSULTA Aparicio
+CONSULTA Carlos
+CONSULTA Madalena
+CONSULTA Carolina
+CONSULTA Carolina
+CONSULTA Isabel
+CONSULTA Tomás
+CONSULTA Matilde
+CONSULTA Simão
+CONSULTA António
+CONSULTA André
+CONSULTA André
+CONSULTA Carolina
+CONSULTA Alexandre
+CONSULTA João
+CONSULTA Josefina
+CONSULTA Josefina
+CONSULTA Isabel
+CONSULTA Joana
+CONSULTA Tomás
+CONSULTA Maria
+CONSULTA Henrique
+CONSULTA Maria
+CONSULTA Maria
+CONSULTA Bernardo
+CONSULTA João
+CONSULTA Tomás
+CONSULTA Bernardo
+CONSULTA Bernardo
+CONSULTA Maria
+CONSULTA Josefina
+CONSULTA Alexandre
+CONSULTA Aparicio
+CONSULTA António
+CONSULTA Isabel
+CONSULTA Josefina
+CONSULTA Aparicio
+CONSULTA Henrique
+CONSULTA Adriana
+CONSULTA Matilde
+CONSULTA Tomás
+CONSULTA Matilde
+CONSULTA Aparicio
+CONSULTA Isabel
+CONSULTA Madalena
+CONSULTA António
+CONSULTA Adriana
+CONSULTA Tomás
+CONSULTA João
+CONSULTA Tomás
+CONSULTA Bernardo
+CONSULTA Joana
+CONSULTA Aparicio
+CONSULTA António
+CONSULTA Maria
+CONSULTA João
+CONSULTA António
+CONSULTA Tomás
+CONSULTA Matilde
+CONSULTA Simão
+CONSULTA Matilde
+CONSULTA Marta
+CONSULTA Marta
+CONSULTA Matilde
+CONSULTA Josefina
+CONSULTA Joana
+CONSULTA Joana
+CONSULTA Marta
+CONSULTA Bernardo
+CONSULTA Carolina
+CONSULTA Bernardo
+CONSULTA Matilde
+CONSULTA Joana
+CONSULTA Matilde
+CONSULTA Tomás
+CONSULTA Joana
+CONSULTA Joana
+CONSULTA Aparicio
+CONSULTA Bernardo
+CONSULTA Joana
+CONSULTA Henrique
+CONSULTA Tomás
+CONSULTA Madalena
+CONSULTA Matilde
+CONSULTA Henrique
+CONSULTA Alexandre
+CONSULTA António
+CONSULTA Josefina
+CONSULTA Matilde
+CONSULTA Bernardo
+CONSULTA Alexandre
+CONSULTA Carolina
+CONSULTA Adriana
+CONSULTA Josefina
+CONSULTA Isabel
+CONSULTA Bernardo
+CONSULTA Carlos
+CONSULTA Matilde
+CONSULTA Josefina
+CONSULTA Bernardo
+CONSULTA Madalena
+CONSULTA Isabel
+CONSULTA Matilde
+CONSULTA André
+CONSULTA Carlos
+CONSULTA André
+CONSULTA Simão
+CONSULTA Matilde
+CONSULTA Adriana
+CONSULTA António
+CONSULTA Carolina
+CONSULTA Aparicio
+CONSULTA Matilde
+CONSULTA Josefina
+CONSULTA Tomás
+CONSULTA João
+CONSULTA Alexandre
+CONSULTA Carolina
+CONSULTA Adriana
+CONSULTA Henrique
+CONSULTA Matilde
+CONSULTA Bernardo
+CONSULTA Alexandre
+CONSULTA Matilde
+CONSULTA Madalena
+CONSULTA Tomás
+CONSULTA Tomás
+CONSULTA Carolina
+CONSULTA Josefina
+CONSULTA Henrique
+CONSULTA Bernardo
+CONSULTA André
+CONSULTA Josefina
+CONSULTA Adriana
+CONSULTA Henrique
+CONSULTA Henrique
+CONSULTA Alexandre
+CONSULTA Marta
+CONSULTA Bernardo
+CONSULTA João
+CONSULTA Henrique
+CONSULTA Joana
+CONSULTA Tomás
+CONSULTA Henrique
+CONSULTA Carolina
+CONSULTA Adriana
+CONSULTA Carlos
+CONSULTA António
+CONSULTA António
+CONSULTA Maria
+CONSULTA Simão
+CONSULTA Joana
+CONSULTA Carolina
+CONSULTA António
+CONSULTA Marta
+CONSULTA Simão
+CONSULTA Carolina
+CONSULTA Matilde
+CONSULTA Aparicio
+CONSULTA André
+CONSULTA André
+CONSULTA Bernardo
+CONSULTA Josefina
+CONSULTA Joana
+CONSULTA Adriana
+CONSULTA Adriana
+CONSULTA Simão
+CONSULTA Marta
+CONSULTA Tomás
+CONSULTA Carlos
+CONSULTA Josefina
+CONSULTA Carlos
+CONSULTA Carlos
+CONSULTA Josefina
+CONSULTA André
+CONSULTA Bernardo
+CONSULTA Matilde
+CONSULTA Joana
+CONSULTA André
+CONSULTA Isabel
+CONSULTA Matilde
+CONSULTA Madalena
+CONSULTA Isabel
+CONSULTA André
+CONSULTA Bernardo
+CONSULTA João
+CONSULTA António
+CONSULTA Josefina
+CONSULTA Matilde
+CONSULTA Carlos
+CONSULTA João
+CONSULTA Marta
+CONSULTA Isabel
+CONSULTA Madalena
+CONSULTA Bernardo
+CONSULTA Alexandre
+CONSULTA Matilde
+CONSULTA Marta
+CONSULTA Matilde
+CONSULTA Matilde
+CONSULTA Aparicio
+CONSULTA Madalena
+CONSULTA Marta
+CONSULTA Isabel
+CONSULTA Marta
+CONSULTA Carolina
+CONSULTA Tomás
+CONSULTA Joana
+CONSULTA André
+CONSULTA Tomás
+CONSULTA Maria
+CONSULTA Isabel
+CONSULTA André
+CONSULTA Simão
+CONSULTA Adriana
+CONSULTA André
+CONSULTA Marta
+CONSULTA André
+CONSULTA Alexandre
+CONSULTA Josefina
+CONSULTA Josefina
+CONSULTA Maria
+CONSULTA Isabel
+CONSULTA Bernardo
+CONSULTA Simão
+CONSULTA Josefina
+CONSULTA Carlos
+CONSULTA Carolina
+CONSULTA Henrique
+CONSULTA Matilde
+CONSULTA Isabel
+CONSULTA Tomás
+CONSULTA Tomás
+CONSULTA Tomás
+CONSULTA Adriana
+CONSULTA Marta
+CONSULTA Josefina
+CONSULTA António
+CONSULTA Tomás
+CONSULTA Matilde
+CONSULTA Henrique
+CONSULTA Simão
+CONSULTA João
+CONSULTA Madalena
+CONSULTA Isabel
+CONSULTA Adriana
+CONSULTA Joana
+CONSULTA Simão
+CONSULTA Marta
+CONSULTA Tomás
+CONSULTA Carolina
+CONSULTA Alexandre
+CONSULTA António
+CONSULTA Tomás
+CONSULTA Simão
+CONSULTA António
+CONSULTA Aparicio
+CONSULTA Adriana
+CONSULTA André
+CONSULTA Carolina
+CONSULTA Alexandre
+CONSULTA Matilde
+CONSULTA Carolina
+CONSULTA João
+CONSULTA Joana
+CONSULTA Madalena
+CONSULTA António
+CONSULTA Bernardo
+CONSULTA João
+CONSULTA Isabel
+CONSULTA Isabel
+CONSULTA Bernardo
+CONSULTA André
+CONSULTA João
+CONSULTA Simão
+CONSULTA Carlos
+CONSULTA André
+CONSULTA Josefina
+CONSULTA Henrique
+CONSULTA Alexandre
+CONSULTA Madalena
+CONSULTA Matilde
+CONSULTA Alexandre
+CONSULTA Bernardo
+CONSULTA Marta
+CONSULTA André
+CONSULTA Carolina
+CONSULTA Maria
+CONSULTA Isabel
+CONSULTA Henrique
+CONSULTA Madalena
+CONSULTA Tomás
+CONSULTA Maria
+CONSULTA André
+CONSULTA Bernardo
+CONSULTA André
+CONSULTA Aparicio
+CONSULTA Isabel
+CONSULTA André
+CONSULTA António
+CONSULTA António
+CONSULTA Simão
+CONSULTA Henrique
+CONSULTA Madalena
+CONSULTA João
+CONSULTA Josefina
+CONSULTA António
+CONSULTA Tomás
+CONSULTA Tomás
+CONSULTA Alexandre
+CONSULTA Isabel
+CONSULTA Madalena
+CONSULTA Joana
+CONSULTA Marta
+CONSULTA Carolina
+CONSULTA Carlos
+CONSULTA João
+CONSULTA André
+CONSULTA António
+CONSULTA Matilde
+CONSULTA Maria
+CONSULTA Adriana
+CONSULTA Tomás
+CONSULTA Madalena
+CONSULTA Aparicio
+CONSULTA Tomás
+CONSULTA Josefina
+CONSULTA Carolina
+CONSULTA Maria
+CONSULTA João
+CONSULTA João
+CONSULTA Simão
+CONSULTA Simão
+CONSULTA António
+CONSULTA João
+CONSULTA Marta
+CONSULTA Isabel
+CONSULTA Joana
+CONSULTA Isabel
+CONSULTA Joana
+CONSULTA Matilde
+CONSULTA Josefina
+CONSULTA André
+CONSULTA Madalena
+CONSULTA Alexandre
+CONSULTA Madalena
+CONSULTA António
+CONSULTA Carlos
+CONSULTA Carlos
+CONSULTA Simão
+CONSULTA Alexandre
+CONSULTA Marta
+CONSULTA João
+CONSULTA Tomás
+CONSULTA Joana
+CONSULTA Isabel
+CONSULTA Adriana
+CONSULTA Carolina
+CONSULTA Isabel
+CONSULTA Isabel
+CONSULTA António
+CONSULTA Marta
+CONSULTA Simão
+CONSULTA Aparicio
+CONSULTA António
+CONSULTA Isabel
+CONSULTA Adriana
+CONSULTA Marta
+CONSULTA André
+CONSULTA Tomás
+CONSULTA Maria
+CONSULTA João
+CONSULTA Henrique
+CONSULTA Henrique
+CONSULTA Aparicio
+CONSULTA André
+CONSULTA Bernardo
+CONSULTA Aparicio
+CONSULTA Marta
+CONSULTA Matilde
+CONSULTA Marta
+CONSULTA Tomás
+CONSULTA João
+CONSULTA Simão
+CONSULTA Marta
+CONSULTA Adriana
+CONSULTA Simão
+CONSULTA João
+CONSULTA André
+CONSULTA Henrique
+CONSULTA Adriana
+CONSULTA Josefina
+CONSULTA João
+CONSULTA Henrique
+CONSULTA Tomás
+CONSULTA Bernardo
+CONSULTA André
+CONSULTA Maria
+CONSULTA Isabel
+CONSULTA Aparicio
+CONSULTA Bernardo
+CONSULTA Maria
+CONSULTA António
+CONSULTA António
+CONSULTA Adriana
+CONSULTA Aparicio
+CONSULTA Madalena
+CONSULTA Tomás
+CONSULTA Adriana
+CONSULTA Joana
+CONSULTA Alexandre
+CONSULTA Alexandre
+CONSULTA João
+CONSULTA Carolina
+CONSULTA André
+CONSULTA Aparicio
+CONSULTA Joana
+CONSULTA Aparicio
+CONSULTA Madalena
+CONSULTA Aparicio
+CONSULTA Henrique
+CONSULTA Madalena
+CONSULTA Adriana
+CONSULTA Tomás
+CONSULTA Maria
+CONSULTA Marta
+CONSULTA Maria
+CONSULTA Aparicio
+CONSULTA Joana
+CONSULTA André
+CONSULTA Matilde
+CONSULTA Bernardo
+CONSULTA Marta
+CONSULTA Bernardo
+CONSULTA Henrique
+CONSULTA Joana
+CONSULTA Tomás
+CONSULTA Marta
+CONSULTA Maria
+CONSULTA Maria
+CONSULTA Marta
+CONSULTA Carolina
+CONSULTA Carolina
+CONSULTA Adriana
+CONSULTA André
+CONSULTA António
+CONSULTA Maria
+CONSULTA Adriana
+CONSULTA Matilde
+CONSULTA Bernardo
+CONSULTA Alexandre
+CONSULTA Alexandre
+CONSULTA Henrique
+CONSULTA Matilde
+CONSULTA Joana
+CONSULTA Alexandre
+CONSULTA António
+CONSULTA Maria
+CONSULTA Bernardo
+CONSULTA Isabel
+CONSULTA Bernardo
+CONSULTA Aparicio
+CONSULTA Alexandre
+CONSULTA Marta
+CONSULTA Alexandre
+CONSULTA João
+CONSULTA Adriana
+CONSULTA Carlos
+CONSULTA António
+CONSULTA Simão
+CONSULTA Aparicio
+CONSULTA Maria
+CONSULTA Tomás
+CONSULTA Madalena
+CONSULTA Maria
+CONSULTA Maria
+CONSULTA Madalena
+CONSULTA António
+CONSULTA Henrique
+CONSULTA Tomás
+CONSULTA Isabel
+CONSULTA Bernardo
+CONSULTA Marta
+CONSULTA Joana
+CONSULTA Josefina
+CONSULTA Marta
+CONSULTA Matilde
+CONSULTA António
+CONSULTA António
+CONSULTA Carlos
+CONSULTA Isabel
+CONSULTA Carlos
+CONSULTA Josefina
+CONSULTA Madalena
+CONSULTA Bernardo
+CONSULTA Josefina
+CONSULTA Joana
+CONSULTA Maria
+CONSULTA António
+CONSULTA Isabel
+CONSULTA Carlos
+CONSULTA Henrique
+CONSULTA Madalena
+CONSULTA Bernardo
+CONSULTA Carolina
+CONSULTA Marta
+CONSULTA Alexandre
+CONSULTA Matilde
+CONSULTA Aparicio
+CONSULTA Simão
+CONSULTA Joana
+CONSULTA Marta
+CONSULTA Tomás
+CONSULTA João
+CONSULTA Simão
+CONSULTA Alexandre
+CONSULTA João
+CONSULTA Maria
+CONSULTA Alexandre
+CONSULTA Josefina
+CONSULTA Henrique
+CONSULTA Joana
+CONSULTA Matilde
+CONSULTA Carolina
+CONSULTA Joana
+CONSULTA Matilde
+CONSULTA Alexandre
+CONSULTA Matilde
+CONSULTA Carolina
+CONSULTA Adriana
+CONSULTA António
+CONSULTA Henrique
+CONSULTA Maria
+CONSULTA João
+CONSULTA Adriana
+CONSULTA Aparicio
+CONSULTA Aparicio
+CONSULTA Aparicio
+CONSULTA Carolina
+CONSULTA Henrique
+CONSULTA Carolina
+CONSULTA Alexandre
+CONSULTA Carlos
+CONSULTA Joana
+CONSULTA António
+CONSULTA Aparicio
+CONSULTA Alexandre
+CONSULTA Marta
+CONSULTA Isabel
+CONSULTA Simão
+CONSULTA António
+CONSULTA Adriana
+CONSULTA Tomás
+CONSULTA Maria
+CONSULTA Carlos
+CONSULTA Adriana
+CONSULTA Henrique
+CONSULTA Matilde
+CONSULTA Aparicio
+CONSULTA Carlos
+CONSULTA Carlos
+CONSULTA João
+CONSULTA João
+CONSULTA António
+CONSULTA Isabel
+CONSULTA Isabel
+CONSULTA Josefina
+CONSULTA Madalena
+CONSULTA Joana
+CONSULTA Josefina
+CONSULTA Simão
+CONSULTA Aparicio
+CONSULTA Matilde
+CONSULTA Maria
+CONSULTA Josefina
+CONSULTA João
+CONSULTA Alexandre
+CONSULTA Isabel
+CONSULTA Carlos
+CONSULTA Aparicio
+CONSULTA Isabel
+CONSULTA João
+CONSULTA João
+CONSULTA António
+CONSULTA Adriana
+CONSULTA André
+CONSULTA Marta
+CONSULTA Tomás
+CONSULTA Tomás
+CONSULTA Matilde
+CONSULTA Joana
+CONSULTA António
+CONSULTA Isabel
+CONSULTA Matilde
+CONSULTA Aparicio
+CONSULTA Henrique
+CONSULTA Henrique
+CONSULTA Alexandre
+CONSULTA Isabel
+CONSULTA Madalena
+CONSULTA Henrique
+CONSULTA Henrique
+CONSULTA Isabel
+CONSULTA António
+CONSULTA Simão
+CONSULTA Maria
+CONSULTA Joana
+CONSULTA Carlos
+CONSULTA João
+CONSULTA Maria
+CONSULTA João
+CONSULTA Madalena
+CONSULTA Carlos
+CONSULTA Madalena
+CONSULTA Carolina
+CONSULTA Bernardo
+CONSULTA Alexandre
+CONSULTA Alexandre
+CONSULTA Adriana
+CONSULTA Joana
+CONSULTA António
+CONSULTA Henrique
+CONSULTA Tomás
+CONSULTA Aparicio
+CONSULTA Alexandre
+CONSULTA Marta
+CONSULTA Josefina
+CONSULTA Henrique
+CONSULTA Maria
+CONSULTA Maria
+CONSULTA Joana
+CONSULTA Marta
+CONSULTA Maria
+CONSULTA Simão
+CONSULTA Isabel
+CONSULTA Tomás
+CONSULTA Tomás
+CONSULTA Adriana
+CONSULTA Madalena
+CONSULTA Bernardo
+CONSULTA Aparicio
+CONSULTA Aparicio
+CONSULTA Madalena
+CONSULTA Tomás
+CONSULTA Tomás
+CONSULTA Maria
+CONSULTA Simão
+CONSULTA João
+CONSULTA Maria
+CONSULTA Aparicio
+CONSULTA Josefina
+CONSULTA Carlos
+CONSULTA António
+CONSULTA Carlos
+CONSULTA Maria
+CONSULTA André
+CONSULTA Alexandre
+CONSULTA Henrique
+CONSULTA Bernardo
+CONSULTA Maria
+CONSULTA Madalena
+CONSULTA Simão
+CONSULTA Simão
+CONSULTA Carlos
+CONSULTA Tomás
+CONSULTA António
+CONSULTA Joana
+CONSULTA André
+CONSULTA Tomás
+CONSULTA Joana
+CONSULTA Henrique
+CONSULTA Maria
+CONSULTA Matilde
+CONSULTA Adriana
+CONSULTA André
+CONSULTA Alexandre
+CONSULTA Carolina
+CONSULTA Aparicio
+CONSULTA Isabel
+CONSULTA António
+CONSULTA André
+CONSULTA Bernardo
+CONSULTA Simão
+CONSULTA Matilde
+CONSULTA Carlos
+CONSULTA Alexandre
+CONSULTA Henrique
+CONSULTA Isabel
+CONSULTA Bernardo
+CONSULTA André
+CONSULTA Madalena
+CONSULTA Matilde
+CONSULTA Bernardo
+CONSULTA Matilde
+CONSULTA Maria
+CONSULTA Carolina
+CONSULTA Maria
+CONSULTA João
+CONSULTA Aparicio
+CONSULTA Alexandre
+CONSULTA António
+CONSULTA Aparicio
+CONSULTA Maria
+CONSULTA Henrique
+CONSULTA Joana
+CONSULTA Isabel
+CONSULTA André
+CONSULTA Madalena
+CONSULTA Carolina
+CONSULTA Madalena
+CONSULTA Maria
+CONSULTA Aparicio
+CONSULTA Carlos
+CONSULTA Simão
+CONSULTA André
+CONSULTA Carolina
+CONSULTA Isabel
+CONSULTA Tomás
+CONSULTA Marta
+CONSULTA Aparicio
+CONSULTA Joana
+CONSULTA Henrique
+CONSULTA António
+CONSULTA Adriana
+CONSULTA Bernardo
+CONSULTA João
+CONSULTA Josefina
+CONSULTA Adriana
+CONSULTA Simão
+CONSULTA Joana
+CONSULTA Maria
+CONSULTA Carolina
+CONSULTA Aparicio
+CONSULTA Henrique
+CONSULTA Matilde
+CONSULTA Marta
+CONSULTA João
+CONSULTA Henrique
+CONSULTA Matilde
+CONSULTA Henrique
+CONSULTA Matilde
+CONSULTA Tomás
+CONSULTA Madalena
+CONSULTA Henrique
+CONSULTA Simão
+CONSULTA Madalena
+CONSULTA Adriana
+CONSULTA António
+CONSULTA Adriana
+CONSULTA Carlos
+CONSULTA André
+CONSULTA Maria
+CONSULTA Josefina
+CONSULTA António
+CONSULTA Carlos
+CONSULTA Tomás
+CONSULTA António
+CONSULTA Tomás
+CONSULTA Bernardo
+CONSULTA Henrique
+CONSULTA António
+CONSULTA Josefina
+CONSULTA Madalena
+CONSULTA Maria
+CONSULTA Carlos
+CONSULTA Carolina
+CONSULTA Tomás
+CONSULTA Madalena
+CONSULTA Simão
+CONSULTA Adriana
+CONSULTA João
+CONSULTA Bernardo
+CONSULTA Alexandre
+CONSULTA Aparicio
+CONSULTA Carolina
+CONSULTA Maria
+CONSULTA Aparicio
+CONSULTA Josefina
+CONSULTA Matilde
+CONSULTA Bernardo
+CONSULTA Aparicio
+CONSULTA Maria
+CONSULTA Simão
+CONSULTA Bernardo
+CONSULTA Alexandre
+CONSULTA Matilde
+CONSULTA André
+CONSULTA Bernardo
+CONSULTA Tomás
+CONSULTA Madalena
+CONSULTA João
+CONSULTA Alexandre
+CONSULTA Carlos
+CONSULTA Adriana
+CONSULTA Tomás
+CONSULTA Carolina
+CONSULTA Tomás
+CONSULTA Simão
+CONSULTA Maria
+CONSULTA Adriana
+CONSULTA Madalena
+CONSULTA Maria
+CONSULTA Tomás
+CONSULTA Aparicio
+CONSULTA António
+CONSULTA António
+CONSULTA Carolina
+CONSULTA Josefina
+CONSULTA Carolina
+CONSULTA Bernardo
+CONSULTA Carolina
+CONSULTA António
+CONSULTA Adriana
+CONSULTA Isabel
+CONSULTA Alexandre
+CONSULTA João
+CONSULTA Joana
+CONSULTA Carolina
+CONSULTA Carolina
+CONSULTA Marta
+CONSULTA Carlos
+CONSULTA André
+CONSULTA Matilde
+CONSULTA Aparicio
+CONSULTA André
+CONSULTA António
+CONSULTA André
+CONSULTA Henrique
+CONSULTA Carlos
+CONSULTA Simão
+CONSULTA Tomás
+CONSULTA Madalena
+CONSULTA Maria
+CONSULTA Tomás
+CONSULTA Aparicio
+CONSULTA Carolina
+CONSULTA Aparicio
+CONSULTA Alexandre
+CONSULTA Henrique
+CONSULTA Aparicio
+CONSULTA António
+CONSULTA Madalena
+CONSULTA Carlos
+CONSULTA Matilde
+CONSULTA João
+CONSULTA Madalena
+CONSULTA Tomás
+CONSULTA Carolina
+CONSULTA Maria
+CONSULTA Marta
+CONSULTA Alexandre
+CONSULTA Isabel
+CONSULTA António
+CONSULTA André
+CONSULTA Adriana
+CONSULTA André
+CONSULTA Simão
+CONSULTA Alexandre
+CONSULTA André
+CONSULTA António
+CONSULTA João
+CONSULTA António
+CONSULTA Tomás
+CONSULTA Joana
+CONSULTA António
+CONSULTA João
+CONSULTA Adriana
+CONSULTA Marta
+CONSULTA Bernardo
+CONSULTA Bernardo
+CONSULTA Tomás
+CONSULTA Josefina
+CONSULTA Bernardo
+CONSULTA Isabel
+CONSULTA Madalena
+CONSULTA Matilde
+CONSULTA João
+CONSULTA Josefina
+CONSULTA António
+CONSULTA Adriana
+CONSULTA Bernardo
+CONSULTA Joana
+CONSULTA Carlos
+CONSULTA Josefina
+CONSULTA Carolina
+CONSULTA Simão
+CONSULTA Carolina
+CONSULTA Adriana
+CONSULTA Isabel
+CONSULTA Simão
+CONSULTA Bernardo
+CONSULTA Alexandre
+CONSULTA Joana
+CONSULTA André
+CONSULTA Henrique
+CONSULTA Simão
+CONSULTA João
+CONSULTA Josefina
+CONSULTA Madalena
+CONSULTA Adriana
+CONSULTA Adriana
+CONSULTA Isabel
+CONSULTA Simão
+CONSULTA Madalena
+CONSULTA Madalena
+CONSULTA Adriana
+CONSULTA Maria
+CONSULTA Carolina
+CONSULTA Adriana
+CONSULTA Henrique
+CONSULTA Simão
+CONSULTA Maria
+CONSULTA Tomás
+CONSULTA Aparicio
+CONSULTA Alexandre
+CONSULTA Adriana
+CONSULTA Bernardo
+CONSULTA António
+CONSULTA Simão
+CONSULTA Joana
+CONSULTA Isabel
+CONSULTA Tomás
+CONSULTA Joana
+CONSULTA André
+CONSULTA Joana
+CONSULTA André
+CONSULTA Tomás
+CONSULTA António
+CONSULTA Madalena
+CONSULTA Henrique
+CONSULTA Matilde
+CONSULTA Tomás
+CONSULTA André
+CONSULTA Henrique
+CONSULTA João
+CONSULTA Carolina
+CONSULTA Carolina
+CONSULTA Josefina
+CONSULTA Marta
+CONSULTA André
+CONSULTA António
+CONSULTA Alexandre
+CONSULTA Alexandre
+CONSULTA Henrique
+CONSULTA Bernardo
+CONSULTA Aparicio
+CONSULTA António
+CONSULTA António
+CONSULTA Josefina
+CONSULTA Isabel
+CONSULTA João
+CONSULTA Adriana
+CONSULTA Joana
+CONSULTA Marta
+CONSULTA Simão
+CONSULTA Marta
+CONSULTA Henrique
+CONSULTA Carlos
+CONSULTA Bernardo
+CONSULTA Madalena
+CONSULTA Madalena
+CONSULTA Aparicio
+CONSULTA Bernardo
+CONSULTA Tomás
+CONSULTA Aparicio
+CONSULTA Joana
+CONSULTA Bernardo
+CONSULTA Carolina
+CONSULTA Adriana
+CONSULTA Maria
+CONSULTA Madalena
+CONSULTA Simão
+CONSULTA Maria
+CONSULTA Aparicio
+CONSULTA Josefina
+CONSULTA João
+CONSULTA Carolina
+CONSULTA Isabel
+CONSULTA Marta
+CONSULTA Matilde
+CONSULTA João
+CONSULTA António
+CONSULTA Josefina
+CONSULTA Isabel
+CONSULTA António
+CONSULTA Aparicio
+CONSULTA Matilde
+CONSULTA Bernardo
+CONSULTA Alexandre
+CONSULTA Tomás
+CONSULTA António
+CONSULTA Alexandre
+CONSULTA Adriana
+CONSULTA Isabel
+CONSULTA Joana
+CONSULTA Maria
+CONSULTA Joana
+CONSULTA Carolina
+CONSULTA Matilde
+CONSULTA Maria
+CONSULTA Aparicio
+CONSULTA Carolina
+CONSULTA Alexandre
+CONSULTA Marta
+CONSULTA Madalena
+CONSULTA António
+CONSULTA Marta
+CONSULTA Simão
+CONSULTA João
+CONSULTA André
+CONSULTA Adriana
+CONSULTA Alexandre
+CONSULTA Alexandre
+CONSULTA Adriana
+CONSULTA Marta
+CONSULTA António
+CONSULTA Josefina
+CONSULTA Josefina
+CONSULTA Maria
+CONSULTA Carlos
+CONSULTA Marta
+CONSULTA Carlos
+CONSULTA Simão
+CONSULTA António
+CONSULTA Carlos
+CONSULTA Alexandre
+CONSULTA Isabel
+CONSULTA Tomás
+CONSULTA Carolina
+CONSULTA Alexandre
+CONSULTA Aparicio
+CONSULTA Josefina
+CONSULTA Carolina
+CONSULTA André
+CONSULTA Marta
+CONSULTA Bernardo
+CONSULTA João
+CONSULTA Maria
+CONSULTA Joana
+CONSULTA Bernardo
+CONSULTA Madalena
+CONSULTA Bernardo
+CONSULTA Carolina
+CONSULTA Alexandre
+CONSULTA João
+CONSULTA Henrique
+CONSULTA Maria
+CONSULTA João
+CONSULTA Simão
+CONSULTA Carolina
+CONSULTA Carolina
+CONSULTA Bernardo
+CONSULTA Carolina
+CONSULTA Adriana
+CONSULTA João
+CONSULTA António
+CONSULTA Bernardo
+CONSULTA Josefina
+CONSULTA Carolina
+CONSULTA Josefina
+CONSULTA Marta
+CONSULTA Tomás
+CONSULTA Aparicio
+CONSULTA Carlos
+CONSULTA Josefina
+CONSULTA Simão
+CONSULTA Madalena
+CONSULTA Marta
+CONSULTA Adriana
+CONSULTA Matilde
+CONSULTA Carolina
+CONSULTA João
+CONSULTA Madalena
+CONSULTA António
+CONSULTA Carolina
+CONSULTA Josefina
+CONSULTA Josefina
+CONSULTA Madalena
+CONSULTA Alexandre
+CONSULTA Carolina
+CONSULTA Isabel
+CONSULTA António
+CONSULTA Joana
+CONSULTA Adriana
+CONSULTA Isabel
+CONSULTA Adriana
+CONSULTA Henrique
+CONSULTA António
+CONSULTA Josefina
+CONSULTA Carolina
+CONSULTA Madalena
+CONSULTA Josefina
+CONSULTA Marta
+CONSULTA Matilde
+CONSULTA Carlos
+CONSULTA Alexandre
+CONSULTA Isabel
+CONSULTA Alexandre
+CONSULTA Bernardo
+CONSULTA Adriana
+CONSULTA Tomás
+CONSULTA Marta
+CONSULTA Alexandre
+CONSULTA Maria
+CONSULTA Simão
+CONSULTA Adriana
+CONSULTA André
+CONSULTA Isabel
+CONSULTA Marta
+CONSULTA Tomás
+CONSULTA Marta
+CONSULTA Tomás
+CONSULTA Carolina
+CONSULTA Isabel
+CONSULTA Matilde
+CONSULTA Josefina
+CONSULTA Carlos
+CONSULTA Marta
+CONSULTA João
+CONSULTA Josefina
+CONSULTA Isabel
+CONSULTA Simão
+CONSULTA Isabel
+CONSULTA Josefina
+CONSULTA Carolina
+CONSULTA Alexandre
+CONSULTA Bernardo
+CONSULTA António
+CONSULTA Alexandre
+CONSULTA Bernardo
+CONSULTA Simão
+CONSULTA Marta
+CONSULTA António
+CONSULTA Josefina
+CONSULTA Tomás
+CONSULTA Alexandre
+CONSULTA Josefina
+CONSULTA Madalena
+CONSULTA Maria
+CONSULTA Tomás
+CONSULTA Matilde
+CONSULTA Joana
+CONSULTA Henrique
+CONSULTA Alexandre
+CONSULTA Simão
+CONSULTA Joana
+CONSULTA Isabel
+CONSULTA Adriana
+CONSULTA Carolina
+CONSULTA Matilde
+CONSULTA Henrique
+CONSULTA Maria
+CONSULTA Maria
+CONSULTA Matilde
+CONSULTA António
+CONSULTA Adriana
+CONSULTA Marta
+CONSULTA Aparicio
+CONSULTA Tomás
+CONSULTA Maria
+CONSULTA Isabel
+CONSULTA Carolina
+CONSULTA Matilde
+CONSULTA Carolina
+CONSULTA Bernardo
+CONSULTA Alexandre
+CONSULTA Carlos
+CONSULTA Maria
+CONSULTA Isabel
+CONSULTA Simão
+CONSULTA Tomás
+CONSULTA Madalena
+CONSULTA Joana
+CONSULTA Simão
+CONSULTA Isabel
+CONSULTA Josefina
+CONSULTA Adriana
+CONSULTA Aparicio
+CONSULTA Tomás
+CONSULTA Matilde
+CONSULTA Adriana
+CONSULTA António
+CONSULTA Simão
+CONSULTA Joana
+CONSULTA Maria
+CONSULTA Aparicio
+CONSULTA Madalena
+CONSULTA Bernardo
+CONSULTA Isabel
+CONSULTA Alexandre
+CONSULTA Isabel
+CONSULTA Simão
+CONSULTA Bernardo
+CONSULTA João
+CONSULTA Aparicio
+CONSULTA André
+CONSULTA João
+CONSULTA Adriana
+CONSULTA Joana
+CONSULTA Matilde
+CONSULTA João
+CONSULTA Simão
+CONSULTA Joana
+CONSULTA André
+CONSULTA André
+CONSULTA Tomás
+CONSULTA Simão
+CONSULTA André
+CONSULTA Tomás
+CONSULTA Madalena
+CONSULTA Matilde
+CONSULTA Josefina
+CONSULTA Simão
+CONSULTA Alexandre
+CONSULTA Marta
+CONSULTA Aparicio
+CONSULTA Marta
+CONSULTA Aparicio
+CONSULTA Matilde
+CONSULTA Tomás
+CONSULTA Isabel
+CONSULTA Josefina
+CONSULTA João
+CONSULTA Isabel
+CONSULTA Carlos
+CONSULTA Simão
+CONSULTA Josefina
+CONSULTA Isabel
+CONSULTA Carolina
+CONSULTA Aparicio
+CONSULTA Tomás
+CONSULTA Aparicio
+CONSULTA Simão
+CONSULTA Henrique
+CONSULTA Madalena
+CONSULTA Tomás
+CONSULTA André
+CONSULTA Simão
+CONSULTA Adriana
+CONSULTA Joana
+CONSULTA Adriana
+CONSULTA Marta
+CONSULTA Madalena
+CONSULTA Joana
+CONSULTA Carolina
+CONSULTA Marta
+CONSULTA André
+CONSULTA Simão
+CONSULTA André
+CONSULTA Matilde
+CONSULTA Marta
+CONSULTA Bernardo
+CONSULTA Matilde
+CONSULTA Josefina
+CONSULTA Alexandre
+CONSULTA Matilde
+CONSULTA Matilde
+CONSULTA Isabel
+CONSULTA Simão
+CONSULTA Carolina
+CONSULTA Bernardo
+CONSULTA Josefina
+CONSULTA Josefina
+CONSULTA Joana
+CONSULTA Carolina
+CONSULTA Madalena
+CONSULTA Joana
+CONSULTA André
+CONSULTA Carlos
+CONSULTA Adriana
+CONSULTA Aparicio
+CONSULTA André
+CONSULTA Josefina
+CONSULTA André
+CONSULTA Marta
+CONSULTA Henrique
+CONSULTA Isabel
+CONSULTA António
+CONSULTA Henrique
+CONSULTA Henrique
+CONSULTA Henrique
+CONSULTA Josefina
+CONSULTA Maria
+CONSULTA Matilde
+CONSULTA João
+CONSULTA Alexandre
+CONSULTA Alexandre
+CONSULTA Henrique
+CONSULTA Marta
+CONSULTA António
+CONSULTA Aparicio
+CONSULTA Tomás
+CONSULTA Madalena
+CONSULTA Henrique
+CONSULTA Marta
+CONSULTA Maria
+CONSULTA Maria
+CONSULTA Isabel
+CONSULTA Simão
+CONSULTA António
+CONSULTA Tomás
+CONSULTA Carolina
+CONSULTA António
+CONSULTA Madalena
+CONSULTA Marta
+CONSULTA Simão
+CONSULTA Carolina
+CONSULTA Alexandre
+CONSULTA Matilde
+CONSULTA Henrique
+CONSULTA Carlos
+CONSULTA Madalena
+CONSULTA Marta
+CONSULTA Alexandre
+CONSULTA João
+CONSULTA Josefina
+CONSULTA António
+CONSULTA Carlos
+CONSULTA Alexandre
+CONSULTA Madalena
+CONSULTA Henrique
+CONSULTA Adriana
+CONSULTA Madalena
+CONSULTA Josefina
+CONSULTA Carlos
+CONSULTA Tomás
+CONSULTA Carolina
+CONSULTA Maria
+CONSULTA Joana
+CONSULTA Simão
+CONSULTA Simão
+CONSULTA Henrique
+CONSULTA Adriana
+CONSULTA Henrique
+CONSULTA Tomás
+CONSULTA Isabel
+CONSULTA António
+CONSULTA Marta
+CONSULTA Aparicio
+CONSULTA Madalena
+CONSULTA Josefina
+CONSULTA Isabel
+CONSULTA Maria
+CONSULTA Tomás
+CONSULTA Joana
+CONSULTA Aparicio
+CONSULTA Aparicio
+CONSULTA Isabel
+CONSULTA Carlos
+CONSULTA João
+CONSULTA Adriana
+CONSULTA Carolina
+CONSULTA Bernardo
+CONSULTA Maria
+CONSULTA Simão
+CONSULTA Marta
+CONSULTA João
+CONSULTA João
+CONSULTA Isabel
+CONSULTA Maria
+CONSULTA Aparicio
+CONSULTA António
+CONSULTA Madalena
+CONSULTA Carolina
+CONSULTA Henrique
+CONSULTA João
+CONSULTA Carolina
+CONSULTA Carlos
+CONSULTA Aparicio
+CONSULTA Carolina
+CONSULTA Joana
+CONSULTA Simão
+CONSULTA André
+CONSULTA Isabel
+CONSULTA Adriana
+CONSULTA Maria
+CONSULTA Madalena
+CONSULTA Simão
+CONSULTA Joana
+CONSULTA Matilde
+CONSULTA Simão
+CONSULTA Josefina
+CONSULTA Aparicio
+CONSULTA Madalena
+CONSULTA Aparicio
+CONSULTA Aparicio
+CONSULTA Isabel
+CONSULTA Adriana
+CONSULTA Madalena
+CONSULTA Tomás
+CONSULTA André
+CONSULTA Madalena
+CONSULTA Henrique
+CONSULTA Aparicio
+CONSULTA Simão
+CONSULTA Maria
+CONSULTA António
+CONSULTA Josefina
+CONSULTA Alexandre
+CONSULTA Bernardo
+CONSULTA Madalena
+CONSULTA Maria
+CONSULTA Aparicio
+CONSULTA Joana
+CONSULTA Joana
+CONSULTA Marta
+CONSULTA Carolina
+CONSULTA Alexandre
+CONSULTA Alexandre
+CONSULTA Isabel
+CONSULTA Madalena
+CONSULTA Bernardo
+CONSULTA Bernardo
+CONSULTA Tomás
+CONSULTA Carolina
+CONSULTA Adriana
+CONSULTA Maria
+CONSULTA João
+CONSULTA Isabel
+CONSULTA Carlos
+CONSULTA Joana
+CONSULTA Marta
+CONSULTA Henrique
+CONSULTA Carlos
+CONSULTA Henrique
+CONSULTA Carolina
+CONSULTA Tomás
+CONSULTA Tomás
+CONSULTA António
+CONSULTA Madalena
+CONSULTA Joana
+CONSULTA Maria
+CONSULTA Aparicio
+CONSULTA Henrique
+CONSULTA André
+CONSULTA Josefina
+CONSULTA Joana
+CONSULTA Adriana
+CONSULTA Bernardo
+CONSULTA António
+CONSULTA Aparicio
+CONSULTA Aparicio
+CONSULTA Josefina
+CONSULTA Aparicio
+CONSULTA André
+CONSULTA Carolina
+CONSULTA Isabel
+CONSULTA Joana
+CONSULTA Joana
+CONSULTA Marta
+CONSULTA Josefina
+CONSULTA André
+CONSULTA Josefina
+CONSULTA Madalena
+CONSULTA Alexandre
+CONSULTA Simão
+CONSULTA António
+CONSULTA Aparicio
+CONSULTA Josefina
+CONSULTA João
+CONSULTA Alexandre
+CONSULTA Carolina
+CONSULTA André
+CONSULTA Henrique
+CONSULTA Carlos
+CONSULTA Alexandre
+CONSULTA André
+CONSULTA Simão
+CONSULTA Matilde
+CONSULTA Tomás
+CONSULTA António
+CONSULTA Simão
+CONSULTA Henrique
+CONSULTA Tomás
+CONSULTA António
+CONSULTA António
+CONSULTA Marta
+CONSULTA Adriana
+CONSULTA Tomás
+CONSULTA Bernardo
+CONSULTA Madalena
+CONSULTA Marta
+CONSULTA António
+CONSULTA Madalena
+CONSULTA Henrique
+CONSULTA Maria
+CONSULTA Maria
+CONSULTA Marta
+CONSULTA Adriana
+CONSULTA Alexandre
+CONSULTA Madalena
+CONSULTA Carolina
+CONSULTA Isabel
+CONSULTA Adriana
+CONSULTA Isabel
+CONSULTA António
+CONSULTA André
+CONSULTA Adriana
+CONSULTA Madalena
+CONSULTA Carlos
+CONSULTA Carolina
+CONSULTA Aparicio
+CONSULTA Marta
+CONSULTA Matilde
+CONSULTA Josefina
+CONSULTA Joana
+CONSULTA Isabel
+CONSULTA Isabel
+CONSULTA Carlos
+CONSULTA Marta
+CONSULTA António
+CONSULTA Aparicio
+CONSULTA Marta
+CONSULTA Carolina
+CONSULTA André
+CONSULTA Tomás
+CONSULTA Tomás
+CONSULTA Matilde
+CONSULTA Henrique
+CONSULTA Madalena
+CONSULTA Matilde
+CONSULTA Isabel
+CONSULTA Maria
+CONSULTA João
+CONSULTA Carolina
+CONSULTA Madalena
+CONSULTA António
+CONSULTA Marta
+CONSULTA Carolina
+CONSULTA Henrique
+CONSULTA Josefina
+CONSULTA Joana
+CONSULTA Maria
+CONSULTA António
+CONSULTA Carolina
+CONSULTA André
+CONSULTA Tomás
+CONSULTA Tomás
+CONSULTA Marta
+CONSULTA Matilde
+CONSULTA Carlos
+CONSULTA Josefina
+CONSULTA Alexandre
+CONSULTA Joana
+CONSULTA Joana
+CONSULTA João
+CONSULTA Carlos
+CONSULTA Maria
+CONSULTA Matilde
+CONSULTA João
+CONSULTA Carlos
+CONSULTA Isabel
+CONSULTA António
+CONSULTA Henrique
+CONSULTA João
+CONSULTA Joana
+CONSULTA Madalena
+CONSULTA Joana
+CONSULTA Henrique
+CONSULTA Adriana
+CONSULTA João
+CONSULTA João
+CONSULTA Carlos
+CONSULTA Josefina
+CONSULTA Marta
+CONSULTA André
+CONSULTA Josefina
+CONSULTA João
+CONSULTA Matilde
+CONSULTA André
+CONSULTA Matilde
+CONSULTA António
+CONSULTA Marta
+CONSULTA Carolina
+CONSULTA Henrique
+CONSULTA António
+CONSULTA Josefina
+CONSULTA Maria
+CONSULTA Bernardo
+CONSULTA Marta
+CONSULTA André
+CONSULTA Madalena
+CONSULTA Adriana
+CONSULTA Carolina
+CONSULTA André
+CONSULTA Tomás
+CONSULTA Marta
+CONSULTA Carolina
+CONSULTA Matilde
+CONSULTA Matilde
+CONSULTA Tomás
+CONSULTA Matilde
+CONSULTA Marta
+CONSULTA André
+CONSULTA Marta
+CONSULTA André
+CONSULTA Alexandre
+CONSULTA Aparicio
+CONSULTA Matilde
+CONSULTA Maria
+CONSULTA António
+CONSULTA Tomás
+CONSULTA Isabel
+CONSULTA André
+CONSULTA Tomás
+CONSULTA Carolina
+CONSULTA Josefina
+CONSULTA Matilde
+CONSULTA Carolina
+CONSULTA João
+CONSULTA Adriana
+CONSULTA Isabel
+CONSULTA Simão
+CONSULTA Joana
+CONSULTA André
+CONSULTA João
+CONSULTA Marta
+CONSULTA Isabel
+CONSULTA Maria
+CONSULTA Maria
+CONSULTA André
+CONSULTA Madalena
+CONSULTA Alexandre
+CONSULTA Aparicio
+CONSULTA Alexandre
+CONSULTA João
+CONSULTA Madalena
+CONSULTA António
+CONSULTA Carolina
+CONSULTA Aparicio
+CONSULTA Aparicio
+CONSULTA Josefina
+CONSULTA João
+CONSULTA Isabel
+CONSULTA Simão
+CONSULTA Carlos
+CONSULTA Joana
+CONSULTA Alexandre
+CONSULTA Matilde
+CONSULTA Henrique
+CONSULTA João
+CONSULTA António
+CONSULTA André
+CONSULTA Aparicio
+CONSULTA Joana
+CONSULTA Joana
+CONSULTA André
+CONSULTA Henrique
+CONSULTA Simão
+CONSULTA Simão
+CONSULTA Marta
+CONSULTA Isabel
+CONSULTA Carlos
+CONSULTA Adriana
+CONSULTA Aparicio
+CONSULTA André
+CONSULTA Maria
+CONSULTA Madalena
+CONSULTA Joana
+CONSULTA Josefina
+CONSULTA Carolina
+CONSULTA Josefina
+CONSULTA Simão
+CONSULTA Alexandre
+CONSULTA Aparicio
+CONSULTA Tomás
+CONSULTA Henrique
+CONSULTA Simão
+CONSULTA João
+CONSULTA Alexandre
+CONSULTA Marta
+CONSULTA Matilde
+CONSULTA Carlos
+CONSULTA André
+CONSULTA Josefina
+CONSULTA Henrique
+CONSULTA André
+CONSULTA João
+CONSULTA Joana
+CONSULTA Madalena
+CONSULTA Simão
+CONSULTA António
+CONSULTA Simão
+CONSULTA Simão
+CONSULTA André
+CONSULTA Maria
+CONSULTA Carolina
+CONSULTA Henrique
+CONSULTA Bernardo
+CONSULTA Josefina
+CONSULTA Madalena
+CONSULTA Isabel
+CONSULTA Aparicio
+CONSULTA Alexandre
+CONSULTA Josefina
+CONSULTA André
+CONSULTA Alexandre
+CONSULTA Maria
+CONSULTA Alexandre
+CONSULTA António
+CONSULTA Alexandre
+CONSULTA António
+CONSULTA André
+CONSULTA Simão
+CONSULTA Simão
+CONSULTA Matilde
+CONSULTA André
+CONSULTA André
+CONSULTA Adriana
+CONSULTA Marta
+CONSULTA Alexandre
+CONSULTA António
+CONSULTA Adriana
+CONSULTA Henrique
+CONSULTA Alexandre
+CONSULTA Isabel
+CONSULTA Bernardo
+CONSULTA Carolina
+CONSULTA André
+CONSULTA Joana
+CONSULTA Tomás
+CONSULTA Josefina
+CONSULTA Madalena
+CONSULTA Tomás
+CONSULTA António
+CONSULTA Marta
+CONSULTA Joana
+CONSULTA Matilde
+CONSULTA Alexandre
+CONSULTA Adriana
+CONSULTA Henrique
+CONSULTA André
+CONSULTA André
+CONSULTA Josefina
+CONSULTA António
+CONSULTA João
+CONSULTA Joana
+CONSULTA Aparicio
+CONSULTA Marta
+CONSULTA Bernardo
+CONSULTA Marta
+CONSULTA Bernardo
+CONSULTA Josefina
+CONSULTA Tomás
+CONSULTA Joana
+CONSULTA António
+CONSULTA Matilde
+CONSULTA Madalena
+CONSULTA António
+CONSULTA Henrique
+CONSULTA Matilde
+CONSULTA Bernardo
+CONSULTA Carolina
+CONSULTA António
+CONSULTA André
+CONSULTA Josefina
+CONSULTA Joana
+CONSULTA João
+CONSULTA Henrique
+CONSULTA António
+CONSULTA Henrique
+CONSULTA Bernardo
+CONSULTA André
+CONSULTA Henrique
+CONSULTA Henrique
+CONSULTA Aparicio
+CONSULTA Madalena
+CONSULTA Josefina
+CONSULTA Alexandre
+CONSULTA António
+CONSULTA Matilde
+CONSULTA João
+CONSULTA Carolina
+CONSULTA Joana
+CONSULTA Madalena
+CONSULTA Tomás
+CONSULTA Joana
+CONSULTA Marta
+CONSULTA Alexandre
+CONSULTA André
+CONSULTA António
+CONSULTA Josefina
+CONSULTA Maria
+CONSULTA Aparicio
+CONSULTA Joana
+CONSULTA Madalena
+CONSULTA Joana
+CONSULTA Alexandre
+CONSULTA Maria
+CONSULTA Aparicio
+CONSULTA Carolina
+CONSULTA Aparicio
+CONSULTA Carlos
+CONSULTA Alexandre
+CONSULTA Tomás
+CONSULTA António
+CONSULTA Josefina
+CONSULTA Bernardo
+CONSULTA Bernardo
+CONSULTA António
+CONSULTA Henrique
+CONSULTA André
+CONSULTA Simão
+CONSULTA Marta
+CONSULTA Henrique
+CONSULTA Simão
+CONSULTA Adriana
+CONSULTA Joana
+CONSULTA Tomás
+CONSULTA Aparicio
+CONSULTA Isabel
+CONSULTA Carlos
+CONSULTA Carolina
+CONSULTA Simão
+CONSULTA Simão
+CONSULTA Maria
+CONSULTA Carlos
+CONSULTA Marta
+CONSULTA Matilde
+CONSULTA António
+CONSULTA Adriana
+CONSULTA Tomás
+CONSULTA Bernardo
+CONSULTA Simão
+CONSULTA Henrique
+CONSULTA Carlos
+CONSULTA António
+CONSULTA Tomás
+CONSULTA Joana
+CONSULTA Simão
+CONSULTA Maria
+CONSULTA Joana
+CONSULTA Carlos
+CONSULTA André
+CONSULTA Adriana
+CONSULTA Matilde
+CONSULTA Maria
+CONSULTA Joana
+CONSULTA Simão
+CONSULTA André
+CONSULTA Josefina
+CONSULTA Bernardo
+CONSULTA Simão
+CONSULTA António
+CONSULTA Aparicio
+CONSULTA Bernardo
+CONSULTA Josefina
+CONSULTA Bernardo
+CONSULTA Marta
+CONSULTA Joana
+CONSULTA Alexandre
+CONSULTA André
+CONSULTA Madalena
+CONSULTA Tomás
+CONSULTA Matilde
+CONSULTA João
+CONSULTA Matilde
+CONSULTA Joana
+CONSULTA Tomás
+CONSULTA Aparicio
+CONSULTA António
+CONSULTA Joana
+CONSULTA Simão
+CONSULTA Simão
+CONSULTA Bernardo
+CONSULTA Matilde
+CONSULTA António
+CONSULTA Simão
+CONSULTA Carolina
+CONSULTA Madalena
+CONSULTA Carlos
+CONSULTA Carlos
+CONSULTA Madalena
+CONSULTA Maria
+CONSULTA Simão
+CONSULTA Isabel
+CONSULTA Henrique
+CONSULTA Tomás
+CONSULTA Carlos
+CONSULTA Henrique
+CONSULTA Henrique
+CONSULTA André
+CONSULTA Madalena
+CONSULTA Joana
+CONSULTA André
+CONSULTA Tomás
+CONSULTA Josefina
+CONSULTA Carlos
+CONSULTA Joana
+CONSULTA André
+CONSULTA Madalena
+CONSULTA Alexandre
+CONSULTA Josefina
+CONSULTA Adriana
+CONSULTA Henrique
+CONSULTA Maria
+CONSULTA Carlos
+CONSULTA Tomás
+CONSULTA Carolina
+CONSULTA Maria
+CONSULTA Tomás
+CONSULTA Carolina
+CONSULTA Tomás
+CONSULTA Maria
+CONSULTA Simão
+CONSULTA Isabel
+CONSULTA Bernardo
+CONSULTA Maria
+CONSULTA Aparicio
+CONSULTA Carolina
+CONSULTA Carlos
+CONSULTA Henrique
+CONSULTA António
+CONSULTA Marta
+CONSULTA João
+CONSULTA Aparicio
+CONSULTA Simão
+CONSULTA André
+CONSULTA André
+CONSULTA Carlos
+CONSULTA Isabel
+CONSULTA Henrique
+CONSULTA Carlos
+CONSULTA João
+CONSULTA Maria
+CONSULTA Isabel
+CONSULTA Josefina
+CONSULTA Madalena
+CONSULTA Josefina
+CONSULTA Carlos
+CONSULTA Alexandre
+CONSULTA Madalena
+CONSULTA Bernardo
+CONSULTA Bernardo
+CONSULTA Simão
+CONSULTA Matilde
+CONSULTA Josefina
+CONSULTA Simão
+CONSULTA António
+CONSULTA Carolina
+CONSULTA Henrique
+CONSULTA António
+CONSULTA Adriana
+CONSULTA Isabel
+CONSULTA Adriana
+CONSULTA Maria
+CONSULTA Maria
+CONSULTA Adriana
+CONSULTA Adriana
+CONSULTA Joana
+CONSULTA Bernardo
+CONSULTA Henrique
+CONSULTA Carolina
+CONSULTA Madalena
+CONSULTA Marta
+CONSULTA Isabel
+CONSULTA Bernardo
+CONSULTA Madalena
+CONSULTA Madalena
+CONSULTA Madalena
+CONSULTA Carlos
+CONSULTA Aparicio
+CONSULTA André
+CONSULTA André
+CONSULTA André
+CONSULTA Henrique
+CONSULTA Maria
+CONSULTA João
+CONSULTA Maria
+CONSULTA Aparicio
+CONSULTA Joana
+CONSULTA Maria
+CONSULTA Matilde
+CONSULTA Simão
+CONSULTA Adriana
+CONSULTA André
+CONSULTA Carolina
+CONSULTA Bernardo
+CONSULTA Joana
+CONSULTA Simão
+CONSULTA João
+CONSULTA Bernardo
+CONSULTA Carlos
+CONSULTA Aparicio
+CONSULTA André
+CONSULTA António
+CONSULTA Adriana
+CONSULTA Aparicio
+CONSULTA Aparicio
+CONSULTA Aparicio
+CONSULTA João
+CONSULTA Matilde
+CONSULTA Marta
+CONSULTA Adriana
+CONSULTA Joana
+CONSULTA Matilde
+CONSULTA Josefina
+CONSULTA Carolina
+CONSULTA Maria
+CONSULTA Aparicio
+CONSULTA Adriana
+CONSULTA Henrique
+CONSULTA Isabel
+CONSULTA Matilde
+CONSULTA Tomás
+CONSULTA Madalena
+CONSULTA Tomás
+CONSULTA Madalena
+CONSULTA Aparicio
+CONSULTA Aparicio
+CONSULTA Simão
+CONSULTA Alexandre
+CONSULTA Simão
+CONSULTA André
+CONSULTA João
+CONSULTA Marta
+CONSULTA Simão
+CONSULTA João
+CONSULTA Aparicio
+CONSULTA Carolina
+CONSULTA Simão
+CONSULTA António
+CONSULTA Carlos
+CONSULTA Simão
+CONSULTA Josefina
+CONSULTA Joana
+CONSULTA Maria
+CONSULTA Carolina
+CONSULTA André
+CONSULTA António
+CONSULTA Simão
+CONSULTA André
+CONSULTA Carlos
+CONSULTA Adriana
+CONSULTA Josefina
+CONSULTA Carolina
+CONSULTA Henrique
+CONSULTA Joana
+CONSULTA António
+CONSULTA André
+CONSULTA Adriana
+CONSULTA André
+CONSULTA Alexandre
+CONSULTA Alexandre
+CONSULTA Simão
+CONSULTA Maria
+CONSULTA Aparicio
+CONSULTA Carlos
+CONSULTA Carlos
+CONSULTA Carlos
+CONSULTA Simão
+CONSULTA João
+CONSULTA Josefina
+CONSULTA Marta
+CONSULTA André
+CONSULTA Matilde
+CONSULTA Bernardo
+CONSULTA Bernardo
+CONSULTA António
+CONSULTA André
+CONSULTA Bernardo
+CONSULTA Tomás
+CONSULTA Alexandre
+CONSULTA Alexandre
+CONSULTA Alexandre
+CONSULTA André
+CONSULTA Josefina
+CONSULTA Isabel
+CONSULTA Maria
+CONSULTA Isabel
+CONSULTA Adriana
+CONSULTA Tomás
+CONSULTA Madalena
+CONSULTA Josefina
+CONSULTA Madalena
+CONSULTA Carlos
+CONSULTA Carolina
+CONSULTA Simão
+CONSULTA Tomás
+CONSULTA Josefina
+CONSULTA Carlos
+CONSULTA Alexandre
+CONSULTA Aparicio
+CONSULTA Isabel
+CONSULTA Tomás
+CONSULTA Alexandre
+CONSULTA Maria
+CONSULTA Bernardo
+CONSULTA Alexandre
+CONSULTA Tomás
+CONSULTA Marta
+CONSULTA Joana
+CONSULTA André
+CONSULTA Carolina
+CONSULTA André
+CONSULTA Tomás
+CONSULTA Matilde
+CONSULTA Carolina
+CONSULTA Alexandre
+CONSULTA Madalena
+CONSULTA André
+CONSULTA Marta
+CONSULTA Alexandre
+CONSULTA João
+CONSULTA Josefina
+CONSULTA Alexandre
+CONSULTA António
+CONSULTA Carlos
+CONSULTA Tomás
+CONSULTA Matilde
+CONSULTA Tomás
+CONSULTA João
+CONSULTA Maria
+CONSULTA Madalena
+CONSULTA Tomás
+CONSULTA Carolina
+CONSULTA Alexandre
+CONSULTA Madalena
+CONSULTA Adriana
+CONSULTA Carlos
+CONSULTA Bernardo
+CONSULTA Alexandre
+CONSULTA Alexandre
+CONSULTA Carlos
+CONSULTA Bernardo
+CONSULTA Isabel
+CONSULTA João
+CONSULTA Carolina
+CONSULTA Tomás
+CONSULTA Simão
+CONSULTA Isabel
+CONSULTA Henrique
+CONSULTA André
+CONSULTA Tomás
+CONSULTA André
+CONSULTA Madalena
+CONSULTA Marta
+CONSULTA Adriana
+CONSULTA Henrique
+CONSULTA João
+CONSULTA Aparicio
+CONSULTA Maria
+CONSULTA Matilde
+CONSULTA Marta
+CONSULTA Simão
+CONSULTA Carolina
+CONSULTA Tomás
+CONSULTA Josefina
+CONSULTA Maria
+CONSULTA Henrique
+CONSULTA Maria
+CONSULTA Isabel
+CONSULTA Simão
+CONSULTA André
+CONSULTA Alexandre
+CONSULTA Josefina
+CONSULTA Carlos
+CONSULTA Carolina
+CONSULTA Bernardo
+CONSULTA Carolina
+CONSULTA Henrique
+CONSULTA Henrique
+CONSULTA Maria
+CONSULTA Joana
+CONSULTA João
+CONSULTA Bernardo
+CONSULTA Henrique
+CONSULTA João
+CONSULTA Marta
+CONSULTA Tomás
+CONSULTA António
+CONSULTA Marta
+CONSULTA André
+CONSULTA Aparicio
+CONSULTA Maria
+CONSULTA Bernardo
+CONSULTA João
+CONSULTA Joana
+CONSULTA Maria
+CONSULTA André
+CONSULTA Aparicio
+CONSULTA Alexandre
+CONSULTA Matilde
+CONSULTA Josefina
+CONSULTA Adriana
+CONSULTA Marta
+CONSULTA Josefina
+CONSULTA João
+CONSULTA Simão
+CONSULTA Simão
+CONSULTA Tomás
+CONSULTA Henrique
+CONSULTA Maria
+CONSULTA André
+CONSULTA Carolina
+CONSULTA Madalena
+CONSULTA Isabel
+CONSULTA André
+CONSULTA Aparicio
+CONSULTA Simão
+CONSULTA Henrique
+CONSULTA Marta
+CONSULTA Alexandre
+CONSULTA Matilde
+CONSULTA João
+CONSULTA Bernardo
+CONSULTA Bernardo
+CONSULTA António
+CONSULTA Adriana
+CONSULTA Marta
+CONSULTA André
+CONSULTA João
+CONSULTA Carolina
+CONSULTA Josefina
+CONSULTA Madalena
+CONSULTA António
+CONSULTA Aparicio
+CONSULTA Alexandre
+CONSULTA Adriana
+CONSULTA Isabel
+CONSULTA Josefina
+CONSULTA Simão
+CONSULTA António
+CONSULTA Josefina
+CONSULTA Madalena
+CONSULTA Matilde
+CONSULTA Marta
+CONSULTA Carlos
+CONSULTA Matilde
+CONSULTA Henrique
+CONSULTA Tomás
+CONSULTA Bernardo
+CONSULTA Joana
+CONSULTA Aparicio
+CONSULTA Carolina
+CONSULTA João
+CONSULTA Tomás
+CONSULTA António
+CONSULTA Henrique
+CONSULTA Alexandre
+CONSULTA Bernardo
+CONSULTA Alexandre
+CONSULTA João
+CONSULTA Isabel
+CONSULTA Aparicio
+CONSULTA Aparicio
+CONSULTA Josefina
+CONSULTA Alexandre
+CONSULTA Adriana
+CONSULTA Tomás
+CONSULTA Carlos
+CONSULTA Marta
+CONSULTA Josefina
+CONSULTA António
+CONSULTA Bernardo
+CONSULTA António
+CONSULTA Tomás
+CONSULTA Bernardo
+CONSULTA Henrique
+CONSULTA João
+CONSULTA Joana
+CONSULTA Isabel
+CONSULTA Carlos
+CONSULTA Josefina
+CONSULTA Carlos
+CONSULTA Joana
+CONSULTA Simão
+CONSULTA Aparicio
+CONSULTA Adriana
+CONSULTA Josefina
+CONSULTA Aparicio
+CONSULTA António
+CONSULTA António
+CONSULTA Alexandre
+CONSULTA André
+CONSULTA Maria
+CONSULTA Matilde
+CONSULTA António
+CONSULTA Maria
+CONSULTA Bernardo
+CONSULTA António
+CONSULTA Carlos
+CONSULTA André
+CONSULTA Matilde
+CONSULTA Carlos
+CONSULTA Bernardo
+CONSULTA Bernardo
+CONSULTA Aparicio
+CONSULTA Isabel
+CONSULTA Simão
+CONSULTA Madalena
+CONSULTA André
+CONSULTA Isabel
+CONSULTA André
+CONSULTA Bernardo
+CONSULTA Adriana
+CONSULTA Henrique
+CONSULTA Simão
+CONSULTA João
+CONSULTA André
+CONSULTA Marta
+CONSULTA António
+CONSULTA Carolina
+CONSULTA João
+CONSULTA André
+CONSULTA Josefina
+CONSULTA Carlos
+CONSULTA Simão
+CONSULTA Tomás
+CONSULTA André
+CONSULTA António
+CONSULTA João
+CONSULTA Joana
+CONSULTA Marta
+CONSULTA Adriana
+CONSULTA Carolina
+CONSULTA João
+CONSULTA Aparicio
+CONSULTA Aparicio
+CONSULTA Joana
+CONSULTA Alexandre
+CONSULTA Tomás
+CONSULTA Henrique
+CONSULTA António
+CONSULTA João
+CONSULTA Matilde
+CONSULTA Matilde
+CONSULTA Joana
+CONSULTA Maria
+CONSULTA Adriana
+CONSULTA Henrique
+CONSULTA Bernardo
+CONSULTA Adriana
+CONSULTA Matilde
+CONSULTA Madalena
+CONSULTA Maria
+CONSULTA Josefina
+CONSULTA Bernardo
+CONSULTA André
+CONSULTA Matilde
+CONSULTA Josefina
+CONSULTA Isabel
+CONSULTA Isabel
+CONSULTA Henrique
+CONSULTA Joana
+CONSULTA António
+CONSULTA Marta
+CONSULTA António
+CONSULTA Joana
+CONSULTA Josefina
+CONSULTA Henrique
+CONSULTA Carlos
+CONSULTA Tomás
+CONSULTA Maria
+CONSULTA João
+CONSULTA Maria
+CONSULTA Carlos
+CONSULTA António
+CONSULTA Carlos
+CONSULTA Alexandre
+CONSULTA Simão
+CONSULTA Joana
+CONSULTA Marta
+CONSULTA João
+CONSULTA Isabel
+CONSULTA André
+CONSULTA Adriana
+CONSULTA Adriana
+CONSULTA Joana
+CONSULTA Matilde
+CONSULTA António
+CONSULTA Marta
+CONSULTA Madalena
+CONSULTA João
+CONSULTA Tomás
+CONSULTA João
+CONSULTA António
+CONSULTA João
+CONSULTA Carolina
+CONSULTA Tomás
+CONSULTA Henrique
+CONSULTA Josefina
+CONSULTA Maria
+CONSULTA Isabel
+CONSULTA Carolina
+CONSULTA Matilde
+CONSULTA Joana
+CONSULTA Joana
+CONSULTA Maria
+CONSULTA Alexandre
+CONSULTA Matilde
+CONSULTA Joana
+CONSULTA António
+CONSULTA Carlos
+CONSULTA Bernardo
+CONSULTA Josefina
+CONSULTA Madalena
+CONSULTA Marta
+CONSULTA Marta
+CONSULTA Isabel
+CONSULTA Joana
+CONSULTA Josefina
+CONSULTA Matilde
+CONSULTA António
+CONSULTA Isabel
+CONSULTA Joana
+CONSULTA Matilde
+CONSULTA João
+CONSULTA Simão
+CONSULTA Carlos
+CONSULTA Tomás
+CONSULTA Josefina
+CONSULTA Tomás
+CONSULTA Aparicio
+CONSULTA Carlos
+CONSULTA Maria
+CONSULTA Isabel
+CONSULTA Marta
+CONSULTA Tomás
+CONSULTA Simão
+CONSULTA André
+CONSULTA João
+CONSULTA Maria
+CONSULTA Alexandre
+CONSULTA André
+CONSULTA Simão
+CONSULTA Bernardo
+CONSULTA Adriana
+CONSULTA Henrique
+CONSULTA Isabel
+CONSULTA João
+CONSULTA Maria
+CONSULTA Joana
+CONSULTA Aparicio
+CONSULTA Josefina
+CONSULTA André
+CONSULTA André
+CONSULTA Carolina
+CONSULTA João
+CONSULTA Aparicio
+CONSULTA Tomás
+CONSULTA Aparicio
+CONSULTA Tomás
+CONSULTA Aparicio
+CONSULTA Josefina
+CONSULTA Henrique
+CONSULTA Carolina
+CONSULTA Josefina
+CONSULTA António
+CONSULTA Joana
+CONSULTA Carlos
+CONSULTA João
+CONSULTA André
+CONSULTA Tomás
+CONSULTA Carlos
+CONSULTA António
+CONSULTA Madalena
+CONSULTA Henrique
+CONSULTA Maria
+CONSULTA Aparicio
+CONSULTA Adriana
+CONSULTA Adriana
+CONSULTA António
+CONSULTA Marta
+CONSULTA Maria
+CONSULTA Marta
+CONSULTA Tomás
+CONSULTA Madalena
+CONSULTA Henrique
+CONSULTA João
+CONSULTA Bernardo
+CONSULTA Marta
+CONSULTA Madalena
+CONSULTA Marta
+CONSULTA Isabel
+CONSULTA Matilde
+CONSULTA Tomás
+CONSULTA Madalena
+CONSULTA Matilde
+CONSULTA Tomás
+CONSULTA Aparicio
+CONSULTA Joana
+CONSULTA Matilde
+CONSULTA Aparicio
+CONSULTA André
+CONSULTA Carlos
+CONSULTA Madalena
+CONSULTA Simão
+CONSULTA Bernardo
+CONSULTA Matilde
+CONSULTA Henrique
+CONSULTA João
+CONSULTA Carolina
+CONSULTA Josefina
+CONSULTA Simão
+CONSULTA Carolina
+CONSULTA Carolina
+CONSULTA Joana
+CONSULTA Tomás
+CONSULTA Maria
+CONSULTA Alexandre
+CONSULTA Josefina
+CONSULTA Josefina
+CONSULTA Isabel
+CONSULTA Maria
+CONSULTA Matilde
+CONSULTA Adriana
+CONSULTA Isabel
+CONSULTA Tomás
+CONSULTA Josefina
+CONSULTA André
+CONSULTA Joana
+CONSULTA Madalena
+CONSULTA António
+CONSULTA António
+CONSULTA Marta
+CONSULTA Adriana
+CONSULTA André
+CONSULTA Maria
+CONSULTA Matilde
+CONSULTA Marta
+CONSULTA Isabel
+CONSULTA Aparicio
+CONSULTA Tomás
+CONSULTA Josefina
+CONSULTA Aparicio
+CONSULTA Tomás
+CONSULTA Aparicio
+CONSULTA Maria
+CONSULTA Madalena
+CONSULTA Marta
+CONSULTA Maria
+CONSULTA Alexandre
+CONSULTA Josefina
+CONSULTA Tomás
+CONSULTA Carolina
+CONSULTA Maria
+CONSULTA Maria
+CONSULTA Maria
+CONSULTA Carolina
+CONSULTA Bernardo
+CONSULTA Tomás
+CONSULTA Adriana
+CONSULTA João
+CONSULTA Bernardo
+CONSULTA Madalena
+CONSULTA André
+CONSULTA Isabel
+CONSULTA Henrique
+CONSULTA António
+CONSULTA Alexandre
+CONSULTA Carolina
+CONSULTA Joana
+CONSULTA Matilde
+CONSULTA Isabel
+CONSULTA João
+CONSULTA André
+CONSULTA Carlos
+CONSULTA Alexandre
+CONSULTA Tomás
+CONSULTA Henrique
+CONSULTA Alexandre
+CONSULTA Henrique
+CONSULTA Carlos
+CONSULTA Isabel
+CONSULTA Alexandre
+CONSULTA António
+CONSULTA Marta
+CONSULTA Carolina
+CONSULTA Tomás
+CONSULTA Madalena
+CONSULTA Joana
+CONSULTA António
+CONSULTA Henrique
+CONSULTA Maria
+CONSULTA André
+CONSULTA Henrique
+CONSULTA Tomás
+CONSULTA Joana
+CONSULTA Aparicio
+CONSULTA Carolina
+CONSULTA Josefina
+CONSULTA Maria
+CONSULTA Maria
+CONSULTA André
+CONSULTA Bernardo
+CONSULTA Tomás
+CONSULTA Matilde
+CONSULTA Tomás
+CONSULTA Joana
+CONSULTA Aparicio
+CONSULTA André
+CONSULTA Carolina
+CONSULTA Marta
+CONSULTA Carolina
+CONSULTA Madalena
+CONSULTA Alexandre
+CONSULTA Tomás
+CONSULTA Tomás
+CONSULTA Adriana
+CONSULTA João
+CONSULTA Carolina
+CONSULTA Josefina
+CONSULTA Tomás
+CONSULTA Aparicio
+CONSULTA Henrique
+CONSULTA André
+CONSULTA Josefina
+CONSULTA André
+CONSULTA Marta
+CONSULTA André
+CONSULTA Madalena
+CONSULTA Joana
+CONSULTA Simão
+CONSULTA Aparicio
+CONSULTA Adriana
+CONSULTA Bernardo
+CONSULTA Madalena
+CONSULTA Joana
+CONSULTA António
+CONSULTA Carolina
+CONSULTA Matilde
+CONSULTA Madalena
+CONSULTA Marta
+CONSULTA Bernardo
+CONSULTA Tomás
+CONSULTA Henrique
+CONSULTA Tomás
+CONSULTA Isabel
+CONSULTA Carolina
+CONSULTA Isabel
+CONSULTA Matilde
+CONSULTA Josefina
+CONSULTA Bernardo
+CONSULTA Madalena
+CONSULTA João
+CONSULTA André
+CONSULTA Joana
+CONSULTA Aparicio
+CONSULTA Carlos
+CONSULTA Carolina
+CONSULTA António
+CONSULTA Carolina
+CONSULTA Maria
+CONSULTA Henrique
+CONSULTA Alexandre
+CONSULTA Matilde
+CONSULTA Adriana
+CONSULTA Joana
+CONSULTA Adriana
+CONSULTA Joana
+CONSULTA Tomás
+CONSULTA Maria
+CONSULTA Matilde
+CONSULTA Carolina
+CONSULTA Carolina
+CONSULTA Carolina
+CONSULTA Marta
+CONSULTA Simão
+CONSULTA Henrique
+CONSULTA Tomás
+CONSULTA André
+CONSULTA António
+CONSULTA Maria
+CONSULTA João
+CONSULTA Madalena
+CONSULTA Henrique
+CONSULTA Carlos
+CONSULTA André
+CONSULTA Simão
+CONSULTA Matilde
+CONSULTA Marta
+CONSULTA Carolina
+CONSULTA Carolina
+CONSULTA Tomás
+CONSULTA Isabel
+CONSULTA Aparicio
+CONSULTA Carlos
+CONSULTA Adriana
+CONSULTA Madalena
+CONSULTA Isabel
+CONSULTA Carlos
+CONSULTA Aparicio
+CONSULTA Aparicio
+CONSULTA Joana
+CONSULTA Adriana
+CONSULTA Carolina
+CONSULTA António
+CONSULTA Josefina
+CONSULTA Simão
+CONSULTA Carlos
+CONSULTA Marta
+CONSULTA Aparicio
+CONSULTA Maria
+CONSULTA Adriana
+CONSULTA Matilde
+CONSULTA Marta
+CONSULTA Josefina
+CONSULTA Alexandre
+CONSULTA Carolina
+CONSULTA Aparicio
+CONSULTA Bernardo
+CONSULTA Isabel
+CONSULTA Madalena
+CONSULTA Tomás
+CONSULTA Tomás
+CONSULTA Josefina
+CONSULTA Carolina
+CONSULTA Josefina
+CONSULTA Bernardo
+CONSULTA Josefina
+CONSULTA Alexandre
+CONSULTA Bernardo
+CONSULTA André
+CONSULTA Matilde
+CONSULTA Aparicio
+CONSULTA Joana
+CONSULTA Aparicio
+CONSULTA Matilde
+CONSULTA Josefina
+CONSULTA João
+CONSULTA Henrique
+CONSULTA Josefina
+CONSULTA Isabel
+CONSULTA Carlos
+CONSULTA Josefina
+CONSULTA Tomás
+CONSULTA Alexandre
+CONSULTA Adriana
+CONSULTA Isabel
+CONSULTA Maria
+CONSULTA Marta
+CONSULTA Tomás
+CONSULTA Joana
+CONSULTA Adriana
+CONSULTA Madalena
+CONSULTA Marta
+CONSULTA António
+CONSULTA Isabel
+CONSULTA Carlos
+CONSULTA Carlos
+CONSULTA João
+CONSULTA António
+CONSULTA Alexandre
+CONSULTA Carlos
+CONSULTA Isabel
+CONSULTA Carolina
+CONSULTA Adriana
+CONSULTA Henrique
+CONSULTA Marta
+CONSULTA Madalena
+CONSULTA Adriana
+CONSULTA João
+CONSULTA Maria
+CONSULTA Maria
+CONSULTA Matilde
+CONSULTA António
+CONSULTA Aparicio
+CONSULTA Aparicio
+CONSULTA Henrique
+CONSULTA Marta
+CONSULTA Simão
+CONSULTA Joana
+CONSULTA António
+CONSULTA Marta
+CONSULTA Carlos
+CONSULTA Aparicio
+CONSULTA Josefina
+CONSULTA Carlos
+CONSULTA Marta
+CONSULTA Joana
+CONSULTA João
+CONSULTA André
+CONSULTA Marta
+CONSULTA Alexandre
+CONSULTA Matilde
+CONSULTA Aparicio
+CONSULTA Carolina
+CONSULTA Josefina
+CONSULTA Isabel
+CONSULTA Simão
+CONSULTA Madalena
+CONSULTA Matilde
+CONSULTA Simão
+CONSULTA Tomás
+CONSULTA Josefina
+CONSULTA Simão
+CONSULTA Tomás
+CONSULTA Aparicio
+CONSULTA Tomás
+CONSULTA Maria
+CONSULTA Adriana
+CONSULTA Joana
+CONSULTA Bernardo
+CONSULTA João
+CONSULTA Isabel
+CONSULTA Maria
+CONSULTA Carlos
+CONSULTA Joana
+CONSULTA Bernardo
+CONSULTA João
+CONSULTA Marta
+CONSULTA Matilde
+CONSULTA João
+CONSULTA Marta
+CONSULTA Aparicio
+CONSULTA Maria
+CONSULTA Joana
+CONSULTA Carlos
+CONSULTA Joana
+CONSULTA Matilde
+CONSULTA Matilde
+CONSULTA Alexandre
+CONSULTA Adriana
+CONSULTA Alexandre
+CONSULTA Simão
+CONSULTA Carolina
+CONSULTA António
+CONSULTA Josefina
+CONSULTA André
+CONSULTA Carlos
+CONSULTA Madalena
+CONSULTA Marta
+CONSULTA Aparicio
+CONSULTA João
+CONSULTA Alexandre
+CONSULTA Simão
+CONSULTA João
+CONSULTA Madalena
+CONSULTA Alexandre
+CONSULTA Carolina
+CONSULTA António
+CONSULTA Maria
+CONSULTA André
+CONSULTA Marta
+CONSULTA Aparicio
+CONSULTA João
+CONSULTA Alexandre
+CONSULTA Aparicio
+CONSULTA Isabel
+CONSULTA Bernardo
+CONSULTA Alexandre
+CONSULTA Bernardo
+CONSULTA Tomás
+CONSULTA André
+CONSULTA Tomás
+CONSULTA Josefina
+CONSULTA Joana
+CONSULTA Maria
+CONSULTA Carolina
+CONSULTA Matilde
+CONSULTA Joana
+CONSULTA Tomás
+CONSULTA André
+CONSULTA Carlos
+CONSULTA Tomás
+CONSULTA Alexandre
+CONSULTA Matilde
+CONSULTA Henrique
+CONSULTA Marta
+CONSULTA Simão
+CONSULTA Alexandre
+CONSULTA António
+CONSULTA Aparicio
+CONSULTA João
+CONSULTA Simão
+CONSULTA Adriana
+CONSULTA Maria
+CONSULTA António
+CONSULTA Matilde
+CONSULTA Matilde
+CONSULTA Alexandre
+CONSULTA Josefina
+CONSULTA Bernardo
+CONSULTA Bernardo
+CONSULTA Carlos
+CONSULTA João
+CONSULTA Josefina
+CONSULTA Alexandre
+CONSULTA André
+CONSULTA Matilde
+CONSULTA Alexandre
+CONSULTA Matilde
+CONSULTA Josefina
+CONSULTA Alexandre
+CONSULTA Matilde
+CONSULTA Adriana
+CONSULTA Alexandre
+CONSULTA Alexandre
+CONSULTA Bernardo
+CONSULTA Joana
+CONSULTA Aparicio
+CONSULTA André
+CONSULTA Maria
+CONSULTA Madalena
+CONSULTA Simão
+CONSULTA Isabel
+CONSULTA Matilde
+CONSULTA António
+CONSULTA Marta
+CONSULTA Henrique
+CONSULTA Josefina
+CONSULTA Josefina
+CONSULTA Joana
+CONSULTA João
+CONSULTA Aparicio
+CONSULTA Isabel
+CONSULTA Marta
+CONSULTA Aparicio
+CONSULTA Isabel
+CONSULTA Matilde
+CONSULTA Henrique
+CONSULTA Adriana
+CONSULTA Carolina
+CONSULTA Marta
+CONSULTA António
+CONSULTA Marta
+CONSULTA Joana
+CONSULTA Alexandre
+CONSULTA António
+CONSULTA Maria
+CONSULTA Isabel
+CONSULTA Matilde
+CONSULTA Bernardo
+CONSULTA André
+CONSULTA António
+CONSULTA Josefina
+CONSULTA Matilde
+CONSULTA André
+CONSULTA André
+CONSULTA Tomás
+CONSULTA Joana
+CONSULTA Bernardo
+CONSULTA Matilde
+CONSULTA Joana
+CONSULTA António
+CONSULTA Aparicio
+CONSULTA Aparicio
+CONSULTA Adriana
+CONSULTA Carolina
+CONSULTA Tomás
+CONSULTA Marta
+CONSULTA João
+CONSULTA Josefina
+CONSULTA Isabel
+CONSULTA Alexandre
+CONSULTA Tomás
+CONSULTA António
+CONSULTA Josefina
+CONSULTA Madalena
+CONSULTA Carolina
+CONSULTA Carlos
+CONSULTA Carolina
+CONSULTA João
+CONSULTA Adriana
+CONSULTA Henrique
+CONSULTA Joana
+CONSULTA Aparicio
+CONSULTA Marta
+CONSULTA Aparicio
+CONSULTA Madalena
+CONSULTA Joana
+CONSULTA Carlos
+CONSULTA Bernardo
+CONSULTA Bernardo
+CONSULTA Adriana
+CONSULTA Josefina
+CONSULTA Henrique
+CONSULTA Aparicio
+CONSULTA João
+CONSULTA Marta
+CONSULTA Adriana
+CONSULTA Maria
+CONSULTA Maria
+CONSULTA Adriana
+CONSULTA Isabel
+CONSULTA Madalena
+CONSULTA Alexandre
+CONSULTA André
+CONSULTA Aparicio
+CONSULTA António
+CONSULTA Joana
+CONSULTA Isabel
+CONSULTA Aparicio
+CONSULTA Josefina
+CONSULTA Carolina
+CONSULTA Henrique
+CONSULTA Adriana
+CONSULTA Marta
+CONSULTA Henrique
+CONSULTA Josefina
+CONSULTA Carolina
+CONSULTA Josefina
+CONSULTA Tomás
+CONSULTA Aparicio
+CONSULTA António
+CONSULTA Aparicio
+CONSULTA Bernardo
+CONSULTA João
+CONSULTA Matilde
+CONSULTA João
+CONSULTA André
+CONSULTA Alexandre
+CONSULTA Alexandre
+CONSULTA António
+CONSULTA Marta
+CONSULTA João
+CONSULTA António
+CONSULTA Carolina
+CONSULTA Henrique
+CONSULTA Adriana
+CONSULTA Carolina
+CONSULTA Bernardo
+CONSULTA João
+CONSULTA António
+CONSULTA Marta
+CONSULTA Maria
+CONSULTA Simão
+CONSULTA Maria
+CONSULTA Matilde
+CONSULTA Simão
+CONSULTA João
+CONSULTA Aparicio
+CONSULTA Josefina
+CONSULTA Madalena
+CONSULTA André
+CONSULTA Bernardo
+CONSULTA Joana
+CONSULTA Henrique
+CONSULTA Henrique
+CONSULTA António
+CONSULTA Matilde
+CONSULTA Matilde
+CONSULTA Marta
+CONSULTA Marta
+CONSULTA Isabel
+CONSULTA Carlos
+CONSULTA Marta
+CONSULTA João
+CONSULTA Josefina
+CONSULTA Alexandre
+CONSULTA André
+CONSULTA Aparicio
+CONSULTA Joana
+CONSULTA Tomás
+CONSULTA Carlos
+CONSULTA Carolina
+CONSULTA Tomás
+CONSULTA Tomás
+CONSULTA António
+CONSULTA Joana
+CONSULTA Carlos
+CONSULTA Carolina
+CONSULTA Maria
+CONSULTA Joana
+CONSULTA Matilde
+CONSULTA Carlos
+CONSULTA Tomás
+CONSULTA Carolina
+CONSULTA Matilde
+CONSULTA Matilde
+CONSULTA Joana
+CONSULTA Marta
+CONSULTA Maria
+CONSULTA Tomás
+CONSULTA Josefina
+CONSULTA Maria
+CONSULTA Carlos
+CONSULTA Adriana
+CONSULTA Maria
+CONSULTA Isabel
+CONSULTA António
+CONSULTA Alexandre
+CONSULTA João
+CONSULTA Aparicio
+CONSULTA Alexandre
+CONSULTA Tomás
+CONSULTA Isabel
+CONSULTA Joana
+CONSULTA António
+CONSULTA Madalena
+CONSULTA Maria
+CONSULTA Bernardo
+CONSULTA Matilde
+CONSULTA Adriana
+CONSULTA André
+CONSULTA Joana
+CONSULTA João
+CONSULTA Matilde
+CONSULTA Matilde
+CONSULTA Josefina
+CONSULTA Madalena
+CONSULTA Carolina
+CONSULTA André
+CONSULTA Alexandre
+CONSULTA Joana
+CONSULTA António
+CONSULTA Alexandre
+CONSULTA Joana
+CONSULTA Carolina
+CONSULTA Maria
+CONSULTA Aparicio
+CONSULTA Joana
+CONSULTA Josefina
+CONSULTA Carolina
+CONSULTA Matilde
+CONSULTA Aparicio
+CONSULTA João
+CONSULTA Matilde
+CONSULTA Carolina
+CONSULTA Henrique
+CONSULTA Carolina
+CONSULTA Josefina
+CONSULTA Josefina
+CONSULTA João
+CONSULTA Josefina
+CONSULTA Tomás
+CONSULTA Isabel
+CONSULTA Henrique
+CONSULTA Josefina
+CONSULTA André
+CONSULTA Josefina
+CONSULTA André
+CONSULTA Bernardo
+CONSULTA Carolina
+CONSULTA Tomás
+CONSULTA Henrique
+CONSULTA Henrique
+CONSULTA Tomás
+CONSULTA Bernardo
+CONSULTA André
+CONSULTA André
+CONSULTA André
+CONSULTA Matilde
+CONSULTA Simão
+CONSULTA Isabel
+CONSULTA Madalena
+CONSULTA Alexandre
+CONSULTA Bernardo
+CONSULTA Tomás
+CONSULTA Adriana
+CONSULTA Tomás
+CONSULTA António
+CONSULTA Tomás
+CONSULTA Aparicio
+CONSULTA Madalena
+CONSULTA Joana
+CONSULTA Carlos
+CONSULTA Marta
+CONSULTA Matilde
+CONSULTA Joana
+CONSULTA Matilde
+CONSULTA João
+CONSULTA Henrique
+CONSULTA Maria
+CONSULTA Simão
+CONSULTA João
+CONSULTA Carlos
+CONSULTA Tomás
+CONSULTA Isabel
+CONSULTA Simão
+CONSULTA Isabel
+CONSULTA Joana
+CONSULTA Matilde
+CONSULTA Marta
+CONSULTA Madalena
+CONSULTA Alexandre
+CONSULTA Adriana
+CONSULTA Bernardo
+CONSULTA Aparicio
+CONSULTA Carolina
+CONSULTA Simão
+CONSULTA Tomás
+CONSULTA Carolina
+CONSULTA Alexandre
+CONSULTA Aparicio
+CONSULTA Carolina
+CONSULTA João
+CONSULTA Adriana
+CONSULTA Matilde
+CONSULTA Joana
+CONSULTA Maria
+CONSULTA André
+CONSULTA Alexandre
+CONSULTA Carlos
+CONSULTA Marta
+CONSULTA Isabel
+CONSULTA Matilde
+CONSULTA Isabel
+CONSULTA Joana
+CONSULTA Joana
+CONSULTA Henrique
+CONSULTA Maria
+CONSULTA Aparicio
+CONSULTA Joana
+CONSULTA Isabel
+CONSULTA João
+CONSULTA António
+CONSULTA João
+CONSULTA Alexandre
+CONSULTA Isabel
+CONSULTA Matilde
+CONSULTA Aparicio
+CONSULTA António
+CONSULTA André
+CONSULTA Alexandre
+CONSULTA Tomás
+CONSULTA Madalena
+CONSULTA Joana
+CONSULTA António
+CONSULTA Joana
+CONSULTA Aparicio
+CONSULTA Joana
+CONSULTA Adriana
+CONSULTA Adriana
+CONSULTA Marta
+CONSULTA António
+CONSULTA Madalena
+CONSULTA Carlos
+CONSULTA Bernardo
+CONSULTA João
+CONSULTA João
+CONSULTA Alexandre
+CONSULTA Aparicio
+CONSULTA Adriana
+CONSULTA Matilde
+CONSULTA Aparicio
+CONSULTA João
+CONSULTA Tomás
+CONSULTA Adriana
+CONSULTA Carlos
+CONSULTA Madalena
+CONSULTA Adriana
+CONSULTA Bernardo
+CONSULTA Aparicio
+CONSULTA Madalena
+CONSULTA Isabel
+CONSULTA Bernardo
+CONSULTA João
+CONSULTA Henrique
+CONSULTA Joana
+CONSULTA Marta
+CONSULTA António
+CONSULTA António
+CONSULTA André
+CONSULTA João
+CONSULTA João
+CONSULTA Bernardo
+CONSULTA Tomás
+CONSULTA Marta
+CONSULTA André
+CONSULTA Bernardo
+CONSULTA Bernardo
+CONSULTA André
+CONSULTA Bernardo
+CONSULTA Maria
+CONSULTA Simão
+CONSULTA Aparicio
+CONSULTA Isabel
+CONSULTA António
+CONSULTA Josefina
+CONSULTA Simão
+CONSULTA Carolina
+CONSULTA Simão
+CONSULTA Carlos
+CONSULTA António
+CONSULTA Josefina
+CONSULTA Adriana
+CONSULTA Simão
+CONSULTA António
+CONSULTA João
+CONSULTA Tomás
+CONSULTA Carlos
+CONSULTA Tomás
+CONSULTA Carolina
+CONSULTA Alexandre
+CONSULTA André
+CONSULTA Maria
+CONSULTA Joana
+CONSULTA António
+CONSULTA Carlos
+CONSULTA Marta
+CONSULTA Aparicio
+CONSULTA Matilde
+CONSULTA Matilde
+CONSULTA Madalena
+CONSULTA Matilde
+CONSULTA Madalena
+CONSULTA Adriana
+CONSULTA Adriana
+CONSULTA Carolina
+CONSULTA Alexandre
+CONSULTA Alexandre
+CONSULTA André
+CONSULTA Simão
+CONSULTA Joana
+CONSULTA Adriana
+CONSULTA Marta
+CONSULTA Marta
+CONSULTA Adriana
+CONSULTA André
+CONSULTA Isabel
+CONSULTA Carlos
+CONSULTA Aparicio
+CONSULTA Alexandre
+CONSULTA Henrique
+CONSULTA Matilde
+CONSULTA Madalena
+CONSULTA Maria
+CONSULTA Madalena
+CONSULTA Isabel
+CONSULTA Madalena
+CONSULTA Henrique
+CONSULTA André
+CONSULTA Maria
+CONSULTA Carolina
+CONSULTA Marta
+CONSULTA Carolina
+CONSULTA Aparicio
+CONSULTA Madalena
+CONSULTA Tomás
+CONSULTA Aparicio
+CONSULTA Isabel
+CONSULTA Carlos
+CONSULTA António
+CONSULTA Carolina
+CONSULTA Alexandre
+CONSULTA Adriana
+CONSULTA Marta
+CONSULTA Tomás
+CONSULTA Madalena
+CONSULTA Joana
+CONSULTA Adriana
+CONSULTA Josefina
+CONSULTA Carolina
+CONSULTA João
+CONSULTA Tomás
+CONSULTA Josefina
+CONSULTA João
+CONSULTA Joana
+CONSULTA Simão
+CONSULTA Marta
+CONSULTA Henrique
+CONSULTA Aparicio
+CONSULTA João
+CONSULTA Isabel
+CONSULTA Alexandre
+CONSULTA Adriana
+CONSULTA Maria
+CONSULTA Aparicio
+CONSULTA Marta
+CONSULTA Josefina
+CONSULTA Matilde
+CONSULTA Josefina
+CONSULTA Carolina
+CONSULTA Madalena
+CONSULTA Bernardo
+CONSULTA Henrique
+CONSULTA Madalena
+CONSULTA Marta
+CONSULTA Matilde
+CONSULTA Simão
+CONSULTA Carlos
+CONSULTA António
+CONSULTA Josefina
+CONSULTA Aparicio
+CONSULTA André
+CONSULTA Maria
+CONSULTA Josefina
+CONSULTA Henrique
+CONSULTA Bernardo
+CONSULTA André
+CONSULTA Carolina
+CONSULTA Adriana
+CONSULTA Henrique
+CONSULTA João
+CONSULTA Maria
+CONSULTA André
+CONSULTA Madalena
+CONSULTA André
+CONSULTA Isabel
+CONSULTA Bernardo
+CONSULTA Alexandre
+CONSULTA António
+CONSULTA João
+CONSULTA Carolina
+CONSULTA Tomás
+CONSULTA Josefina
+CONSULTA Carolina
+CONSULTA Maria
+CONSULTA Carlos
+CONSULTA Henrique
+CONSULTA Josefina
+CONSULTA Matilde
+CONSULTA Marta
+CONSULTA Bernardo
+CONSULTA Marta
+CONSULTA João
+CONSULTA Carolina
+CONSULTA Aparicio
+CONSULTA Maria
+CONSULTA Bernardo
+CONSULTA Madalena
+CONSULTA Simão
+CONSULTA Tomás
+CONSULTA Maria
+CONSULTA Isabel
+CONSULTA António
+CONSULTA Madalena
+CONSULTA Isabel
+CONSULTA João
+CONSULTA André
+CONSULTA Henrique
+CONSULTA Josefina
+CONSULTA Matilde
+CONSULTA Isabel
+CONSULTA Joana
+CONSULTA Josefina
+CONSULTA Carlos
+CONSULTA Aparicio
+CONSULTA Joana
+CONSULTA Carolina
+CONSULTA Adriana
+CONSULTA Tomás
+CONSULTA André
+CONSULTA João
+CONSULTA Aparicio
+CONSULTA Adriana
+CONSULTA Bernardo
+CONSULTA Carolina
+CONSULTA André
+CONSULTA Maria
+CONSULTA Carolina
+CONSULTA Marta
+CONSULTA João
+CONSULTA António
+CONSULTA Maria
+CONSULTA André
+CONSULTA Carlos
+CONSULTA Aparicio
+CONSULTA Matilde
+CONSULTA Alexandre
+CONSULTA Adriana
+CONSULTA Simão
+CONSULTA Madalena
+CONSULTA Maria
+CONSULTA Henrique
+CONSULTA Matilde
+CONSULTA André
+CONSULTA Alexandre
+CONSULTA Carlos
+CONSULTA Henrique
+CONSULTA Tomás
+CONSULTA António
+CONSULTA Carolina
+CONSULTA Matilde
+CONSULTA Isabel
+CONSULTA Bernardo
+CONSULTA Tomás
+CONSULTA Marta
+CONSULTA Josefina
+CONSULTA João
+CONSULTA Alexandre
+CONSULTA Matilde
+CONSULTA Simão
+CONSULTA Joana
+CONSULTA Carolina
+CONSULTA Joana
+CONSULTA Adriana
+CONSULTA António
+CONSULTA Madalena
+CONSULTA Adriana
+CONSULTA Alexandre
+CONSULTA Aparicio
+CONSULTA Isabel
+CONSULTA André
+CONSULTA João
+CONSULTA Alexandre
+CONSULTA Maria
+CONSULTA Madalena
+CONSULTA Marta
+CONSULTA Adriana
+CONSULTA Simão
+CONSULTA Adriana
+CONSULTA Marta
+CONSULTA Marta
+CONSULTA Bernardo
+CONSULTA Madalena
+CONSULTA Aparicio
+CONSULTA Simão
+CONSULTA Josefina
+CONSULTA André
+CONSULTA Bernardo
+CONSULTA Aparicio
+CONSULTA Matilde
+CONSULTA Aparicio
+CONSULTA João
+CONSULTA Tomás
+CONSULTA Tomás
+CONSULTA Madalena
+CONSULTA Matilde
+CONSULTA Joana
+CONSULTA Josefina
+CONSULTA Bernardo
+CONSULTA Henrique
+CONSULTA Aparicio
+CONSULTA António
+CONSULTA Carlos
+CONSULTA André
+CONSULTA Aparicio
+CONSULTA Tomás
+CONSULTA Madalena
+CONSULTA Maria
+CONSULTA Marta
+CONSULTA Alexandre
+CONSULTA Carlos
+CONSULTA António
+CONSULTA Adriana
+CONSULTA Carolina
+CONSULTA Isabel
+CONSULTA Henrique
+CONSULTA Adriana
+CONSULTA Carolina
+CONSULTA Bernardo
+CONSULTA Aparicio
+CONSULTA Josefina
+CONSULTA Tomás
+CONSULTA Alexandre
+CONSULTA André
+CONSULTA Matilde
+CONSULTA Marta
+CONSULTA Maria
+CONSULTA Henrique
+CONSULTA Bernardo
+CONSULTA Joana
+CONSULTA Aparicio
+CONSULTA Isabel
+CONSULTA Alexandre
+CONSULTA Josefina
+CONSULTA Alexandre
+CONSULTA João
+CONSULTA Madalena
+CONSULTA Isabel
+CONSULTA Madalena
+CONSULTA João
+CONSULTA Maria
+CONSULTA André
+CONSULTA Marta
+CONSULTA Adriana
+CONSULTA Isabel
+CONSULTA João
+CONSULTA Tomás
+CONSULTA Tomás
+CONSULTA Henrique
+CONSULTA Carolina
+CONSULTA António
+CONSULTA André
+CONSULTA André
+CONSULTA Adriana
+CONSULTA Carolina
+CONSULTA António
+CONSULTA Madalena
+CONSULTA Marta
+CONSULTA Adriana
+CONSULTA Maria
+CONSULTA Isabel
+CONSULTA Simão
+CONSULTA Josefina
+CONSULTA Tomás
+CONSULTA Tomás
+CONSULTA Josefina
+CONSULTA André
+CONSULTA Madalena
+CONSULTA Tomás
+CONSULTA Carolina
+CONSULTA André
+CONSULTA Bernardo
+CONSULTA Adriana
+CONSULTA Aparicio
+CONSULTA Josefina
+CONSULTA João
+CONSULTA Madalena
+CONSULTA João
+CONSULTA Joana
+CONSULTA André
+CONSULTA Maria
+CONSULTA Marta
+CONSULTA Simão
+CONSULTA André
+CONSULTA Tomás
+CONSULTA Henrique
+CONSULTA André
+CONSULTA Maria
+CONSULTA Joana
+CONSULTA Carolina
+CONSULTA Matilde
+CONSULTA Joana
+CONSULTA Isabel
+CONSULTA Henrique
+CONSULTA Adriana
+CONSULTA André
+CONSULTA Alexandre
+CONSULTA Tomás
+CONSULTA Joana
+CONSULTA Henrique
+CONSULTA Joana
+CONSULTA Carlos
+CONSULTA João
+CONSULTA André
+CONSULTA Madalena
+CONSULTA Josefina
+CONSULTA Maria
+CONSULTA Bernardo
+CONSULTA Adriana
+CONSULTA Madalena
+CONSULTA Alexandre
+CONSULTA João
+CONSULTA Maria
+CONSULTA Matilde
+CONSULTA Carolina
+CONSULTA Joana
+CONSULTA João
+CONSULTA João
+CONSULTA João
+CONSULTA Carolina
+CONSULTA Carolina
+CONSULTA Carolina
+CONSULTA Isabel
+CONSULTA Tomás
+CONSULTA Matilde
+CONSULTA Henrique
+CONSULTA Isabel
+CONSULTA João
+CONSULTA Henrique
+CONSULTA Josefina
+CONSULTA António
+CONSULTA Adriana
+CONSULTA Henrique
+CONSULTA Carolina
+CONSULTA Adriana
+CONSULTA Maria
+CONSULTA Carlos
+CONSULTA António
+CONSULTA Carolina
+CONSULTA Carolina
+CONSULTA Simão
+CONSULTA Bernardo
+CONSULTA Marta
+CONSULTA Matilde
+CONSULTA Adriana
+CONSULTA Isabel
+CONSULTA Maria
+CONSULTA Carolina
+CONSULTA Marta
+CONSULTA Matilde
+CONSULTA Simão
+CONSULTA Madalena
+CONSULTA Tomás
+CONSULTA Matilde
+CONSULTA Josefina
+CONSULTA Tomás
+CONSULTA Henrique
+CONSULTA Josefina
+CONSULTA Alexandre
+CONSULTA Marta
+CONSULTA João
+CONSULTA Carolina
+CONSULTA Marta
+CONSULTA António
+CONSULTA João
+CONSULTA Josefina
+CONSULTA Tomás
+CONSULTA João
+CONSULTA Carlos
+CONSULTA Maria
+CONSULTA Joana
+CONSULTA Carlos
+CONSULTA Marta
+CONSULTA Simão
+CONSULTA Josefina
+CONSULTA Alexandre
+CONSULTA Tomás
+CONSULTA Bernardo
+CONSULTA Simão
+CONSULTA Bernardo
+CONSULTA Bernardo
+CONSULTA Aparicio
+CONSULTA Carlos
+CONSULTA Josefina
+CONSULTA Madalena
+CONSULTA Isabel
+CONSULTA Josefina
+CONSULTA Matilde
+CONSULTA Adriana
+CONSULTA André
+CONSULTA Joana
+CONSULTA Josefina
+CONSULTA Alexandre
+CONSULTA Carlos
+CONSULTA Carolina
+CONSULTA Joana
+CONSULTA Alexandre
+CONSULTA Isabel
+CONSULTA Carlos
+CONSULTA Carolina
+CONSULTA Carlos
+CONSULTA João
+CONSULTA Simão
+CONSULTA António
+CONSULTA Marta
+CONSULTA Isabel
+CONSULTA Isabel
+CONSULTA Maria
+CONSULTA Carlos
+CONSULTA Tomás
+CONSULTA Henrique
+CONSULTA Carolina
+CONSULTA Alexandre
+CONSULTA Joana
+CONSULTA Madalena
+CONSULTA Matilde
+CONSULTA Maria
+CONSULTA Bernardo
+CONSULTA Madalena
+CONSULTA Aparicio
+CONSULTA Carlos
+CONSULTA Matilde
+CONSULTA Joana
+CONSULTA André
+CONSULTA Marta
+CONSULTA Adriana
+CONSULTA António
+CONSULTA Madalena
+CONSULTA Tomás
+CONSULTA Josefina
+CONSULTA João
+CONSULTA Carlos
+CONSULTA António
+CONSULTA Carolina
+CONSULTA Adriana
+CONSULTA Carlos
+CONSULTA Madalena
+CONSULTA Matilde
+CONSULTA Carolina
+CONSULTA Henrique
+CONSULTA Carolina
+CONSULTA Isabel
+CONSULTA Marta
+CONSULTA Alexandre
+CONSULTA Josefina
+CONSULTA Adriana
+CONSULTA Henrique
+CONSULTA André
+CONSULTA Maria
+CONSULTA Henrique
+CONSULTA Carolina
+CONSULTA Simão
+CONSULTA Bernardo
+CONSULTA Isabel
+CONSULTA Marta
+CONSULTA Henrique
+CONSULTA António
+CONSULTA Tomás
+CONSULTA Josefina
+CONSULTA Bernardo
+CONSULTA João
+CONSULTA Carlos
+CONSULTA Isabel
+CONSULTA António
+CONSULTA Maria
+CONSULTA Joana
+CONSULTA Maria
+CONSULTA Carolina
+CONSULTA Henrique
+CONSULTA Tomás
+CONSULTA Carlos
+CONSULTA João
+CONSULTA Simão
+CONSULTA Joana
+CONSULTA Aparicio
+CONSULTA Alexandre
+CONSULTA Henrique
+CONSULTA Carolina
+CONSULTA Henrique
+CONSULTA Matilde
+CONSULTA Simão
+CONSULTA Carolina
+CONSULTA Henrique
+CONSULTA Joana
+CONSULTA Alexandre
+CONSULTA Marta
+CONSULTA António
+CONSULTA António
+CONSULTA Alexandre
+CONSULTA Adriana
+CONSULTA Matilde
+CONSULTA Joana
+CONSULTA Matilde
+CONSULTA António
+CONSULTA Simão
+CONSULTA Isabel
+CONSULTA João
+CONSULTA Isabel
+CONSULTA Alexandre
+CONSULTA Madalena
+CONSULTA Bernardo
+CONSULTA Adriana
+CONSULTA Simão
+CONSULTA Tomás
+CONSULTA André
+CONSULTA Henrique
+CONSULTA Isabel
+CONSULTA Marta
+CONSULTA Carlos
+CONSULTA Bernardo
+CONSULTA Matilde
+CONSULTA Joana
+CONSULTA António
+CONSULTA João
+CONSULTA Marta
+CONSULTA Simão
+CONSULTA Alexandre
+CONSULTA Simão
+CONSULTA Aparicio
+CONSULTA Carolina
+CONSULTA Bernardo
+CONSULTA Aparicio
+CONSULTA Henrique
+CONSULTA Josefina
+CONSULTA Alexandre
+CONSULTA Simão
+CONSULTA Carlos
+CONSULTA Simão
+CONSULTA Matilde
+CONSULTA Alexandre
+CONSULTA Henrique
+CONSULTA Joana
+CONSULTA Marta
+CONSULTA João
+CONSULTA Matilde
+CONSULTA Adriana
+CONSULTA Henrique
+CONSULTA Bernardo
+CONSULTA Tomás
+CONSULTA João
+CONSULTA Joana
+CONSULTA Simão
+CONSULTA Joana
+CONSULTA Aparicio
+CONSULTA João
+CONSULTA Aparicio
+CONSULTA Marta
+CONSULTA Marta
+CONSULTA António
+CONSULTA André
+CONSULTA Matilde
+CONSULTA Bernardo
+CONSULTA Madalena
+CONSULTA Madalena
+CONSULTA Tomás
+CONSULTA Alexandre
+CONSULTA Aparicio
+CONSULTA Marta
+CONSULTA João
+CONSULTA Joana
+CONSULTA Maria
+CONSULTA Simão
+CONSULTA Adriana
+CONSULTA Isabel
+CONSULTA Aparicio
+CONSULTA Madalena
+CONSULTA Marta
+CONSULTA António
+CONSULTA Simão
+CONSULTA Josefina
+CONSULTA Alexandre
+CONSULTA Alexandre
+CONSULTA Maria
+CONSULTA Bernardo
+CONSULTA Joana
+CONSULTA Madalena
+CONSULTA Carolina
+CONSULTA Carlos
+CONSULTA Carolina
+CONSULTA Matilde
+CONSULTA André
+CONSULTA André
+CONSULTA Carlos
+CONSULTA André
+CONSULTA Henrique
+CONSULTA Simão
+CONSULTA Matilde
+CONSULTA Madalena
+CONSULTA Carlos
+CONSULTA Aparicio
+CONSULTA Maria
+CONSULTA Joana
+CONSULTA António
+CONSULTA Madalena
+CONSULTA Adriana
+CONSULTA André
+CONSULTA Matilde
+CONSULTA Isabel
+CONSULTA Matilde
+CONSULTA António
+CONSULTA Henrique
+CONSULTA Adriana
+CONSULTA Bernardo
+CONSULTA Joana
+CONSULTA Adriana
+CONSULTA Josefina
+CONSULTA Isabel
+CONSULTA Madalena
+CONSULTA Marta
+CONSULTA Carlos
+CONSULTA Maria
+CONSULTA António
+CONSULTA Aparicio
+CONSULTA João
+CONSULTA Aparicio
+CONSULTA Adriana
+CONSULTA André
+CONSULTA Isabel
+CONSULTA André
+CONSULTA Madalena
+CONSULTA Simão
+CONSULTA António
+CONSULTA Carlos
+CONSULTA André
+CONSULTA Madalena
+CONSULTA Aparicio
+CONSULTA Aparicio
+CONSULTA Josefina
+CONSULTA Simão
+CONSULTA Simão
+CONSULTA Henrique
+CONSULTA Bernardo
+CONSULTA Marta
+CONSULTA Simão
+CONSULTA Bernardo
+CONSULTA Joana
+CONSULTA Bernardo
+CONSULTA Henrique
+CONSULTA Tomás
+CONSULTA Carlos
+CONSULTA Adriana
+CONSULTA Tomás
+CONSULTA Simão
+CONSULTA Matilde
+CONSULTA Marta
+CONSULTA Carlos
+CONSULTA Tomás
+CONSULTA Matilde
+CONSULTA Josefina
+CONSULTA Aparicio
+CONSULTA João
+CONSULTA Alexandre
+CONSULTA Tomás
+CONSULTA Carlos
+CONSULTA Henrique
+CONSULTA João
+CONSULTA Matilde
+CONSULTA Isabel
+CONSULTA Aparicio
+CONSULTA Isabel
+CONSULTA Aparicio
+CONSULTA Aparicio
+CONSULTA Josefina
+CONSULTA Madalena
+CONSULTA António
+CONSULTA Maria
+CONSULTA Bernardo
+CONSULTA Joana
+CONSULTA Alexandre
+CONSULTA André
+CONSULTA Tomás
+CONSULTA Simão
+CONSULTA Aparicio
+CONSULTA Marta
+CONSULTA Josefina
+CONSULTA António
+CONSULTA Isabel
+CONSULTA Maria
+CONSULTA Tomás
+CONSULTA Aparicio
+CONSULTA João
+CONSULTA Simão
+CONSULTA Aparicio
+CONSULTA Josefina
+CONSULTA Madalena
+CONSULTA Tomás
+CONSULTA Tomás
+CONSULTA Marta
+CONSULTA Maria
+CONSULTA Adriana
+CONSULTA Henrique
+CONSULTA Henrique
+CONSULTA João
+CONSULTA Carolina
+CONSULTA Adriana
+CONSULTA Tomás
+CONSULTA Bernardo
+CONSULTA Tomás
+CONSULTA Carolina
+CONSULTA Marta
+CONSULTA Maria
+CONSULTA Simão
+CONSULTA Simão
+CONSULTA Henrique
+CONSULTA Bernardo
+CONSULTA André
+CONSULTA Alexandre
+CONSULTA Tomás
+CONSULTA Maria
+CONSULTA Joana
+CONSULTA Simão
+CONSULTA Henrique
+CONSULTA Madalena
+CONSULTA Simão
+CONSULTA Tomás
+CONSULTA João
+CONSULTA Bernardo
+CONSULTA João
+CONSULTA Bernardo
+CONSULTA Matilde
+CONSULTA Joana
+CONSULTA Josefina
+CONSULTA Bernardo
+CONSULTA António
+CONSULTA Simão
+CONSULTA Aparicio
+CONSULTA Aparicio
+CONSULTA Madalena
+CONSULTA Simão
+CONSULTA André
+CONSULTA Alexandre
+CONSULTA Simão
+CONSULTA Carolina
+CONSULTA Madalena
+CONSULTA Isabel
+CONSULTA Tomás
+CONSULTA Bernardo
+CONSULTA Aparicio
+CONSULTA Matilde
+CONSULTA Carlos
+CONSULTA João
+CONSULTA Alexandre
+CONSULTA Joana
+CONSULTA Bernardo
+CONSULTA Alexandre
+CONSULTA Maria
+CONSULTA Maria
+CONSULTA António
+CONSULTA Joana
+CONSULTA João
+CONSULTA Maria
+CONSULTA Bernardo
+CONSULTA Marta
+CONSULTA Tomás
+CONSULTA António
+CONSULTA Carlos
+CONSULTA Adriana
+CONSULTA Henrique
+CONSULTA António
+CONSULTA António
+CONSULTA Tomás
+CONSULTA Bernardo
+CONSULTA Adriana
+CONSULTA António
+CONSULTA Simão
+CONSULTA Madalena
+CONSULTA Joana
+CONSULTA Maria
+CONSULTA Adriana
+CONSULTA Madalena
+CONSULTA Carlos
+CONSULTA Maria
+CONSULTA Alexandre
+CONSULTA Henrique
+CONSULTA Aparicio
+CONSULTA Henrique
+CONSULTA Adriana
+CONSULTA Aparicio
+CONSULTA Marta
+CONSULTA Matilde
+CONSULTA Joana
+CONSULTA Carolina
+CONSULTA Isabel
+CONSULTA Aparicio
+CONSULTA Aparicio
+CONSULTA Henrique
+CONSULTA Marta
+CONSULTA Marta
+CONSULTA Henrique
+CONSULTA Bernardo
+CONSULTA Josefina
+CONSULTA Josefina
+CONSULTA Josefina
+CONSULTA Bernardo
+CONSULTA Aparicio
+CONSULTA João
+CONSULTA João
+CONSULTA Joana
+CONSULTA Madalena
+CONSULTA Carolina
+CONSULTA Josefina
+CONSULTA Adriana
+CONSULTA Tomás
+CONSULTA Isabel
+CONSULTA Simão
+CONSULTA Matilde
+CONSULTA Madalena
+CONSULTA Simão
+CONSULTA Isabel
+CONSULTA Adriana
+CONSULTA Bernardo
+CONSULTA Madalena
+CONSULTA Alexandre
+CONSULTA Maria
+CONSULTA Carolina
+CONSULTA Isabel
+CONSULTA Matilde
+CONSULTA André
+CONSULTA António
+CONSULTA Maria
+CONSULTA Simão
+CONSULTA Carlos
+CONSULTA Simão
+CONSULTA Bernardo
+CONSULTA Simão
+CONSULTA Maria
+CONSULTA Josefina
+CONSULTA Henrique
+CONSULTA Carolina
+CONSULTA Isabel
+CONSULTA Isabel
+CONSULTA Carolina
+CONSULTA Simão
+CONSULTA Maria
+CONSULTA André
+CONSULTA António
+CONSULTA João
+CONSULTA Alexandre
+CONSULTA Tomás
+CONSULTA Alexandre
+CONSULTA António
+CONSULTA António
+CONSULTA João
+CONSULTA André
+CONSULTA Madalena
+CONSULTA Joana
+CONSULTA Adriana
+CONSULTA Simão
+CONSULTA João
+CONSULTA Maria
+CONSULTA Carlos
+CONSULTA Aparicio
+CONSULTA Marta
+CONSULTA Marta
+CONSULTA Simão
+CONSULTA António
+CONSULTA Matilde
+CONSULTA Carlos
+CONSULTA Josefina
+CONSULTA João
+CONSULTA Marta
+CONSULTA Carolina
+CONSULTA Isabel
+CONSULTA Simão
+CONSULTA Marta
+CONSULTA Maria
+CONSULTA Bernardo
+CONSULTA Josefina
+CONSULTA Bernardo
+CONSULTA João
+CONSULTA Carolina
+CONSULTA Maria
+CONSULTA André
+CONSULTA Matilde
+CONSULTA Josefina
+CONSULTA Bernardo
+CONSULTA Alexandre
+CONSULTA Simão
+CONSULTA Maria
+CONSULTA Joana
+CONSULTA Tomás
+CONSULTA Joana
+CONSULTA André
+CONSULTA Josefina
+CONSULTA Bernardo
+CONSULTA Maria
+CONSULTA Madalena
+CONSULTA Bernardo
+CONSULTA Maria
+CONSULTA Isabel
+CONSULTA Maria
+CONSULTA João
+CONSULTA Joana
+CONSULTA Josefina
+CONSULTA Adriana
+CONSULTA Matilde
+CONSULTA André
+CONSULTA Carolina
+CONSULTA Henrique
+CONSULTA Aparicio
+CONSULTA Alexandre
+CONSULTA Tomás
+CONSULTA Joana
+CONSULTA Madalena
+CONSULTA Tomás
+CONSULTA Adriana
+CONSULTA Adriana
+CONSULTA João
+CONSULTA Marta
+CONSULTA Joana
+CONSULTA Matilde
+CONSULTA Bernardo
+CONSULTA António
+CONSULTA Tomás
+CONSULTA Henrique
+CONSULTA Henrique
+CONSULTA Joana
+CONSULTA Isabel
+CONSULTA Henrique
+CONSULTA Maria
+CONSULTA Alexandre
+CONSULTA Madalena
+CONSULTA João
+CONSULTA Simão
+CONSULTA Adriana
+CONSULTA Madalena
+CONSULTA Henrique
+CONSULTA Alexandre
+CONSULTA Tomás
+CONSULTA Maria
+CONSULTA Henrique
+CONSULTA Tomás
+CONSULTA Matilde
+CONSULTA Alexandre
+CONSULTA Bernardo
+CONSULTA Marta
+CONSULTA Alexandre
+CONSULTA Carolina
+CONSULTA António
+CONSULTA Alexandre
+CONSULTA Henrique
+CONSULTA Marta
+CONSULTA António
+CONSULTA Marta
+CONSULTA Madalena
+CONSULTA Maria
+CONSULTA Henrique
+CONSULTA Isabel
+CONSULTA Henrique
+CONSULTA João
+CONSULTA João
+CONSULTA Alexandre
+CONSULTA André
+CONSULTA André
+CONSULTA Henrique
+CONSULTA Marta
+CONSULTA Tomás
+CONSULTA Josefina
+CONSULTA Bernardo
+CONSULTA Carolina
+CONSULTA Joana
+CONSULTA Isabel
+CONSULTA Tomás
+CONSULTA Isabel
+CONSULTA Marta
+CONSULTA Matilde
+CONSULTA Carolina
+CONSULTA Alexandre
+CONSULTA Madalena
+CONSULTA Madalena
+CONSULTA Tomás
+CONSULTA Carlos
+CONSULTA Maria
+CONSULTA António
+CONSULTA Carolina
+CONSULTA Tomás
+CONSULTA Alexandre
+CONSULTA Joana
+CONSULTA António
+CONSULTA Madalena
+CONSULTA André
+CONSULTA Henrique
+CONSULTA Bernardo
+CONSULTA Simão
+CONSULTA Aparicio
+CONSULTA Henrique
+CONSULTA Tomás
+CONSULTA Joana
+CONSULTA André
+CONSULTA Adriana
+CONSULTA André
+CONSULTA António
+CONSULTA Isabel
+CONSULTA Alexandre
+CONSULTA Madalena
+CONSULTA Marta
+CONSULTA Matilde
+CONSULTA Carolina
+CONSULTA Carlos
+CONSULTA Josefina
+CONSULTA Josefina
+CONSULTA Aparicio
+CONSULTA Alexandre
+CONSULTA Carolina
+CONSULTA Madalena
+CONSULTA Josefina
+CONSULTA Isabel
+CONSULTA Alexandre
+CONSULTA Josefina
+CONSULTA Aparicio
+CONSULTA Madalena
+CONSULTA Isabel
+CONSULTA Aparicio
+CONSULTA Alexandre
+CONSULTA André
+CONSULTA Bernardo
+CONSULTA Carlos
+CONSULTA Joana
+CONSULTA Tomás
+CONSULTA Bernardo
+CONSULTA Adriana
+CONSULTA Simão
+CONSULTA Josefina
+CONSULTA Joana
+CONSULTA Carolina
+CONSULTA Matilde
+CONSULTA Josefina
+CONSULTA Bernardo
+CONSULTA Josefina
+CONSULTA António
+CONSULTA Adriana
+CONSULTA Henrique
+CONSULTA Henrique
+CONSULTA António
+CONSULTA Aparicio
+CONSULTA Maria
+CONSULTA Maria
+CONSULTA António
+CONSULTA João
+CONSULTA Alexandre
+CONSULTA Simão
+CONSULTA Adriana
+CONSULTA Henrique
+CONSULTA João
+CONSULTA Carolina
+CONSULTA Josefina
+CONSULTA Joana
+CONSULTA Joana
+CONSULTA Alexandre
+CONSULTA Henrique
+CONSULTA Tomás
+CONSULTA João
+CONSULTA Adriana
+CONSULTA Josefina
+CONSULTA Matilde
+CONSULTA Matilde
+CONSULTA Alexandre
+CONSULTA Aparicio
+CONSULTA Carolina
+CONSULTA Aparicio
+CONSULTA André
+CONSULTA Simão
+CONSULTA André
+CONSULTA Alexandre
+CONSULTA João
+CONSULTA Alexandre
+CONSULTA Josefina
+CONSULTA João
+CONSULTA Isabel
+CONSULTA Tomás
+CONSULTA Bernardo
+CONSULTA Carolina
+CONSULTA Alexandre
+CONSULTA Madalena
+CONSULTA Joana
+CONSULTA Adriana
+CONSULTA Madalena
+CONSULTA Isabel
+CONSULTA Tomás
+CONSULTA Maria
+CONSULTA Matilde
+CONSULTA Marta
+CONSULTA Tomás
+CONSULTA Madalena
+CONSULTA Isabel
+CONSULTA Aparicio
+CONSULTA Joana
+CONSULTA Henrique
+CONSULTA Josefina
+CONSULTA Henrique
+CONSULTA Simão
+CONSULTA Matilde
+CONSULTA Carlos
+CONSULTA Madalena
+CONSULTA Marta
+CONSULTA Alexandre
+CONSULTA Aparicio
+CONSULTA Matilde
+CONSULTA André
+CONSULTA Aparicio
+CONSULTA Bernardo
+CONSULTA João
+CONSULTA Matilde
+CONSULTA Maria
+CONSULTA Joana
+CONSULTA Isabel
+CONSULTA Josefina
+CONSULTA Henrique
+CONSULTA Joana
+CONSULTA Josefina
+CONSULTA Maria
+CONSULTA André
+CONSULTA Alexandre
+CONSULTA António
+CONSULTA Adriana
+CONSULTA António
+CONSULTA Tomás
+CONSULTA Bernardo
+CONSULTA Simão
+CONSULTA Simão
+CONSULTA Marta
+CONSULTA João
+CONSULTA Bernardo
+CONSULTA Adriana
+CONSULTA André
+CONSULTA Bernardo
+CONSULTA Joana
+CONSULTA Adriana
+CONSULTA Adriana
+CONSULTA Henrique
+CONSULTA Bernardo
+CONSULTA João
+CONSULTA Marta
+CONSULTA João
+CONSULTA Madalena
+CONSULTA Josefina
+CONSULTA Henrique
+CONSULTA Bernardo
+CONSULTA Carlos
+CONSULTA Joana
+CONSULTA Maria
+CONSULTA João
+CONSULTA Maria
+CONSULTA Madalena
+CONSULTA Josefina
+CONSULTA Adriana
+CONSULTA Maria
+CONSULTA Joana
+CONSULTA Tomás
+CONSULTA Isabel
+CONSULTA Carlos
+CONSULTA António
+CONSULTA Joana
+CONSULTA Aparicio
+CONSULTA Josefina
+CONSULTA Tomás
+CONSULTA João
+CONSULTA João
+CONSULTA Tomás
+CONSULTA Matilde
+CONSULTA Simão
+CONSULTA Carlos
+CONSULTA Alexandre
+CONSULTA Bernardo
+CONSULTA Tomás
+CONSULTA Joana
+CONSULTA Joana
+CONSULTA Aparicio
+CONSULTA Josefina
+CONSULTA Alexandre
+CONSULTA Isabel
+CONSULTA Maria
+CONSULTA Madalena
+CONSULTA Josefina
+CONSULTA Adriana
+CONSULTA Matilde
+CONSULTA Aparicio
+CONSULTA Simão
+CONSULTA Alexandre
+CONSULTA António
+CONSULTA Bernardo
+CONSULTA Carolina
+CONSULTA Tomás
+CONSULTA Madalena
+CONSULTA Carolina
+CONSULTA João
+CONSULTA Bernardo
+CONSULTA Tomás
+CONSULTA Bernardo
+CONSULTA Matilde
+CONSULTA Marta
+CONSULTA Alexandre
+CONSULTA Alexandre
+CONSULTA Alexandre
+CONSULTA Aparicio
+CONSULTA Adriana
+CONSULTA Bernardo
+CONSULTA Madalena
+CONSULTA Simão
+CONSULTA Matilde
+CONSULTA Marta
+CONSULTA Aparicio
+CONSULTA Isabel
+CONSULTA Carlos
+CONSULTA Carlos
+CONSULTA Marta
+CONSULTA Joana
+CONSULTA Madalena
+CONSULTA Madalena
+CONSULTA João
+CONSULTA Josefina
+CONSULTA Carlos
+CONSULTA Tomás
+CONSULTA Matilde
+CONSULTA Josefina
+CONSULTA João
+CONSULTA Joana
+CONSULTA Simão
+CONSULTA Joana
+CONSULTA Simão
+CONSULTA Joana
+CONSULTA Tomás
+CONSULTA Bernardo
+CONSULTA Madalena
+CONSULTA Alexandre
+CONSULTA Carolina
+CONSULTA Adriana
+CONSULTA Simão
+CONSULTA Matilde
+CONSULTA Aparicio
+CONSULTA Joana
+CONSULTA António
+CONSULTA Henrique
+CONSULTA Bernardo
+CONSULTA Tomás
+CONSULTA Madalena
+CONSULTA Carlos
+CONSULTA Aparicio
+CONSULTA André
+CONSULTA Carolina
+CONSULTA Isabel
+CONSULTA Joana
+CONSULTA Henrique
+CONSULTA Henrique
+CONSULTA Marta
+CONSULTA João
+CONSULTA André
+CONSULTA Aparicio
+CONSULTA Matilde
+CONSULTA Aparicio
+CONSULTA Alexandre
+CONSULTA Carolina
+CONSULTA Maria
+CONSULTA Madalena
+CONSULTA Carolina
+CONSULTA Isabel
+CONSULTA António
+CONSULTA Alexandre
+CONSULTA Bernardo
+CONSULTA Maria
+CONSULTA Isabel
+CONSULTA Madalena
+CONSULTA Simão
+CONSULTA João
+CONSULTA Tomás
+CONSULTA Adriana
+CONSULTA Josefina
+CONSULTA Aparicio
+CONSULTA Carlos
+CONSULTA Adriana
+CONSULTA Isabel
+CONSULTA Henrique
+CONSULTA Alexandre
+CONSULTA Matilde
+CONSULTA Matilde
+CONSULTA Simão
+CONSULTA Tomás
+CONSULTA Isabel
+CONSULTA Carolina
+CONSULTA Alexandre
+CONSULTA Carlos
+CONSULTA Bernardo
+CONSULTA Simão
+CONSULTA Simão
+CONSULTA Simão
+CONSULTA Henrique
+CONSULTA Simão
+CONSULTA Carolina
+CONSULTA Josefina
+CONSULTA Maria
+CONSULTA António
+CONSULTA Joana
+CONSULTA Aparicio
+CONSULTA Adriana
+CONSULTA Madalena
+CONSULTA Matilde
+CONSULTA Carlos
+CONSULTA Carlos
+CONSULTA Josefina
+CONSULTA Joana
+CONSULTA Simão
+CONSULTA Matilde
+CONSULTA Alexandre
+CONSULTA António
+CONSULTA Maria
+CONSULTA Isabel
+CONSULTA Joana
+CONSULTA André
+CONSULTA João
+CONSULTA Tomás
+CONSULTA Carlos
+CONSULTA Tomás
+CONSULTA Maria
+CONSULTA Adriana
+CONSULTA André
+CONSULTA António
+CONSULTA Henrique
+CONSULTA Isabel
+CONSULTA Isabel
+CONSULTA Simão
+CONSULTA Marta
+CONSULTA Aparicio
+CONSULTA Bernardo
+CONSULTA Carlos
+CONSULTA Carolina
+CONSULTA Carlos
+CONSULTA Henrique
+CONSULTA Henrique
+CONSULTA Tomás
+CONSULTA Bernardo
+CONSULTA Tomás
+CONSULTA Henrique
+CONSULTA João
+CONSULTA Marta
+CONSULTA Carlos
+CONSULTA André
+CONSULTA Isabel
+CONSULTA Isabel
+CONSULTA João
+CONSULTA Simão
+CONSULTA António
+CONSULTA Joana
+CONSULTA André
+CONSULTA Tomás
+CONSULTA António
+CONSULTA Bernardo
+CONSULTA Isabel
+CONSULTA Carolina
+CONSULTA Simão
+CONSULTA João
+CONSULTA Marta
+CONSULTA Simão
+CONSULTA Simão
+CONSULTA Josefina
+CONSULTA Maria
+CONSULTA Bernardo
+CONSULTA António
+CONSULTA Aparicio
+CONSULTA Henrique
+CONSULTA Madalena
+CONSULTA André
+CONSULTA Carlos
+CONSULTA Aparicio
+CONSULTA Simão
+CONSULTA Henrique
+CONSULTA Maria
+CONSULTA António
+CONSULTA Maria
+CONSULTA Simão
+CONSULTA Alexandre
+CONSULTA Matilde
+CONSULTA Carolina
+CONSULTA Alexandre
+CONSULTA André
+CONSULTA Marta
+CONSULTA André
+CONSULTA Henrique
+CONSULTA Maria
+CONSULTA Henrique
+CONSULTA Alexandre
+CONSULTA Aparicio
+CONSULTA Tomás
+CONSULTA Madalena
+CONSULTA Isabel
+CONSULTA Madalena
+CONSULTA António
+CONSULTA Marta
+CONSULTA Maria
+CONSULTA Joana
+CONSULTA Isabel
+CONSULTA Alexandre
+CONSULTA Isabel
+CONSULTA Bernardo
+CONSULTA Carolina
+CONSULTA Matilde
+CONSULTA Josefina
+CONSULTA Tomás
+CONSULTA André
+CONSULTA André
+CONSULTA Adriana
+CONSULTA Maria
+CONSULTA Carolina
+CONSULTA Isabel
+CONSULTA Simão
+CONSULTA Josefina
+CONSULTA António
+CONSULTA António
+CONSULTA Josefina
+CONSULTA António
+CONSULTA André
+CONSULTA Josefina
+CONSULTA Tomás
+CONSULTA Josefina
+CONSULTA Carlos
+CONSULTA Henrique
+CONSULTA Aparicio
+CONSULTA Simão
+CONSULTA Matilde
+CONSULTA António
+CONSULTA Josefina
+CONSULTA Henrique
+CONSULTA Maria
+CONSULTA Josefina
+CONSULTA Josefina
+CONSULTA Aparicio
+CONSULTA André
+CONSULTA Isabel
+CONSULTA Adriana
+CONSULTA Alexandre
+CONSULTA Carolina
+CONSULTA Maria
+CONSULTA Simão
+CONSULTA André
+CONSULTA Josefina
+CONSULTA António
+CONSULTA Bernardo
+CONSULTA Bernardo
+CONSULTA Marta
+CONSULTA João
+CONSULTA Joana
+CONSULTA Simão
+CONSULTA Josefina
+CONSULTA André
+CONSULTA Matilde
+CONSULTA António
+CONSULTA Marta
+CONSULTA Tomás
+CONSULTA Henrique
+CONSULTA Madalena
+CONSULTA João
+CONSULTA Isabel
+CONSULTA Madalena
+CONSULTA André
+CONSULTA Joana
+CONSULTA Joana
+CONSULTA Simão
+CONSULTA João
+CONSULTA João
+CONSULTA Tomás
+CONSULTA Carlos
+CONSULTA Madalena
+CONSULTA Simão
+CONSULTA Tomás
+CONSULTA António
+CONSULTA Alexandre
+CONSULTA Isabel
+CONSULTA André
+CONSULTA Adriana
+CONSULTA Joana
+CONSULTA Madalena
+CONSULTA Madalena
+CONSULTA Carolina
+CONSULTA Isabel
+CONSULTA Bernardo
+CONSULTA Maria
+CONSULTA Carolina
+CONSULTA Simão
+CONSULTA Aparicio
+CONSULTA João
+CONSULTA Isabel
+CONSULTA Simão
+CONSULTA António
+CONSULTA Marta
+CONSULTA Alexandre
+CONSULTA Alexandre
+CONSULTA Simão
+CONSULTA Bernardo
+CONSULTA Isabel
+CONSULTA Carlos
+CONSULTA Madalena
+CONSULTA Joana
+CONSULTA Marta
+CONSULTA Henrique
+CONSULTA Matilde
+CONSULTA António
+CONSULTA Joana
+CONSULTA André
+CONSULTA André
+CONSULTA Matilde
+CONSULTA Bernardo
+CONSULTA Henrique
+CONSULTA Alexandre
+CONSULTA Aparicio
+CONSULTA Madalena
+CONSULTA Aparicio
+CONSULTA António
+CONSULTA André
+CONSULTA João
+CONSULTA Tomás
+CONSULTA André
+CONSULTA Madalena
+CONSULTA Joana
+CONSULTA André
+CONSULTA Matilde
+CONSULTA Marta
+CONSULTA João
+CONSULTA Tomás
+CONSULTA Alexandre
+CONSULTA António
+CONSULTA João
+CONSULTA Tomás
+CONSULTA Joana
+CONSULTA André
+CONSULTA Carlos
+CONSULTA Joana
+CONSULTA Joana
+CONSULTA André
+CONSULTA Alexandre
+CONSULTA Alexandre
+CONSULTA Carlos
+CONSULTA Matilde
+CONSULTA Carolina
+CONSULTA Henrique
+CONSULTA Madalena
+CONSULTA Adriana
+CONSULTA Adriana
+CONSULTA Joana
+CONSULTA Simão
+CONSULTA Joana
+CONSULTA Adriana
+CONSULTA Maria
+CONSULTA Bernardo
+CONSULTA Bernardo
+CONSULTA Carolina
+CONSULTA Isabel
+CONSULTA Josefina
+CONSULTA Maria
+CONSULTA Madalena
+CONSULTA Josefina
+CONSULTA Joana
+CONSULTA Bernardo
+CONSULTA Simão
+CONSULTA André
+CONSULTA Isabel
+CONSULTA João
+CONSULTA Carolina
+CONSULTA Isabel
+CONSULTA Matilde
+CONSULTA Bernardo
+CONSULTA Tomás
+CONSULTA Bernardo
+CONSULTA Maria
+CONSULTA André
+CONSULTA André
+CONSULTA João
+CONSULTA Tomás
+CONSULTA Adriana
+CONSULTA Bernardo
+CONSULTA Joana
+CONSULTA João
+CONSULTA Madalena
+CONSULTA António
+CONSULTA Carlos
+CONSULTA André
+CONSULTA Matilde
+CONSULTA António
+CONSULTA André
+CONSULTA João
+CONSULTA Matilde
+CONSULTA Isabel
+CONSULTA Alexandre
+CONSULTA Carlos
+CONSULTA Aparicio
+CONSULTA Madalena
+CONSULTA Carolina
+CONSULTA Alexandre
+CONSULTA Josefina
+CONSULTA João
+CONSULTA Madalena
+CONSULTA Josefina
+CONSULTA Marta
+CONSULTA Aparicio
+CONSULTA Alexandre
+CONSULTA Carlos
+CONSULTA Bernardo
+CONSULTA Joana
+CONSULTA Carolina
+CONSULTA António
+CONSULTA Marta
+CONSULTA Isabel
+CONSULTA Isabel
+CONSULTA André
+CONSULTA Simão
+CONSULTA Simão
+CONSULTA Carolina
+CONSULTA Henrique
+CONSULTA Aparicio
+CONSULTA Maria
+CONSULTA Madalena
+CONSULTA Joana
+CONSULTA André
+CONSULTA Josefina
+CONSULTA André
+CONSULTA Tomás
+CONSULTA Henrique
+CONSULTA Marta
+CONSULTA André
+CONSULTA Isabel
+CONSULTA André
+CONSULTA Simão
+CONSULTA Bernardo
+CONSULTA Carlos
+CONSULTA Henrique
+CONSULTA Matilde
+CONSULTA Aparicio
+CONSULTA Madalena
+CONSULTA Joana
+CONSULTA Maria
+CONSULTA Henrique
+CONSULTA António
+CONSULTA Carolina
+CONSULTA André
+CONSULTA André
+CONSULTA Aparicio
+CONSULTA João
+CONSULTA Bernardo
+CONSULTA Maria
+CONSULTA João
+CONSULTA Adriana
+CONSULTA Josefina
+CONSULTA Joana
+CONSULTA Henrique
+CONSULTA Adriana
+CONSULTA Alexandre
+CONSULTA Carolina
+CONSULTA Isabel
+CONSULTA Carolina
+CONSULTA Carolina
+CONSULTA Carolina
+CONSULTA Josefina
+CONSULTA Josefina
+CONSULTA André
+CONSULTA João
+CONSULTA Adriana
+CONSULTA Bernardo
+CONSULTA Isabel
+CONSULTA Adriana
+CONSULTA Henrique
+CONSULTA Maria
+CONSULTA Isabel
+CONSULTA Bernardo
+CONSULTA Adriana
+CONSULTA Maria
+CONSULTA Tomás
+CONSULTA André
+CONSULTA Simão
+CONSULTA Madalena
+CONSULTA Isabel
+CONSULTA Josefina
+CONSULTA Madalena
+CONSULTA Carlos
+CONSULTA Henrique
+CONSULTA António
+CONSULTA Marta
+CONSULTA Henrique
+CONSULTA Isabel
+CONSULTA Maria
+CONSULTA Josefina
+CONSULTA Aparicio
+CONSULTA Madalena
+CONSULTA Carlos
+CONSULTA António
+CONSULTA Alexandre
+CONSULTA Joana
+CONSULTA Isabel
+CONSULTA Maria
+CONSULTA André
+CONSULTA Tomás
+CONSULTA Madalena
+CONSULTA Marta
+CONSULTA Adriana
+CONSULTA Simão
+CONSULTA Henrique
+CONSULTA Alexandre
+CONSULTA Marta
+CONSULTA Adriana
+CONSULTA Matilde
+CONSULTA Joana
+CONSULTA Joana
+CONSULTA Simão
+CONSULTA Adriana
+CONSULTA Simão
+CONSULTA Bernardo
+CONSULTA André
+CONSULTA Bernardo
+CONSULTA Simão
+CONSULTA João
+CONSULTA Tomás
+CONSULTA Josefina
+CONSULTA Alexandre
+CONSULTA Alexandre
+CONSULTA Tomás
+CONSULTA Carolina
+CONSULTA Madalena
+CONSULTA Matilde
+CONSULTA Madalena
+CONSULTA Matilde
+CONSULTA Maria
+CONSULTA Henrique
+CONSULTA Simão
+CONSULTA João
+CONSULTA Alexandre
+CONSULTA Isabel
+CONSULTA Isabel
+CONSULTA Simão
+CONSULTA Matilde
+CONSULTA Joana
+CONSULTA António
+CONSULTA Carolina
+CONSULTA Maria
+CONSULTA Madalena
+CONSULTA Isabel
+CONSULTA Tomás
+CONSULTA Simão
+CONSULTA Tomás
+CONSULTA Josefina
+CONSULTA Carolina
+CONSULTA Madalena
+CONSULTA Adriana
+CONSULTA Bernardo
+CONSULTA Matilde
+CONSULTA Simão
+CONSULTA Henrique
+CONSULTA Carlos
+CONSULTA Aparicio
+CONSULTA João
+CONSULTA Aparicio
+CONSULTA Josefina
+CONSULTA Alexandre
+CONSULTA Carolina
+CONSULTA Bernardo
+CONSULTA Joana
+CONSULTA Adriana
+CONSULTA Madalena
+CONSULTA Isabel
+CONSULTA Tomás
+CONSULTA Carolina
+CONSULTA Bernardo
+CONSULTA Isabel
+CONSULTA Tomás
+CONSULTA Aparicio
+CONSULTA Simão
+CONSULTA Adriana
+CONSULTA Madalena
+CONSULTA Alexandre
+CONSULTA Adriana
+CONSULTA Tomás
+CONSULTA João
+CONSULTA João
+CONSULTA Adriana
+CONSULTA Carolina
+CONSULTA João
+CONSULTA Isabel
+CONSULTA Joana
+CONSULTA Tomás
+CONSULTA Isabel
+CONSULTA André
+CONSULTA João
+CONSULTA Aparicio
+CONSULTA Henrique
+CONSULTA Adriana
+CONSULTA Isabel
+CONSULTA Marta
+CONSULTA António
+CONSULTA Maria
+CONSULTA Aparicio
+CONSULTA Josefina
+CONSULTA Joana
+CONSULTA Joana
+CONSULTA João
+CONSULTA Adriana
+CONSULTA Madalena
+CONSULTA Bernardo
+CONSULTA Adriana
+CONSULTA Carolina
+CONSULTA Adriana
+CONSULTA André
+CONSULTA Aparicio
+CONSULTA Bernardo
+CONSULTA Isabel
+CONSULTA Maria
+CONSULTA Carolina
+CONSULTA Carolina
+CONSULTA João
+CONSULTA Joana
+CONSULTA Marta
+CONSULTA Josefina
+CONSULTA Simão
+CONSULTA Madalena
+CONSULTA Marta
+CONSULTA Madalena
+CONSULTA Joana
+CONSULTA Aparicio
+CONSULTA Marta
+CONSULTA Joana
+CONSULTA João
+CONSULTA Bernardo
+CONSULTA Isabel
+CONSULTA Aparicio
+CONSULTA Marta
+CONSULTA Maria
+CONSULTA António
+CONSULTA Marta
+CONSULTA Henrique
+CONSULTA Adriana
+CONSULTA Carolina
+CONSULTA Alexandre
+CONSULTA Joana
+CONSULTA André
+CONSULTA Carolina
+CONSULTA Josefina
+CONSULTA Bernardo
+CONSULTA Marta
+CONSULTA Simão
+CONSULTA Alexandre
+CONSULTA Adriana
+CONSULTA Matilde
+CONSULTA Madalena
+CONSULTA Aparicio
+CONSULTA Isabel
+CONSULTA Joana
+CONSULTA Henrique
+CONSULTA André
+CONSULTA Henrique
+CONSULTA Carolina
+CONSULTA Carolina
+CONSULTA Bernardo
+CONSULTA Tomás
+CONSULTA Madalena
+CONSULTA Alexandre
+CONSULTA Matilde
+CONSULTA Madalena
+CONSULTA Adriana
+CONSULTA Josefina
+CONSULTA Marta
+CONSULTA António
+CONSULTA Simão
+CONSULTA António
+CONSULTA Simão
+CONSULTA Carolina
+CONSULTA Bernardo
+CONSULTA Joana
+CONSULTA Simão
+CONSULTA João
+CONSULTA Joana
+CONSULTA Maria
+CONSULTA Adriana
+CONSULTA João
+CONSULTA Marta
+CONSULTA Carlos
+CONSULTA Simão
+CONSULTA António
+CONSULTA António
+CONSULTA Carolina
+CONSULTA Tomás
+CONSULTA Simão
+CONSULTA Simão
+CONSULTA Madalena
+CONSULTA João
+CONSULTA André
+CONSULTA Aparicio
+CONSULTA Tomás
+CONSULTA Carlos
+CONSULTA Alexandre
+CONSULTA Aparicio
+CONSULTA António
+CONSULTA António
+CONSULTA André
+CONSULTA Carolina
+CONSULTA Carlos
+CONSULTA Aparicio
+CONSULTA Madalena
+CONSULTA Simão
+CONSULTA Simão
+CONSULTA Isabel
+CONSULTA Matilde
+CONSULTA Henrique
+CONSULTA André
+CONSULTA Adriana
+CONSULTA António
+CONSULTA Henrique
+CONSULTA João
+CONSULTA Carlos
+CONSULTA Bernardo
+CONSULTA André
+CONSULTA Josefina
+CONSULTA Carolina
+CONSULTA Adriana
+CONSULTA Tomás
+CONSULTA Carlos
+CONSULTA Madalena
+CONSULTA Maria
+CONSULTA Madalena
+CONSULTA Tomás
+CONSULTA Joana
+CONSULTA Maria
+CONSULTA Joana
+CONSULTA Tomás
+CONSULTA Adriana
+CONSULTA Adriana
+CONSULTA Aparicio
+CONSULTA Carlos
+CONSULTA Carolina
+CONSULTA Joana
+CONSULTA António
+CONSULTA Henrique
+CONSULTA Josefina
+CONSULTA André
+CONSULTA Bernardo
+CONSULTA Madalena
+CONSULTA Carlos
+CONSULTA Maria
+CONSULTA Carolina
+CONSULTA Carolina
+CONSULTA Madalena
+CONSULTA Matilde
+CONSULTA Henrique
+CONSULTA Tomás
+CONSULTA Tomás
+CONSULTA João
+CONSULTA Madalena
+CONSULTA Matilde
+CONSULTA Madalena
+CONSULTA Aparicio
+CONSULTA Aparicio
+CONSULTA Aparicio
+CONSULTA António
+CONSULTA Maria
+CONSULTA Marta
+CONSULTA Josefina
+CONSULTA Isabel
+CONSULTA Madalena
+CONSULTA André
+CONSULTA Marta
+CONSULTA João
+CONSULTA Adriana
+CONSULTA João
+CONSULTA Aparicio
+CONSULTA Aparicio
+CONSULTA Josefina
+CONSULTA André
+CONSULTA António
+CONSULTA Alexandre
+CONSULTA Josefina
+CONSULTA Matilde
+CONSULTA António
+CONSULTA João
+CONSULTA Carolina
+CONSULTA Tomás
+CONSULTA André
+CONSULTA Adriana
+CONSULTA Henrique
+CONSULTA Bernardo
+CONSULTA André
+CONSULTA Adriana
+CONSULTA Carlos
+CONSULTA Isabel
+CONSULTA Simão
+CONSULTA Aparicio
+CONSULTA Tomás
+CONSULTA Josefina
+CONSULTA Tomás
+CONSULTA Carlos
+CONSULTA Simão
+CONSULTA Maria
+CONSULTA André
+CONSULTA Henrique
+CONSULTA António
+CONSULTA Simão
+CONSULTA Tomás
+CONSULTA Madalena
+CONSULTA Madalena
+CONSULTA António
+CONSULTA António
+CONSULTA Adriana
+CONSULTA Carlos
+CONSULTA Bernardo
+CONSULTA Matilde
+CONSULTA Aparicio
+CONSULTA Maria
+CONSULTA Josefina
+CONSULTA Henrique
+CONSULTA Marta
+CONSULTA André
+CONSULTA Madalena
+CONSULTA Carolina
+CONSULTA Madalena
+CONSULTA Henrique
+CONSULTA Joana
+CONSULTA Simão
+CONSULTA Tomás
+CONSULTA Alexandre
+CONSULTA Joana
+CONSULTA Henrique
+CONSULTA Madalena
+CONSULTA Carlos
+CONSULTA Joana
+CONSULTA Simão
+CONSULTA João
+CONSULTA João
+CONSULTA Josefina
+CONSULTA João
+CONSULTA Henrique
+CONSULTA Alexandre
+CONSULTA Aparicio
+CONSULTA Simão
+CONSULTA Bernardo
+CONSULTA Aparicio
+CONSULTA Aparicio
+CONSULTA Maria
+CONSULTA Aparicio
+CONSULTA António
+CONSULTA Simão
+CONSULTA Carolina
+CONSULTA Simão
+CONSULTA Joana
+CONSULTA Maria
+CONSULTA Bernardo
+CONSULTA Adriana
+CONSULTA Maria
+CONSULTA Henrique
+CONSULTA Maria
+CONSULTA Aparicio
+CONSULTA Isabel
+CONSULTA Bernardo
+CONSULTA Matilde
+CONSULTA Madalena
+CONSULTA André
+CONSULTA Simão
+CONSULTA Isabel
+CONSULTA Carlos
+CONSULTA Josefina
+CONSULTA Bernardo
+CONSULTA Aparicio
+CONSULTA Carolina
+CONSULTA Carolina
+CONSULTA Alexandre
+CONSULTA Simão
+CONSULTA Tomás
+CONSULTA Aparicio
+CONSULTA Carlos
+CONSULTA João
+CONSULTA Maria
+CONSULTA Isabel
+CONSULTA Adriana
+CONSULTA Matilde
+CONSULTA Carolina
+CONSULTA Maria
+CONSULTA Madalena
+CONSULTA Simão
+CONSULTA Adriana
+CONSULTA Carlos
+CONSULTA Adriana
+CONSULTA Isabel
+CONSULTA Aparicio
+CONSULTA Isabel
+CONSULTA António
+CONSULTA Henrique
+CONSULTA Bernardo
+CONSULTA Matilde
+CONSULTA Josefina
+CONSULTA Adriana
+CONSULTA Carolina
+CONSULTA João
+CONSULTA Madalena
+CONSULTA António
+CONSULTA Carlos
+CONSULTA Marta
+CONSULTA Bernardo
+CONSULTA Carolina
+CONSULTA Marta
+CONSULTA Maria
+CONSULTA Carolina
+CONSULTA Isabel
+CONSULTA Madalena
+CONSULTA Aparicio
+CONSULTA Matilde
+CONSULTA Tomás
+CONSULTA Tomás
+CONSULTA Madalena
+CONSULTA Henrique
+CONSULTA Isabel
+CONSULTA André
+CONSULTA Aparicio
+CONSULTA Marta
+CONSULTA Henrique
+CONSULTA Matilde
+CONSULTA Tomás
+CONSULTA João
+CONSULTA Carlos
+CONSULTA Josefina
+CONSULTA André
+CONSULTA Aparicio
+CONSULTA Isabel
+CONSULTA Marta
+CONSULTA João
+CONSULTA Josefina
+CONSULTA Tomás
+CONSULTA Isabel
+CONSULTA Adriana
+CONSULTA Joana
+CONSULTA Tomás
+CONSULTA Adriana
+CONSULTA Alexandre
+CONSULTA Carlos
+CONSULTA Maria
+CONSULTA Aparicio
+CONSULTA António
+CONSULTA Bernardo
+CONSULTA André
+CONSULTA Alexandre
+CONSULTA Carolina
+CONSULTA Adriana
+CONSULTA Carlos
+CONSULTA Isabel
+CONSULTA Isabel
+CONSULTA João
+CONSULTA Aparicio
+CONSULTA Carolina
+CONSULTA João
+CONSULTA Matilde
+CONSULTA Isabel
+CONSULTA Tomás
+CONSULTA Alexandre
+CONSULTA Madalena
+CONSULTA Bernardo
+CONSULTA Bernardo
+CONSULTA Isabel
+CONSULTA Adriana
+CONSULTA Carlos
+CONSULTA Josefina
+CONSULTA Josefina
+CONSULTA Tomás
+CONSULTA Adriana
+CONSULTA Simão
+CONSULTA Simão
+CONSULTA Matilde
+CONSULTA André
+CONSULTA Matilde
+CONSULTA Tomás
+CONSULTA Adriana
+CONSULTA Bernardo
+CONSULTA Carolina
+CONSULTA Henrique
+CONSULTA Isabel
+CONSULTA Aparicio
+CONSULTA Joana
+CONSULTA Simão
+CONSULTA Carolina
+CONSULTA Josefina
+CONSULTA Josefina
+CONSULTA António
+CONSULTA Isabel
+CONSULTA Aparicio
+CONSULTA Bernardo
+CONSULTA Bernardo
+CONSULTA Matilde
+CONSULTA Marta
+CONSULTA Joana
+CONSULTA Marta
+CONSULTA André
+CONSULTA Isabel
+CONSULTA Tomás
+CONSULTA António
+CONSULTA António
+CONSULTA Bernardo
+CONSULTA Aparicio
+CONSULTA Alexandre
+CONSULTA Maria
+CONSULTA Bernardo
+CONSULTA João
+CONSULTA Maria
+CONSULTA Joana
+CONSULTA Alexandre
+CONSULTA Henrique
+CONSULTA Tomás
+CONSULTA Josefina
+CONSULTA Tomás
+CONSULTA Josefina
+CONSULTA Adriana
+CONSULTA Matilde
+CONSULTA António
+CONSULTA Adriana
+CONSULTA Carolina
+CONSULTA Maria
+CONSULTA Isabel
+CONSULTA Madalena
+CONSULTA Carolina
+CONSULTA António
+CONSULTA Marta
+CONSULTA António
+CONSULTA Madalena
+CONSULTA Bernardo
+CONSULTA Simão
+CONSULTA Madalena
+CONSULTA Bernardo
+CONSULTA Carlos
+CONSULTA António
+CONSULTA Matilde
+CONSULTA Isabel
+CONSULTA Josefina
+CONSULTA Josefina
+CONSULTA Marta
+CONSULTA Joana
+CONSULTA André
+CONSULTA Josefina
+CONSULTA Joana
+CONSULTA Marta
+CONSULTA Aparicio
+CONSULTA Aparicio
+CONSULTA Matilde
+CONSULTA Alexandre
+CONSULTA Maria
+CONSULTA Alexandre
+CONSULTA Carlos
+CONSULTA Isabel
+CONSULTA Isabel
+CONSULTA Aparicio
+CONSULTA Matilde
+CONSULTA Carlos
+CONSULTA Alexandre
+CONSULTA Bernardo
+CONSULTA João
+CONSULTA Tomás
+CONSULTA Josefina
+CONSULTA Carlos
+CONSULTA Madalena
+CONSULTA Carlos
+CONSULTA Carolina
+CONSULTA Isabel
+CONSULTA Henrique
+CONSULTA Carlos
+CONSULTA Josefina
+CONSULTA António
+CONSULTA Tomás
+CONSULTA Madalena
+CONSULTA Bernardo
+CONSULTA Alexandre
+CONSULTA Matilde
+CONSULTA António
+CONSULTA Simão
+CONSULTA Madalena
+CONSULTA Adriana
+CONSULTA Bernardo
+CONSULTA Aparicio
+CONSULTA João
+CONSULTA André
+CONSULTA Joana
+CONSULTA António
+CONSULTA Marta
+CONSULTA António
+CONSULTA João
+CONSULTA Aparicio
+CONSULTA Marta
+CONSULTA Tomás
+CONSULTA Marta
+CONSULTA Carolina
+CONSULTA Tomás
+CONSULTA Tomás
+CONSULTA Simão
+CONSULTA Carolina
+CONSULTA Madalena
+CONSULTA Aparicio
+CONSULTA António
+CONSULTA Simão
+CONSULTA Isabel
+CONSULTA Bernardo
+CONSULTA Carolina
+CONSULTA Josefina
+CONSULTA Isabel
+CONSULTA Bernardo
+CONSULTA Adriana
+CONSULTA Joana
+CONSULTA Isabel
+CONSULTA André
+CONSULTA Tomás
+CONSULTA Carlos
+CONSULTA Madalena
+CONSULTA João
+CONSULTA António
+CONSULTA André
+CONSULTA Adriana
+CONSULTA Tomás
+CONSULTA João
+CONSULTA Alexandre
+CONSULTA Henrique
+CONSULTA João
+CONSULTA Maria
+CONSULTA Marta
+CONSULTA Matilde
+CONSULTA Carlos
+CONSULTA Matilde
+CONSULTA António
+CONSULTA Josefina
+CONSULTA António
+CONSULTA Simão
+CONSULTA Simão
+CONSULTA Carlos
+CONSULTA Adriana
+CONSULTA Madalena
+CONSULTA Simão
+CONSULTA Adriana
+CONSULTA João
+CONSULTA André
+CONSULTA Carolina
+CONSULTA Madalena
+CONSULTA Adriana
+CONSULTA Josefina
+CONSULTA Aparicio
+CONSULTA Matilde
+CONSULTA Isabel
+CONSULTA António
+CONSULTA Carlos
+CONSULTA Matilde
+CONSULTA António
+CONSULTA Matilde
+CONSULTA Adriana
+CONSULTA Adriana
+CONSULTA Maria
+CONSULTA Simão
+CONSULTA Carlos
+CONSULTA Joana
+CONSULTA Adriana
+CONSULTA Aparicio
+CONSULTA Bernardo
+CONSULTA Carolina
+CONSULTA Tomás
+CONSULTA Madalena
+CONSULTA Carlos
+CONSULTA João
+CONSULTA Matilde
+CONSULTA Adriana
+CONSULTA Bernardo
+CONSULTA Carlos
+CONSULTA Aparicio
+CONSULTA Aparicio
+CONSULTA Carolina
+CONSULTA Bernardo
+CONSULTA Maria
+CONSULTA Matilde
+CONSULTA Simão
+CONSULTA Isabel
+CONSULTA António
+CONSULTA Henrique
+CONSULTA Josefina
+CONSULTA Madalena
+CONSULTA Bernardo
+CONSULTA Carolina
+CONSULTA Marta
+CONSULTA Adriana
+CONSULTA Simão
+CONSULTA Tomás
+CONSULTA Matilde
+CONSULTA Joana
+CONSULTA Bernardo
+CONSULTA Matilde
+CONSULTA Marta
+CONSULTA Bernardo
+CONSULTA Alexandre
+CONSULTA Joana
+CONSULTA Maria
+CONSULTA Carlos
+CONSULTA António
+CONSULTA Carlos
+CONSULTA António
+CONSULTA Maria
+CONSULTA António
+CONSULTA Tomás
+CONSULTA João
+CONSULTA Marta
+CONSULTA Madalena
+CONSULTA André
+CONSULTA Adriana
+CONSULTA Simão
+CONSULTA Marta
+CONSULTA Matilde
+CONSULTA Henrique
+CONSULTA Isabel
+CONSULTA Tomás
+CONSULTA Carlos
+CONSULTA Aparicio
+CONSULTA Madalena
+CONSULTA Marta
+CONSULTA Carlos
+CONSULTA Carlos
+CONSULTA Bernardo
+CONSULTA Isabel
+CONSULTA Madalena
+CONSULTA Matilde
+CONSULTA Josefina
+CONSULTA Joana
+CONSULTA Aparicio
+CONSULTA João
+CONSULTA Marta
+CONSULTA Aparicio
+CONSULTA Carolina
+CONSULTA Alexandre
+CONSULTA Madalena
+CONSULTA Bernardo
+CONSULTA Maria
+CONSULTA André
+CONSULTA Carlos
+CONSULTA Marta
+CONSULTA Alexandre
+CONSULTA Matilde
+CONSULTA António
+CONSULTA Carolina
+CONSULTA Bernardo
+CONSULTA João
+CONSULTA Bernardo
+CONSULTA Josefina
+CONSULTA Alexandre
+CONSULTA António
+CONSULTA Madalena
+CONSULTA Matilde
+CONSULTA André
+CONSULTA Tomás
+CONSULTA Simão
+CONSULTA Aparicio
+CONSULTA Aparicio
+CONSULTA Madalena
+CONSULTA Joana
+CONSULTA Tomás
+CONSULTA Carlos
+CONSULTA Josefina
+CONSULTA António
+CONSULTA Adriana
+CONSULTA Josefina
+CONSULTA Madalena
+CONSULTA Isabel
+CONSULTA André
+CONSULTA Carlos
+CONSULTA Carlos
+CONSULTA Simão
+CONSULTA Henrique
+CONSULTA Alexandre
+CONSULTA André
+CONSULTA Maria
+CONSULTA Simão
+CONSULTA Marta
+CONSULTA Marta
+CONSULTA Henrique
+CONSULTA Henrique
+CONSULTA Tomás
+CONSULTA Isabel
+CONSULTA Marta
+CONSULTA Adriana
+CONSULTA Madalena
+CONSULTA Bernardo
+CONSULTA Joana
+CONSULTA Isabel
+CONSULTA Madalena
+CONSULTA Matilde
+CONSULTA Tomás
+CONSULTA Matilde
+CONSULTA João
+CONSULTA Carolina
+CONSULTA António
+CONSULTA Marta
+CONSULTA Josefina
+CONSULTA Carolina
+CONSULTA Tomás
+CONSULTA Bernardo
+CONSULTA Bernardo
+CONSULTA André
+CONSULTA António
+CONSULTA Simão
+CONSULTA Alexandre
+CONSULTA Matilde
+CONSULTA Adriana
+CONSULTA Bernardo
+CONSULTA Matilde
+CONSULTA Matilde
+CONSULTA Joana
+CONSULTA Bernardo
+CONSULTA João
+CONSULTA Josefina
+CONSULTA Bernardo
+CONSULTA Aparicio
+CONSULTA Madalena
+CONSULTA Carolina
+CONSULTA Tomás
+CONSULTA Alexandre
+CONSULTA António
+CONSULTA Isabel
+CONSULTA António
+CONSULTA Alexandre
+CONSULTA Alexandre
+CONSULTA Marta
+CONSULTA Marta
+CONSULTA Simão
+CONSULTA Josefina
+CONSULTA Bernardo
+CONSULTA Matilde
+CONSULTA Tomás
+CONSULTA André
+CONSULTA Marta
+CONSULTA Joana
+CONSULTA Tomás
+CONSULTA Aparicio
+CONSULTA Bernardo
+CONSULTA Maria
+CONSULTA André
+CONSULTA António
+CONSULTA Joana
+CONSULTA Alexandre
+CONSULTA André
+CONSULTA Simão
+CONSULTA João
+CONSULTA Tomás
+CONSULTA Maria
+CONSULTA Carlos
+CONSULTA Tomás
+CONSULTA Maria
+CONSULTA Henrique
+CONSULTA Alexandre
+CONSULTA Matilde
+CONSULTA Carolina
+CONSULTA Aparicio
+CONSULTA Carolina
+CONSULTA Marta
+CONSULTA Joana
+CONSULTA Simão
+CONSULTA Joana
+CONSULTA Matilde
+CONSULTA Madalena
+CONSULTA Matilde
+CONSULTA Isabel
+CONSULTA Joana
+CONSULTA Aparicio
+CONSULTA Isabel
+CONSULTA Madalena
+CONSULTA André
+CONSULTA Isabel
+CONSULTA Isabel
+CONSULTA Simão
+CONSULTA Carlos
+CONSULTA Alexandre
+CONSULTA Bernardo
+CONSULTA Joana
+CONSULTA Isabel
+CONSULTA Bernardo
+CONSULTA Josefina
+CONSULTA Henrique
+CONSULTA Matilde
+CONSULTA Marta
+CONSULTA Madalena
+CONSULTA Marta
+CONSULTA João
+CONSULTA Carolina
+CONSULTA Marta
+CONSULTA Josefina
+CONSULTA Matilde
+CONSULTA António
+CONSULTA Madalena
+CONSULTA Josefina
+CONSULTA André
+CONSULTA Bernardo
+CONSULTA Isabel
+CONSULTA Carolina
+CONSULTA João
+CONSULTA Carlos
+CONSULTA Henrique
+CONSULTA Carlos
+CONSULTA Isabel
+CONSULTA Josefina
+CONSULTA António
+CONSULTA Simão
+CONSULTA António
+CONSULTA Simão
+CONSULTA Josefina
+CONSULTA André
+CONSULTA Bernardo
+CONSULTA Maria
+CONSULTA Maria
+CONSULTA António
+CONSULTA Carlos
+CONSULTA Tomás
+CONSULTA Henrique
+CONSULTA Josefina
+CONSULTA Henrique
+CONSULTA Josefina
+CONSULTA André
+CONSULTA Tomás
+CONSULTA Marta
+CONSULTA Carolina
+CONSULTA Tomás
+CONSULTA Isabel
+CONSULTA Matilde
+CONSULTA Simão
+CONSULTA Marta
+CONSULTA Carolina
+CONSULTA Josefina
+CONSULTA Henrique
+CONSULTA Bernardo
+CONSULTA Adriana
+CONSULTA Henrique
+CONSULTA Bernardo
+CONSULTA Tomás
+CONSULTA António
+CONSULTA Bernardo
+CONSULTA Maria
+CONSULTA Tomás
+CONSULTA Madalena
+CONSULTA Carlos
+CONSULTA André
+CONSULTA Alexandre
+CONSULTA Aparicio
+CONSULTA Madalena
+CONSULTA Alexandre
+CONSULTA Isabel
+CONSULTA Carolina
+CONSULTA Matilde
+CONSULTA Alexandre
+CONSULTA Carlos
+CONSULTA Maria
+CONSULTA Joana
+CONSULTA Tomás
+CONSULTA André
+CONSULTA Tomás
+CONSULTA Isabel
+CONSULTA Alexandre
+CONSULTA Aparicio
+CONSULTA Marta
+CONSULTA Alexandre
+CONSULTA Tomás
+CONSULTA Carlos
+CONSULTA Matilde
+CONSULTA Matilde
+CONSULTA Josefina
+CONSULTA Marta
+CONSULTA Matilde
+CONSULTA João
+CONSULTA Josefina
+CONSULTA Henrique
+CONSULTA Bernardo
+CONSULTA Marta
+CONSULTA Maria
+CONSULTA Henrique
+CONSULTA Aparicio
+CONSULTA António
+CONSULTA Carolina
+CONSULTA Carlos
+CONSULTA Madalena
+CONSULTA Henrique
+CONSULTA Isabel
+CONSULTA Bernardo
+CONSULTA António
+CONSULTA Maria
+CONSULTA Aparicio
+CONSULTA Marta
+CONSULTA Marta
+CONSULTA João
+CONSULTA António
+CONSULTA Adriana
+CONSULTA Simão
+CONSULTA Carolina
+CONSULTA Tomás
+CONSULTA Maria
+CONSULTA Madalena
+CONSULTA Maria
+CONSULTA João
+CONSULTA Matilde
+CONSULTA Madalena
+CONSULTA Alexandre
+CONSULTA Aparicio
+CONSULTA Tomás
+CONSULTA Tomás
+CONSULTA Maria
+CONSULTA Madalena
+CONSULTA André
+CONSULTA Simão
+CONSULTA Carlos
+CONSULTA Marta
+CONSULTA Matilde
+CONSULTA Carlos
+CONSULTA Bernardo
+CONSULTA Tomás
+CONSULTA André
+CONSULTA Joana
+CONSULTA Marta
+CONSULTA Aparicio
+CONSULTA Henrique
+CONSULTA Aparicio
+CONSULTA André
+CONSULTA António
+CONSULTA Carlos
+CONSULTA André
+CONSULTA Tomás
+CONSULTA Simão
+CONSULTA Bernardo
+CONSULTA André
+CONSULTA André
+CONSULTA João
+CONSULTA Henrique
+CONSULTA João
+CONSULTA António
+CONSULTA Matilde
+CONSULTA António
+CONSULTA Aparicio
+CONSULTA Marta
+CONSULTA Carlos
+CONSULTA Carlos
+CONSULTA Marta
+CONSULTA Henrique
+CONSULTA Matilde
+CONSULTA Matilde
+CONSULTA Maria
+CONSULTA Josefina
+CONSULTA João
+CONSULTA António
+CONSULTA António
+CONSULTA Henrique
+CONSULTA Matilde
+CONSULTA António
+CONSULTA Aparicio
+CONSULTA Carolina
+CONSULTA Simão
+CONSULTA Henrique
+CONSULTA Adriana
+CONSULTA Marta
+CONSULTA Adriana
+CONSULTA Tomás
+CONSULTA António
+CONSULTA Madalena
+CONSULTA André
+CONSULTA António
+CONSULTA Tomás
+CONSULTA Adriana
+CONSULTA Carlos
+CONSULTA Tomás
+CONSULTA Aparicio
+CONSULTA Aparicio
+CONSULTA André
+CONSULTA Matilde
+CONSULTA Joana
+CONSULTA Josefina
+CONSULTA Matilde
+CONSULTA Carolina
+CONSULTA Matilde
+CONSULTA Adriana
+CONSULTA Marta
+CONSULTA Henrique
+CONSULTA Isabel
+CONSULTA Joana
+CONSULTA Matilde
+CONSULTA Maria
+CONSULTA André
+CONSULTA Matilde
+CONSULTA Matilde
+CONSULTA André
+CONSULTA Matilde
+CONSULTA Simão
+CONSULTA Isabel
+CONSULTA Henrique
+CONSULTA Maria
+CONSULTA Joana
+CONSULTA Josefina
+CONSULTA Marta
+CONSULTA João
+CONSULTA Joana
+CONSULTA Madalena
+CONSULTA Alexandre
+CONSULTA Marta
+CONSULTA Alexandre
+CONSULTA Josefina
+CONSULTA Madalena
+CONSULTA André
+CONSULTA Adriana
+CONSULTA João
+CONSULTA Aparicio
+CONSULTA Carolina
+CONSULTA Maria
+CONSULTA Madalena
+CONSULTA Henrique
+CONSULTA Joana
+CONSULTA Matilde
+CONSULTA Joana
+CONSULTA Bernardo
+CONSULTA Henrique
+CONSULTA Matilde
+CONSULTA Tomás
+CONSULTA Alexandre
+CONSULTA Matilde
+CONSULTA Josefina
+CONSULTA Josefina
+CONSULTA Tomás
+CONSULTA Simão
+CONSULTA Simão
+CONSULTA Adriana
+CONSULTA Joana
+CONSULTA Alexandre
+CONSULTA Tomás
+CONSULTA André
+CONSULTA Marta
+CONSULTA Joana
+CONSULTA Carolina
+CONSULTA João
+CONSULTA Matilde
+CONSULTA João
+CONSULTA Madalena
+CONSULTA João
+CONSULTA Henrique
+CONSULTA Marta
+CONSULTA Marta
+CONSULTA Joana
+CONSULTA Maria
+CONSULTA Josefina
+CONSULTA Aparicio
+CONSULTA Bernardo
+CONSULTA Bernardo
+CONSULTA João
+CONSULTA Josefina
+CONSULTA João
+CONSULTA Tomás
+CONSULTA André
+CONSULTA Simão
+CONSULTA João
+CONSULTA Adriana
+CONSULTA Tomás
+CONSULTA Henrique
+CONSULTA Carolina
+CONSULTA Carlos
+CONSULTA Bernardo
+CONSULTA Matilde
+CONSULTA Henrique
+CONSULTA Joana
+CONSULTA Joana
+CONSULTA Joana
+CONSULTA Maria
+CONSULTA André
+CONSULTA Aparicio
+CONSULTA Bernardo
+CONSULTA Tomás
+CONSULTA Isabel
+CONSULTA Aparicio
+CONSULTA Marta
+CONSULTA Aparicio
+CONSULTA António
+CONSULTA Josefina
+CONSULTA Isabel
+CONSULTA Carolina
+CONSULTA Alexandre
+CONSULTA Adriana
+CONSULTA Aparicio
+CONSULTA Matilde
+CONSULTA António
+CONSULTA Bernardo
+CONSULTA Josefina
+CONSULTA Joana
+CONSULTA Joana
+CONSULTA Alexandre
+CONSULTA Maria
+CONSULTA Maria
+CONSULTA Simão
+CONSULTA Simão
+CONSULTA Matilde
+CONSULTA André
+CONSULTA Tomás
+CONSULTA Marta
+CONSULTA Simão
+CONSULTA Adriana
+CONSULTA Joana
+CONSULTA Adriana
+CONSULTA Marta
+CONSULTA Henrique
+CONSULTA Henrique
+CONSULTA Maria
+CONSULTA Alexandre
+CONSULTA Tomás
+CONSULTA Carolina
+CONSULTA Carlos
+CONSULTA Josefina
+CONSULTA Isabel
+CONSULTA Carlos
+CONSULTA Tomás
+CONSULTA Alexandre
+CONSULTA Madalena
+CONSULTA Maria
+CONSULTA Simão
+CONSULTA João
+CONSULTA António
+CONSULTA João
+CONSULTA João
+CONSULTA Aparicio
+CONSULTA Matilde
+CONSULTA Marta
+CONSULTA Carlos
+CONSULTA Isabel
+CONSULTA Bernardo
+CONSULTA Simão
+CONSULTA Marta
+CONSULTA António
+CONSULTA Marta
+CONSULTA Matilde
+CONSULTA Marta
+CONSULTA Isabel
+CONSULTA Henrique
+CONSULTA Josefina
+CONSULTA Bernardo
+CONSULTA Marta
+CONSULTA Joana
+CONSULTA João
+CONSULTA Tomás
+CONSULTA Alexandre
+CONSULTA Alexandre
+CONSULTA Aparicio
+CONSULTA Henrique
+CONSULTA Carlos
+CONSULTA Alexandre
+CONSULTA João
+CONSULTA João
+CONSULTA Maria
+CONSULTA Joana
+CONSULTA André
+CONSULTA Carlos
+CONSULTA Carolina
+CONSULTA Bernardo
+CONSULTA Adriana
+CONSULTA António
+CONSULTA Josefina
+CONSULTA Isabel
+CONSULTA Alexandre
+CONSULTA Josefina
+CONSULTA Maria
+CONSULTA Josefina
+CONSULTA Simão
+CONSULTA Adriana
+CONSULTA Carlos
+CONSULTA Bernardo
+CONSULTA João
+CONSULTA Aparicio
+CONSULTA Aparicio
+CONSULTA Matilde
+CONSULTA Tomás
+CONSULTA Aparicio
+CONSULTA Marta
+CONSULTA Carolina
+CONSULTA Simão
+CONSULTA Marta
+CONSULTA Carlos
+CONSULTA Henrique
+CONSULTA Matilde
+CONSULTA Henrique
+CONSULTA Henrique
+CONSULTA Bernardo
+CONSULTA Isabel
+CONSULTA Tomás
+CONSULTA Madalena
+CONSULTA Aparicio
+CONSULTA Aparicio
+CONSULTA Henrique
+CONSULTA Maria
+CONSULTA Bernardo
+CONSULTA João
+CONSULTA Tomás
+CONSULTA Carlos
+CONSULTA Madalena
+CONSULTA André
+CONSULTA Maria
+CONSULTA Joana
+CONSULTA António
+CONSULTA André
+CONSULTA Isabel
+CONSULTA Aparicio
+CONSULTA Simão
+CONSULTA Marta
+CONSULTA João
+CONSULTA Marta
+CONSULTA André
+CONSULTA Madalena
+CONSULTA Carolina
+CONSULTA Aparicio
+CONSULTA Aparicio
+CONSULTA André
+CONSULTA António
+CONSULTA Tomás
+CONSULTA Adriana
+CONSULTA Matilde
+CONSULTA Adriana
+CONSULTA Tomás
+CONSULTA Marta
+CONSULTA Bernardo
+CONSULTA Adriana
+CONSULTA Tomás
+CONSULTA Joana
+CONSULTA Isabel
+CONSULTA Marta
+CONSULTA Marta
+CONSULTA Isabel
+CONSULTA João
+CONSULTA Maria
+CONSULTA Josefina
+CONSULTA Marta
+CONSULTA Maria
+CONSULTA Carolina
+CONSULTA Marta
+CONSULTA Aparicio
+CONSULTA Matilde
+CONSULTA Madalena
+CONSULTA Carlos
+CONSULTA Simão
+CONSULTA Alexandre
+CONSULTA Simão
+CONSULTA Maria
+CONSULTA Aparicio
+CONSULTA António
+CONSULTA Aparicio
+CONSULTA André
+CONSULTA Carlos
+CONSULTA Henrique
+CONSULTA Marta
+CONSULTA Alexandre
+CONSULTA Aparicio
+CONSULTA Alexandre
+CONSULTA Maria
+CONSULTA Joana
+CONSULTA Alexandre
+CONSULTA Joana
+CONSULTA Henrique
+CONSULTA Tomás
+CONSULTA Josefina
+CONSULTA João
+CONSULTA Tomás
+CONSULTA Josefina
+CONSULTA Madalena
+CONSULTA Carlos
+CONSULTA Aparicio
+CONSULTA Matilde
+CONSULTA Isabel
+CONSULTA Simão
+CONSULTA Aparicio
+CONSULTA Alexandre
+CONSULTA André
+CONSULTA Alexandre
+CONSULTA Carolina
+CONSULTA Joana
+CONSULTA Maria
+CONSULTA Alexandre
+CONSULTA Marta
+CONSULTA Carolina
+CONSULTA Josefina
+CONSULTA Matilde
+CONSULTA Matilde
+CONSULTA Alexandre
+CONSULTA Matilde
+CONSULTA Tomás
+CONSULTA Simão
+CONSULTA Henrique
+CONSULTA Bernardo
+CONSULTA Isabel
+CONSULTA Alexandre
+CONSULTA Maria
+CONSULTA Isabel
+CONSULTA Alexandre
+CONSULTA Marta
+CONSULTA João
+CONSULTA Alexandre
+CONSULTA André
+CONSULTA André
+CONSULTA Alexandre
+CONSULTA Josefina
+CONSULTA Madalena
+CONSULTA Adriana
+CONSULTA António
+CONSULTA André
+CONSULTA Adriana
+CONSULTA Adriana
+CONSULTA Carlos
+CONSULTA André
+CONSULTA André
+CONSULTA António
+CONSULTA Carolina
+CONSULTA Bernardo
+CONSULTA João
+CONSULTA Maria
+CONSULTA Carolina
+CONSULTA Alexandre
+CONSULTA Henrique
+CONSULTA Joana
+CONSULTA Aparicio
+CONSULTA Alexandre
+CONSULTA André
+CONSULTA Henrique
+CONSULTA Marta
+CONSULTA Bernardo
+CONSULTA Henrique
+CONSULTA Marta
+CONSULTA Alexandre
+CONSULTA Tomás
+CONSULTA Madalena
+CONSULTA Matilde
+CONSULTA Tomás
+CONSULTA Aparicio
+CONSULTA João
+CONSULTA Bernardo
+CONSULTA Carolina
+CONSULTA Joana
+CONSULTA Madalena
+CONSULTA Henrique
+CONSULTA Simão
+CONSULTA Tomás
+CONSULTA Alexandre
+CONSULTA João
+CONSULTA André
+CONSULTA Madalena
+CONSULTA Joana
+CONSULTA Matilde
+CONSULTA Carolina
+CONSULTA António
+CONSULTA Tomás
+CONSULTA Henrique
+CONSULTA Aparicio
+CONSULTA Alexandre
+CONSULTA Josefina
+CONSULTA Aparicio
+CONSULTA Aparicio
+CONSULTA António
+CONSULTA Alexandre
+CONSULTA Tomás
+CONSULTA Maria
+CONSULTA Isabel
+CONSULTA Josefina
+CONSULTA André
+CONSULTA Alexandre
+CONSULTA Alexandre
+CONSULTA Carolina
+CONSULTA João
+CONSULTA Adriana
+CONSULTA Matilde
+CONSULTA Maria
+CONSULTA Alexandre
+CONSULTA Matilde
+CONSULTA André
+CONSULTA Bernardo
+CONSULTA Carlos
+CONSULTA Henrique
+CONSULTA Tomás
+CONSULTA Alexandre
+CONSULTA Matilde
+CONSULTA Adriana
+CONSULTA Joana
+CONSULTA Adriana
+CONSULTA André
+CONSULTA Isabel
+CONSULTA Henrique
+CONSULTA Maria
+CONSULTA Joana
+CONSULTA Carolina
+CONSULTA André
+CONSULTA Isabel
+CONSULTA Josefina
+CONSULTA Aparicio
+CONSULTA João
+CONSULTA Carolina
+CONSULTA Adriana
+CONSULTA António
+CONSULTA Henrique
+CONSULTA António
+CONSULTA Joana
+CONSULTA Isabel
+CONSULTA Tomás
+CONSULTA Joana
+CONSULTA António
+CONSULTA Henrique
+CONSULTA Josefina
+CONSULTA António
+CONSULTA André
+CONSULTA João
+CONSULTA João
+CONSULTA Tomás
+CONSULTA Henrique
+CONSULTA Aparicio
+CONSULTA Joana
+CONSULTA João
+CONSULTA Matilde
+CONSULTA Tomás
+CONSULTA Madalena
+CONSULTA Tomás
+CONSULTA Josefina
+CONSULTA João
+CONSULTA André
+CONSULTA João
+CONSULTA Carlos
+CONSULTA Isabel
+CONSULTA Carlos
+CONSULTA Matilde
+CONSULTA Aparicio
+CONSULTA Josefina
+CONSULTA Carolina
+CONSULTA Matilde
+CONSULTA Isabel
+CONSULTA Isabel
+CONSULTA Henrique
+CONSULTA Madalena
+CONSULTA Carolina
+CONSULTA Joana
+CONSULTA Henrique
+CONSULTA Tomás
+CONSULTA Tomás
+CONSULTA Maria
+CONSULTA Adriana
+CONSULTA Alexandre
+CONSULTA Matilde
+CONSULTA António
+CONSULTA Adriana
+CONSULTA João
+CONSULTA Matilde
+CONSULTA Matilde
+CONSULTA Henrique
+CONSULTA Aparicio
+CONSULTA Tomás
+CONSULTA Aparicio
+CONSULTA António
+CONSULTA Madalena
+CONSULTA Adriana
+CONSULTA António
+CONSULTA Madalena
+CONSULTA João
+CONSULTA Isabel
+CONSULTA Bernardo
+CONSULTA Matilde
+CONSULTA Henrique
+CONSULTA Matilde
+CONSULTA Carolina
+CONSULTA António
+CONSULTA Carolina
+CONSULTA Bernardo
+CONSULTA Bernardo
+CONSULTA Carolina
+CONSULTA Madalena
+CONSULTA Marta
+CONSULTA Marta
+CONSULTA Tomás
+CONSULTA Aparicio
+CONSULTA João
+CONSULTA Carolina
+CONSULTA Henrique
+CONSULTA Carolina
+CONSULTA António
+CONSULTA André
+CONSULTA Josefina
+CONSULTA Madalena
+CONSULTA Josefina
+CONSULTA André
+CONSULTA João
+CONSULTA André
+CONSULTA André
+CONSULTA Carolina
+CONSULTA Bernardo
+CONSULTA Joana
+CONSULTA Aparicio
+CONSULTA Bernardo
+CONSULTA Isabel
+CONSULTA Adriana
+CONSULTA Simão
+CONSULTA António
+CONSULTA Simão
+CONSULTA Joana
+CONSULTA Carolina
+CONSULTA Adriana
+CONSULTA Henrique
+CONSULTA Carolina
+CONSULTA Joana
+CONSULTA Madalena
+CONSULTA Josefina
+CONSULTA Joana
+CONSULTA Josefina
+CONSULTA Josefina
+CONSULTA Madalena
+CONSULTA Joana
+CONSULTA Bernardo
+CONSULTA Carlos
+CONSULTA André
+CONSULTA Alexandre
+CONSULTA Madalena
+CONSULTA Bernardo
+CONSULTA Maria
+CONSULTA Madalena
+CONSULTA Henrique
+CONSULTA André
+CONSULTA Carlos
+CONSULTA Tomás
+CONSULTA Josefina
+CONSULTA Isabel
+CONSULTA Tomás
+CONSULTA Maria
+CONSULTA António
+CONSULTA Adriana
+CONSULTA André
+CONSULTA Carolina
+CONSULTA Matilde
+CONSULTA Marta
+CONSULTA Bernardo
+CONSULTA Alexandre
+CONSULTA Maria
+CONSULTA Alexandre
+CONSULTA Carlos
+CONSULTA Josefina
+CONSULTA Aparicio
+CONSULTA Marta
+CONSULTA Isabel
+CONSULTA Josefina
+CONSULTA Bernardo
+CONSULTA Adriana
+CONSULTA João
+CONSULTA Josefina
+CONSULTA João
+CONSULTA Simão
+CONSULTA Henrique
+CONSULTA Isabel
+CONSULTA Bernardo
+CONSULTA Matilde
+CONSULTA Maria
+CONSULTA Isabel
+CONSULTA António
+CONSULTA Aparicio
+CONSULTA Alexandre
+CONSULTA Madalena
+CONSULTA Matilde
+CONSULTA Aparicio
+CONSULTA Henrique
+CONSULTA Henrique
+CONSULTA Bernardo
+CONSULTA Matilde
+CONSULTA Simão
+CONSULTA Marta
+CONSULTA Tomás
+CONSULTA Henrique
+CONSULTA António
+CONSULTA Bernardo
+CONSULTA Carolina
+CONSULTA Madalena
+CONSULTA Marta
+CONSULTA Henrique
+CONSULTA Joana
+CONSULTA António
+CONSULTA André
+CONSULTA André
+CONSULTA Josefina
+CONSULTA Marta
+CONSULTA Marta
+CONSULTA Joana
+CONSULTA Matilde
+CONSULTA Josefina
+CONSULTA Alexandre
+CONSULTA João
+CONSULTA António
+CONSULTA Aparicio
+CONSULTA João
+CONSULTA Simão
+CONSULTA João
+CONSULTA André
+CONSULTA Alexandre
+CONSULTA André
+CONSULTA Joana
+CONSULTA Simão
+CONSULTA Henrique
+CONSULTA Simão
+CONSULTA André
+CONSULTA Tomás
+CONSULTA João
+CONSULTA Matilde
+CONSULTA Maria
+CONSULTA Marta
+CONSULTA Marta
+CONSULTA Madalena
+CONSULTA Joana
+CONSULTA Henrique
+CONSULTA Josefina
+CONSULTA Josefina
+CONSULTA André
+CONSULTA João
+CONSULTA Adriana
+CONSULTA António
+CONSULTA Madalena
+CONSULTA João
+CONSULTA Simão
+CONSULTA Bernardo
+CONSULTA Alexandre
+CONSULTA Aparicio
+CONSULTA Alexandre
+CONSULTA Carolina
+CONSULTA Joana
+CONSULTA André
+CONSULTA António
+CONSULTA Tomás
+CONSULTA Adriana
+CONSULTA António
+CONSULTA Joana
+CONSULTA Joana
+CONSULTA Joana
+CONSULTA Carolina
+CONSULTA Henrique
+CONSULTA João
+CONSULTA Josefina
+CONSULTA Marta
+CONSULTA André
+CONSULTA Madalena
+CONSULTA André
+CONSULTA António
+CONSULTA Madalena
+CONSULTA Marta
+CONSULTA André
+CONSULTA Madalena
+CONSULTA Tomás
+CONSULTA João
+CONSULTA Simão
+CONSULTA Adriana
+CONSULTA Alexandre
