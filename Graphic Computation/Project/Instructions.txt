@@ -1,0 +1,9 @@
+The Lamp Remote
+Intruções para o uso da aplicação OpenGL:
+	-> A/D - Change Colour
+	-> O - Lamp ON/OFF
+	-> Arrow Keys - Rotate Observer
+	-> Z/X - Zoom
+	-> Q - Ambient ON/OFF
+	-> W - Ambient Intensity
+	-> E - Floor Specular Coefficient
