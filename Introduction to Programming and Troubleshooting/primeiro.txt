@@ -1,0 +1,2 @@
+Este é o meu primeiro ficheiro em python
+07-05-2001
