@@ -1,0 +1,6 @@
+Insira os dados da seguinte forma: Autores(separados por #),Título,Keywords(seaparadas por #),Ano,Dimensão,Resumo,Nome Conferência,Data,Localização
+C. Gonçalves#A. Rodrigues#Professor Ana Boavida#P. Machado,Máquina de Ouver,máquina#ouver#ana#joão#,2019,600,Explicação Máquina de Ouver,Sound to Type: Finding the Visual Representation of Speech by Mapping Sound Features to Typographic Variables,ARTECH 2019,23/12/2019,Braga
+A. Madeira#C. Silva#Professor Alberto Cardoso#Professor Bernardete Ribeiro,Fire and Smoke recognition in crowdsourced images with YOLO networks,YOLO#fire#smoke,2020,300,Fire and Smoke,RECPAD 2020,30/10/2020,Online
+A. Lino#Professor Bruno Cabral#R. Simões,Bench-Dynamo: A Consistency Benchmark for NoSQL Database Systems,#Consistency#NoSQL#Bench#Dynamo,2019,120,Benchmark for NoSQL,TPCTC 2019 collocated with VLDB 2019,26/08/2019,Los Angeles - USA
+V. Costa#Professor Bruno Sousa#M. Curado#Professor Luiz Bittencourt,CMFog: Proactive Content Migration Using Markov Chain and MADM in Fog Computing,cmfog#Luiz#Migration,2020,540,Proactive Content,International Conference on Utility and Cloud Computing,07/10/2020,Leicester - UK
+P. Cunha#Professor Antonio Figueiredo,Strengthening Content with Context: Experience with Alternative Ways of Learning,Strengthning#Alternative#Learning,2006,30,New ways of learning,ICEE 2006,08/05/2001,Shangai - China

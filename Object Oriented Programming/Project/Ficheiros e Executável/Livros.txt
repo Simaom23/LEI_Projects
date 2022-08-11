@@ -1,0 +1,6 @@
+Insira os dados da seguinte forma: Autores(separados por #),Título,Keywords(seaparadas por #),Ano,Dimensão,Resumo,Editora,ISBN
+F. Boavida#Professor Edmundo Monteiro,Introdução à Criptografia,criptografia#aes#chaves,2019,12000,A criptografia começa por...,FCA,978-972-722-902-4
+Professor Ernesto Costa,Programação em Python: fundamentos e resolução de problemas,python#programação,2015,15000,Explicação linguagem python...,FCA,978-972-722-816-4
+B. Sousa#E. Kalogeiton#Torsten Braun#A. Riker#N. Nikaein,Wireless Public Safety Networks,safety#networks,2017,9000,Segurança na internet...,ISTE Press - Elsevier,978-1-78548-053-9
+A. Leal,Emotions Detection in Music Lyrics using Machine Learning and Keyword-Based Approaches,lyrics#machine-learning,2018,5000,Encontrar músicas tipo shazam...,Novas Edições Académicas,978-620-2-18854-8
+Professor Fernando Barros#Professor Ana Alves,Arquitetura de Informação de Suporte à Gestão da Qualidade: Uma perspetiva hospitalar,suporte#gestão,2016,8000,Qualidade da gestão hospitalar...,Novas Edições Acadêmicas,978-3-8417-1976-8

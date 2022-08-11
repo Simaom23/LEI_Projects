@@ -1,0 +1,7 @@
+Insira os dados da seguinte forma -> Nome do Grupo,Acrónimo do Grupo,Investigador Responsável
+Cognitive and Media Systems,CMS,Ana Boavida
+Adaptive Computation,AC,Alberto Cardoso
+Software and Systems Engineering,SSE,Fernando Barros
+Communications and Telematics,LCT,Edmundo Monteiro
+Information Systems,IS,António Dias de Figueiredo
+Evolutionary and Complex Systems,ECOS,Ernesto Costa

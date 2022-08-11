@@ -1,0 +1,6 @@
+Insira os dados da seguinte forma: Autores(separados por #),Título,Keywords(seaparadas por #),Ano,Dimensão,Resumo,Editora,ISBN,Nome Conferência,Nº Artigos
+Professor Ana Alves#C. Quix#Professor Bruno Cabral,Proceedings of the 8th International Conference,International#Conference,2019,9000,International Conference...,SciTePress,978-989-758-377-3,DATA 2019,15
+A. Rodrigues#Professor Bernadete Ribeiro#A. Lugmayr#J. Correia,Entertainment Computing – ICEC 2018,Entertainment#Computing,2018,11000,Computing...,Springer,978-3-319-99425-3,17th IFIP TC 14 International Conference,32
+D. Raposo#Mirna Muñoz#Professor Edmundo Monteiro#A. Leal#Marco Pérez-Cisneros,Trends and Applications in Software Engineering,Trends#Applications,2018,5000,Software Engineering...,Springer,978-3-030-01170-3,CIMPS 2018,14
+Professor Bruno Sousa#Professor António Correia#Agostinho Rosa#Professor Ana Boavida,Computational Intelligence,Intelligence#Computation,2014,11000,Computational...,Springer,978-3-319-38557-0,IJCCI 2012,45
+Professor Leonor Melo#A. Rodrigues#D. Raposo#R. Simões#Luís Paquete#A. Lino,Parallel Problem Solving from Nature,Parallel#Problem,2018,4500,Problem Solving...,Springer,978-3-319-99252-5,PPSN 2018,12

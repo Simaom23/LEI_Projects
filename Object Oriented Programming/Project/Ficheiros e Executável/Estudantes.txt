@@ -1,0 +1,13 @@
+Introduza os dados da seguinte forma: Nome,Email,Grupo,Título da Tese,Data de Conclusão,Investigador Orientador
+Ana Rodrigues,anatr@dei.uc.pt,CMS,Illustration and Photography.,29/12/2020,Ana Boavida
+Bruna Sousa,bruna@dei.uc.pt,CMS,Computational Art,15/01/2021,Ana Cristina da Costa Oliveira Alves
+Adriana Leal,aleal@dei.uc.pt,AC,Machine Learning and Data Mining,07/05/2021,Alberto Cardoso
+Ali AghaeiRad,ali@dei.uc.pt,AC,Financial Risk and Data Analysis,08/08/2021,Bernardete Ribeiro
+Charles Ferreira Gonçalves,charles@dei.uc.pt,SSE,Robustness and Security Testing,21/09/2021,Bruno Cabral
+Jaime Correia,jaimec@dei.uc.pt,SSE,Network Computing and Applications,13/06/2021,Fernando Barros
+André Figueira Riker,ariker@dei.uc.pt,LCT,Systems and Applications,14/05/2022,Bruno Sousa
+Duarte Rapos,draposo@dei.uc.pt,LCT,Network Management and Diagnostic Tools,05/05/2020,Edmundo Monteiro
+Adriano Del Pino Lino,adlino@dei.uc.pt,IS,Future Generation Computer Systems,05/05/2021,António Dias de Figueiredo
+Nuno Castelhano,nscc@dei.uc.pt,IS,Computer-Mediated Ludic Experience,18/12/2021,Jorge C. S. Cardoso
+Victor Costa,vfc@dei.uc.pt,ECOS,Neuroevolution and Computer Vision,12/04/2021,Ernesto Costa
+Rui Simões,ruifmsimoes@gmail.com,ECOS,Mitochondrial Trafficking and Metabolic Biomarkers,30/11/2023,Leonor Isabel Alburquerque Melo

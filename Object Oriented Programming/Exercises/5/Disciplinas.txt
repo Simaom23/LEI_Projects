@@ -1,0 +1,10 @@
+Analise Matematica, AM,6
+2019215412,21653127
+Programacao Orientada Objetos,POO,6
+12376123
+Tecnologia de Computadores,TC,6
+2019215412,21653127,12376123
+Teoria da Informacao,TI,6
+12763121
+Comunicacao Tecnica,CT,6
+12763121,2019215412

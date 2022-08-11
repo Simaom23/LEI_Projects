@@ -1,0 +1,13 @@
+Introduza os dados da seguinte forma: Nome,Email,Grupo,Nº Gabinete,NºTelefone
+Ana Boavida,aboavida@dei.uc.pt,CMS,540,28187361
+Ana Cristina da Costa Oliveira Alves,ana@dei.uc.pt,CMS,218,2137129
+Alberto Cardoso,alberto@dei.uc.pt,AC,291,2176312
+Bernardete Ribeiro,bribeiro@dei.uc.pt,AC,123,218867312
+Bruno Cabral,bcabral@dei.uc.pt,SSE,873,218731213
+Fernando Barros,barros@dei.uc.pt,SSE,217,2981731
+Bruno Sousa,bmsousa@dei.uc.pt,LCT,239,8127313
+Edmundo Monteiro,edmundo@dei.uc.pt,LCT,212,1287312
+António Dias de Figueiredo,adf@dei.uc.pt,IS,893,21736123
+Jorge C. S. Cardoso,jorgecardoso@dei.uc.pt,IS,126,21987831
+Ernesto Costa,ernesto@dei.uc.pt,ECOS,453,12378123
+Leonor Isabel Alburquerque Melo,leonor@dei.uc.pt,ECOS,312,2178361
