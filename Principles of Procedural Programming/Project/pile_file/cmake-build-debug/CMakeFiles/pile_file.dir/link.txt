@@ -1,0 +1,1 @@
+/usr/bin/cc -Wall -Wextra -g  -Wl,--enable-auto-import CMakeFiles/pile_file.dir/main.c.o CMakeFiles/pile_file.dir/pilha.c.o  -o pile_file.exe -Wl,--out-implib,libpile_file.dll.a -Wl,--major-image-version,0,--minor-image-version,0 

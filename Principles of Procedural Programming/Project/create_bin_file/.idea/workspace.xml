@@ -1,0 +1,139 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CMakeRunConfigurationManager" shouldGenerate="true" shouldDeleteObsolete="true">
+    <generated>
+      <config projectName="create_bin_file" targetName="create_bin_file" />
+    </generated>
+  </component>
+  <component name="CMakeSettings">
+    <configurations>
+      <configuration PROFILE_NAME="Debug" CONFIG_NAME="Debug" />
+    </configurations>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="7337f676-33f3-4715-8f2f-3bc5ba0545ee" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ClangdSettings">
+    <option name="formatViaClangd" value="false" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="CMakeBuildProfile:Debug" />
+  <component name="ProjectId" id="1cPSgie2juQxxqcyaJTkcBWwdiJ" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../pile_file" />
+  </component>
+  <component name="RunManager">
+    <configuration name="create_bin_file" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="create_bin_file" TARGET_NAME="create_bin_file" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="create_bin_file" RUN_TARGET_NAME="create_bin_file">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="7337f676-33f3-4715-8f2f-3bc5ba0545ee" name="Default Changelist" comment="" />
+      <created>1590428848160</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1590428848160</updated>
+      <workItem from="1590428849502" duration="1677000" />
+      <workItem from="1590430536341" duration="16000" />
+      <workItem from="1590430816124" duration="109000" />
+      <workItem from="1590430926171" duration="1164000" />
+      <workItem from="1590918589167" duration="6518000" />
+      <workItem from="1591121443046" duration="20000" />
+      <workItem from="1591804311427" duration="6191000" />
+      <workItem from="1591813085565" duration="46000" />
+      <workItem from="1591821176308" duration="1095000" />
+      <workItem from="1591828255191" duration="3938000" />
+      <workItem from="1591867631248" duration="7010000" />
+      <workItem from="1591892379965" duration="1933000" />
+      <workItem from="1591914688193" duration="592000" />
+      <workItem from="1591954753363" duration="1815000" />
+      <workItem from="1591976732900" duration="54000" />
+      <workItem from="1592142387626" duration="107000" />
+      <workItem from="1592311254834" duration="18000" />
+      <workItem from="1592312762959" duration="1271000" />
+      <workItem from="1592338206631" duration="1649000" />
+      <workItem from="1592495279139" duration="1281000" />
+      <workItem from="1592567042673" duration="613000" />
+      <workItem from="1592570973860" duration="2000" />
+      <workItem from="1592572105112" duration="239000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="549" y="167" key="FileChooserDialogImpl" timestamp="1592572110651">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="549" y="167" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1592572110651" />
+    <state width="1493" height="208" key="GridCell.Tab.0.bottom" timestamp="1592340017272">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="208" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1592340017272" />
+    <state width="1493" height="208" key="GridCell.Tab.0.center" timestamp="1592340017270">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="208" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1592340017270" />
+    <state width="1493" height="208" key="GridCell.Tab.0.left" timestamp="1592340017269">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="208" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1592340017269" />
+    <state width="1493" height="208" key="GridCell.Tab.0.right" timestamp="1592340017271">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="208" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1592340017271" />
+    <state width="1493" height="260" key="GridCell.Tab.1.bottom" timestamp="1591875316731">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="260" key="GridCell.Tab.1.bottom/0.0.1536.824@0.0.1536.824" timestamp="1591875316731" />
+    <state width="1493" height="260" key="GridCell.Tab.1.center" timestamp="1591875316731">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="260" key="GridCell.Tab.1.center/0.0.1536.824@0.0.1536.824" timestamp="1591875316731" />
+    <state width="1493" height="260" key="GridCell.Tab.1.left" timestamp="1591875316731">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="260" key="GridCell.Tab.1.left/0.0.1536.824@0.0.1536.824" timestamp="1591875316731" />
+    <state width="1493" height="260" key="GridCell.Tab.1.right" timestamp="1591875316731">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="260" key="GridCell.Tab.1.right/0.0.1536.824@0.0.1536.824" timestamp="1591875316731" />
+    <state width="640" height="204" key="ImportCMakeProjectWizard.bottomPanel" timestamp="1590431054561">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="640" height="204" key="ImportCMakeProjectWizard.bottomPanel/0.0.1536.824@0.0.1536.824" timestamp="1590431054561" />
+    <state width="640" height="476" key="ImportCMakeProjectWizard.topPanel" timestamp="1590431054561">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="640" height="476" key="ImportCMakeProjectWizard.topPanel/0.0.1536.824@0.0.1536.824" timestamp="1590431054561" />
+    <state x="465" y="236" key="com.intellij.ide.util.TipDialog" timestamp="1592572104998">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="465" y="236" key="com.intellij.ide.util.TipDialog/0.0.1536.824@0.0.1536.824" timestamp="1592572104998" />
+    <state x="330" y="148" key="com.intellij.xdebugger.impl.breakpoints.ui.BreakpointsDialogFactory$2" timestamp="1590922915427">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="330" y="148" key="com.intellij.xdebugger.impl.breakpoints.ui.BreakpointsDialogFactory$2/0.0.1536.824@0.0.1536.824" timestamp="1590922915427" />
+    <state x="425" y="187" key="run.anything.popup" timestamp="1591811263295">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="425" y="187" key="run.anything.popup/0.0.1536.824@0.0.1536.824" timestamp="1591811263295" />
+  </component>
+</project>

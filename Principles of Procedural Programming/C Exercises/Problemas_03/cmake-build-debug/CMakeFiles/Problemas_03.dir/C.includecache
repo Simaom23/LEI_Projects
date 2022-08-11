@@ -1,0 +1,40 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/cygdrive/c/ProgramasPPP/Problemas_03/main.c
+stdio.h
+-
+string.h
+-
+stdio.h
+-
+stdlib.h
+-
+stdio.h
+-
+stdlib.h
+-
+ctype.h
+-
+stdio.h
+-
+ctype.h
+-
+string.h
+-
+stdlib.h
+-
+stdio.h
+-
+ctype.h
+-
+string.h
+-
+stdlib.h
+-
+

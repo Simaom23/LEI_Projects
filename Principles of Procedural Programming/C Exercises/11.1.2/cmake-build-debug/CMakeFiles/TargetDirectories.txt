@@ -1,0 +1,3 @@
+/cygdrive/c/ProgramasPPP/11.1.2/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/cygdrive/c/ProgramasPPP/11.1.2/cmake-build-debug/CMakeFiles/11_1_2.dir
+/cygdrive/c/ProgramasPPP/11.1.2/cmake-build-debug/CMakeFiles/edit_cache.dir

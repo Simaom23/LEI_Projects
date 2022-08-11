@@ -1,0 +1,1 @@
+/usr/bin/cc -g  -Wl,--enable-auto-import CMakeFiles/CRLF_to_LF.dir/main.c.o  -o CRLF_to_LF.exe -Wl,--out-implib,libCRLF_to_LF.dll.a -Wl,--major-image-version,0,--minor-image-version,0 

@@ -1,0 +1,47 @@
+As seguintes Identidades têm quotas em atraso [Identidade] [Quotas em atraso]:
+Núria Sousa Cunha	22€
+Antónia Gomes Ribeiro	6€
+Bruna Almeida Castro	21€
+Nocas Cardoso Costa	21€
+Dimitri Palerma	30€
+John M. Marrs	3€
+Hannah R. Parris	28€
+Beatrice R. Carpenter	6€
+Priscilla C. Peters	31€
+Ander A. Rosen	10€
+Doyle M. Seal	15€
+Gabriela B. Durham	18€
+Ethan M. Kennon	45€
+Michelle P. Conley	22€
+Simon T. Ouellette	11€
+Jake K. Fleming	32€
+Bruna Cavalcanti Alves	14€
+Rafaela Dias Sousa	24€
+Tim Frei	36€
+弘中 翔太	30€
+Meikitatakikarin	15€
+Leonti Ignatiev	42€
+Sundus Huriyyah Ghanem	12€
+Najeeba Kawakib Asker	47€
+Abdul-Muttalib Sadaqat Masih	23€
+Demetrio Palerma	30€
+Jason M. Marrs	3€
+Lita R. Parris	28€
+Joyce R. Carpenter	6€
+Priscilla C. Peters	31€
+Abby A. Rosen	10€
+David M. Seal	15€
+Gabriel B. Durham	18€
+Edith M. Kennon	45€
+Michael P. Conley	22€
+Shemeka T. Ouellette	11€
+John K. Fleming	32€
+Beatriz Cavalcanti Alves	14€
+Melissa Dias Sousa	24€
+Tiago da Silva Gomes	20€
+Eduarda Ribeiro Barbosa	40€
+Martim Gomes Pinto	35€
+Nicole Sousa Cunha	22€
+António Gomes Ribeiro	6€
+Beatriz Almeida Castro	21€
+Nicole Cardoso Costa	21€

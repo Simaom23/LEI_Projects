@@ -1,0 +1,34 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/cygdrive/c/ProgramasPPP/Projeto_PPP/create_bin_file/get_one_line.c
+stdio.h
+-
+ctype.h
+-
+string.h
+-
+stdlib.h
+-
+get_one_line.h
+/cygdrive/c/ProgramasPPP/Projeto_PPP/create_bin_file/get_one_line.h
+
+/cygdrive/c/ProgramasPPP/Projeto_PPP/create_bin_file/get_one_line.h
+
+/cygdrive/c/ProgramasPPP/Projeto_PPP/create_bin_file/main.c
+stdio.h
+-
+ctype.h
+-
+string.h
+-
+stdlib.h
+-
+get_one_line.h
+/cygdrive/c/ProgramasPPP/Projeto_PPP/create_bin_file/get_one_line.h
+

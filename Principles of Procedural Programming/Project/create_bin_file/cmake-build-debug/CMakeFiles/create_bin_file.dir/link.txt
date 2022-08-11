@@ -1,0 +1,1 @@
+/usr/bin/cc -Wall -Wextra -g  -Wl,--enable-auto-import CMakeFiles/create_bin_file.dir/get_one_line.c.o CMakeFiles/create_bin_file.dir/main.c.o  -o create_bin_file.exe -Wl,--out-implib,libcreate_bin_file.dll.a -Wl,--major-image-version,0,--minor-image-version,0 

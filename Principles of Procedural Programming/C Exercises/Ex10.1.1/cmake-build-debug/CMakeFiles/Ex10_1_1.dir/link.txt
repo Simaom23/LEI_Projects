@@ -1,0 +1,1 @@
+/usr/bin/cc -Wall -Wextra -g  -Wl,--enable-auto-import CMakeFiles/Ex10_1_1.dir/main.c.o  -o Ex10_1_1.exe -Wl,--out-implib,libEx10_1_1.dll.a -Wl,--major-image-version,0,--minor-image-version,0 

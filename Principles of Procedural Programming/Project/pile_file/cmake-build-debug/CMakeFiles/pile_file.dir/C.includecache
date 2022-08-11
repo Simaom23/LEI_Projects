@@ -1,0 +1,22 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/cygdrive/c/ProgramasPPP/Projeto_PPP/pile_file/main.c
+stdio.h
+-
+ctype.h
+-
+string.h
+-
+stdlib.h
+-
+pilha.h
+/cygdrive/c/ProgramasPPP/Projeto_PPP/pile_file/pilha.h
+
+/cygdrive/c/ProgramasPPP/Projeto_PPP/pile_file/pilha.h
+

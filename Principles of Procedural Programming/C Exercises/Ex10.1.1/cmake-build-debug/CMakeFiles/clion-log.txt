@@ -1,0 +1,4 @@
+c:\.CLion2019.3\system\cygwin_cmake\bin\cmake.exe -DCMAKE_BUILD_TYPE=Debug -G "CodeBlocks - Unix Makefiles" /cygdrive/c/ProgramasPPP/Ex10.1.1
+-- Configuring done
+-- Generating done
+-- Build files have been written to: /cygdrive/c/ProgramasPPP/Ex10.1.1/cmake-build-debug

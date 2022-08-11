@@ -1,0 +1,1 @@
+/usr/bin/cc -g  -Wl,--enable-auto-import CMakeFiles/Ex_11_2_11.dir/main.c.o  -o Ex_11_2_11.exe -Wl,--out-implib,libEx_11_2_11.dll.a -Wl,--major-image-version,0,--minor-image-version,0 

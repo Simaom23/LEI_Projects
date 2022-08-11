@@ -1,0 +1,3 @@
+/cygdrive/c/ProgramasPPP/CRLF_to_LF/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/cygdrive/c/ProgramasPPP/CRLF_to_LF/cmake-build-debug/CMakeFiles/CRLF_to_LF.dir
+/cygdrive/c/ProgramasPPP/CRLF_to_LF/cmake-build-debug/CMakeFiles/edit_cache.dir

@@ -1,0 +1,1 @@
+/usr/bin/cc -Wall -Wextra -g  -Wl,--enable-auto-import CMakeFiles/11_1_2.dir/main.c.o  -o 11_1_2.exe -Wl,--out-implib,lib11_1_2.dll.a -Wl,--major-image-version,0,--minor-image-version,0 

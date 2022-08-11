@@ -1,0 +1,1 @@
+/usr/bin/cc -g  -Wl,--enable-auto-import CMakeFiles/Exercicios.dir/main.c.o  -o Exercicios.exe -Wl,--out-implib,libExercicios.dll.a -Wl,--major-image-version,0,--minor-image-version,0 
